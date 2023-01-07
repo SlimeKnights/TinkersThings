@@ -2,6 +2,8 @@
   "itemGroup.tinkers_things.tinkers_things": "Tinkers' Things",
   
   "item.tinkers_things.chisel": "Tinker's Chisel",
+  "item.tinkers_things.halberd": "Halberd",
+  "item.tinkers_things.halberd.description": "The Halberd is a reach weapon designed for dealing powerful blows to far away opponents.",
   
   "modifier.tinkers_things.fortified": "Fortified",
   "modifier.tinkers_things.fortified.flavor": "Tough as Copper",

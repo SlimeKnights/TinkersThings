@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "parts": [
+    { "path": "tinkers_things:item/tool/halberd/blade",        "statType": "tconstruct:head" },
+    { "path": "tinkers_things:item/tool/halberd/broken_blade", "statType": "tconstruct:head" },
+    { "path": "tinkers_things:item/tool/halberd/spike",        "statType": "tconstruct:head" },
+    { "path": "tinkers_things:item/tool/halberd/broken_spike", "statType": "tconstruct:head" },
+    { "path": "tinkers_things:item/tool/halberd/handle",       "statType": "tconstruct:handle" },
+    { "path": "tinkers_things:item/tool/halberd/grip",         "statType": "tconstruct:extra" },
+    
+    { "path": "tinkers_things:item/tool/halberd/large/blade",        "statType": "tconstruct:head" },
+    { "path": "tinkers_things:item/tool/halberd/large/broken_blade", "statType": "tconstruct:head" },
+    { "path": "tinkers_things:item/tool/halberd/large/spike",        "statType": "tconstruct:head" },
+    { "path": "tinkers_things:item/tool/halberd/large/broken_spike", "statType": "tconstruct:head" },
+    { "path": "tinkers_things:item/tool/halberd/large/handle",       "statType": "tconstruct:handle" },
+    { "path": "tinkers_things:item/tool/halberd/large/grip",         "statType": "tconstruct:extra" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "blade":        "tinkers_things:item/tool/halberd/blade",
+    "broken_blade": "tinkers_things:item/tool/halberd/broken_blade",
+    "handle":       "tinkers_things:item/tool/halberd/handle",
+    "spike":        "tinkers_things:item/tool/halberd/spike",
+    "broken_spike": "tinkers_things:item/tool/halberd/broken_spike",
+    "grip":         "tinkers_things:item/tool/halberd/grip",
+    
+    "large_blade":        "tinkers_things:item/tool/halberd/large/blade",
+    "large_broken_blade": "tinkers_things:item/tool/halberd/large/broken_blade",
+    "large_handle":       "tinkers_things:item/tool/halberd/large/handle",
+    "large_spike":        "tinkers_things:item/tool/halberd/large/spike",
+    "large_broken_spike": "tinkers_things:item/tool/halberd/large/broken_spike",
+    "large_grip":         "tinkers_things:item/tool/halberd/large/grip"
+  },
+  "large": true,
+  "large_offset": [-4, 4],
+  "parts": [
+    { "name": "spike",  "index": 2, "broken": "broken_spike" },
+    { "name": "blade",  "index": 0, "broken": "broken_blade" },
+    { "name": "handle", "index": 1 },
+    { "name": "grip",   "index": 3 }
+  ]
+}
