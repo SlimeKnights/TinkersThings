@@ -1,5 +1,5 @@
 {
-  "type": "tconstruct:crafting_modifier_repair",
+  "type": "tconstruct:modifier_repair",
   "modifier": "tinkers_things:fortified",
   "ingredient": {
     "type": "tconstruct:material",
