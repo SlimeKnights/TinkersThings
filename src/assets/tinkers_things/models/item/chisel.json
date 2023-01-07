@@ -1,0 +1,10 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default",
+  "textures": {
+    "tool":   "tinkers_things:item/tool/chisel/tool",
+    "broken": "tinkers_things:item/tool/chisel/broken"
+  },
+  "modifier_roots": [ "tinkers_things:item/tool/chisel/modifiers/" ],
+  "first_modifiers": [ "tinkers_things:fortified", "tinkers_things:ornate" ]
+}

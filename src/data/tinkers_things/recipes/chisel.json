@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "f",
+    "s"
+  ],
+  "key": {
+    "s": { "tag": "forge:rods/wooden" },
+    "f": { "item": "minecraft:flint" }
+  },
+  "result": {
+    "item": "tinkers_things:chisel"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "itemGroup.tinkers_things.tinkers_things": "Tinkers' Things",
+  
+  "item.tinkers_things.chisel": "Tinker's Chisel",
+  
+  "modifier.tinkers_things.fortified": "Fortified",
+  "modifier.tinkers_things.fortified.flavor": "Tough as Copper",
+  "modifier.tinkers_things.fortified.description": "Tool has boosted stats, mining level, and can be repaired with copper",
+  
+  "modifier.tinkers_things.ornate": "Ornate",
+  "modifier.tinkers_things.ornate.flavor": "Pretty as Gold",
+  "modifier.tinkers_things.ornate.description": "Tool gains an additional upgrade slot",
+  "modifier.tinkers_things.ornate.requirements": "Ornate requires fortified to be applied first"
+}

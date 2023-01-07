@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "base": {
+      "tconstruct:durability": 100,
+      "tconstruct:attack_damage": 1,
+      "tconstruct:attack_speed": 1.75,
+      "tconstruct:mining_speed": 3,
+      "tconstruct:harvest_tier": "minecraft:stone"
+    },
+    "multipliers": {
+      "tconstruct:attack_damage": 0.75,
+      "tconstruct:durability": 0.75
+    }
+  },
+  "slots": { "upgrades": 4, "abilities": 1 },
+  "traits": [{ "name": "tconstruct:exchanging", "level": 1 }],
+  "actions": [ "pickaxe_dig" ],
+  "harvest": {
+    "logic": {
+      "type": "tconstruct:effective_tag",
+      "effective": "minecraft:mineable/pickaxe"
+    },
+    "aoe": {
+      "type": "tconstruct:circle",
+      "diameter": 1,
+      "3D": false
+    }
+  }
+}

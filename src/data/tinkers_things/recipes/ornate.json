@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    { "tag": "forge:ingots/rose_gold" }
+  ],
+  "tools": { "item": "tinkers_things:chisel" },
+  "allow_crystal": true,
+  "result": { "name": "tinkers_things:ornate", "level": 1 },
+  "max_level": 1,
+  "requirements": {
+    "name": "tinkers_things:fortified",
+    "level": 1,
+    "error": "modifier.tinkers_things.ornate.requirements"
+  }
+}

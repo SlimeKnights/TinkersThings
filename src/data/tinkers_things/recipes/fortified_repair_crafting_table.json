@@ -1,0 +1,8 @@
+{
+  "type": "tconstruct:crafting_modifier_repair",
+  "modifier": "tinkers_things:fortified",
+  "ingredient": {
+    "tag": "forge:ingots/copper"
+  },
+  "repair_amount": 70
+}
