@@ -12,5 +12,38 @@
   "modifier.tinkers_things.ornate": "Ornate",
   "modifier.tinkers_things.ornate.flavor": "Pretty as Gold",
   "modifier.tinkers_things.ornate.description": "Tool gains an additional upgrade slot",
-  "modifier.tinkers_things.ornate.requirements": "Ornate requires fortified to be applied first"
+  "modifier.tinkers_things.ornate.requirements": "Ornate requires fortified to be applied first",
+  
+  
+  "block.tinkers_things.hematite_block": "Hematite Block",
+  "item.tinkers_things.hematite": "Hematite",
+  "stat.tconstruct.harvest_tier.tinkers_things.hematite": "Hematite",
+  
+  "block.tinkers_things.molten_hematite": "Molten Hematite",
+  "fluid.tinkers_things.molten_hematite": "Molten Hematite",
+  "fluid.tinkers_things.molten_hematite_flowing": "Flowing Molten Hematite",
+  "item.tinkers_things.molten_hematite_bucket": "Molten Hematite Bucket",
+
+  "material.tinkers_things.hematite": "Hematite",
+  "material.tinkers_things.hematite.flavor": "Bloodstone, thought a myth by many and feared by more",
+  "material.tinkers_things.hematite.encyclopedia": "Grants two additional upgrade slots, at the cost of damage and mining speed against those without blood",
+
+  "material.tinkers_things.veinline": "Veinline",
+  "material.tinkers_things.veinline.flavor": "The blood continues to flow",
+  "material.tinkers_things.veinline.ranged": "Grants an additional upgrade slot at the cost of accuracy",
+  
+  "modifier.tinkers_things.hemodynamic": "Hemodynamic",
+  "modifier.tinkers_things.hemodynamic.flavor": "The blood moves",
+  "modifier.tinkers_things.hemodynamic.description": "Tool gains an additional upgrade slot, but at what cost?",
+  "modifier.tinkers_things.hemophilic": "Hemophilic",
+  "modifier.tinkers_things.hemophilic.flavor": "Without blood to clot",
+  "modifier.tinkers_things.hemophilic.description": "Tool does less damage against undead",
+  "modifier.tinkers_things.hemophilic.attack_damage": "Undead Damage",
+  "modifier.tinkers_things.hemotoxins": "Hemotoxins",
+  "modifier.tinkers_things.hemotoxins.flavor": "The blood hurts",
+  "modifier.tinkers_things.hemotoxins.description": "Tool is less effective against ores, logs, and dirt",
+  "modifier.tinkers_things.hemotoxins.mining_speed": "Hemotoxin Speed",
+  "modifier.tinkers_things.hemophobic": "Hemophobic",
+  "modifier.tinkers_things.hemophobic.flavor": "Fear of the red liquid",
+  "modifier.tinkers_things.hemophobic.description": "Projectiles are less accurate"
 }

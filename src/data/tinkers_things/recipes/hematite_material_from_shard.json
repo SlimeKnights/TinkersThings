@@ -1,0 +1,7 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": { "item": "tinkers_things:hematite" },
+  "value": 1,
+  "needed": 2,
+  "material": "tinkers_things:hematite"
+}

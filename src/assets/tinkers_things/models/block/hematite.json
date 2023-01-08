@@ -1,0 +1,10 @@
+{
+	"loader": "mantle:colored_block",
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "tinkers_things:block/hematite_top",
+        "top":    "tinkers_things:block/hematite_top",
+        "side":   "tinkers_things:block/hematite"
+    },
+	"colors": [{ "luminosity": 6 }]
+}

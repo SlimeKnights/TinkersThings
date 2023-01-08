@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tconstruct:cobalt_ingot",
+  "ingredients": [{ "item": "tinkers_things:hematite_block" }],
+  "result": {
+    "item": "tinkers_things:hematite",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "plain",
+  "material": "metal",
+  "map_color": "COLOR_RED",
+  "requires_tool_for_drops": true,
+  "explosion_resistance": 1200,
+  "destroy_time": 50,
+  "sound_type": "minecraft:ancient_debris",
+  "item": {
+    "group": "tinkers_things:tinkers_things"
+  }  
+}

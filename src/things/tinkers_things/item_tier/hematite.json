@@ -1,0 +1,10 @@
+{
+  "uses": 1111,
+  "speed": 7,
+  "attack_damage_bonus": 3,
+  "enchantment_value": 1,
+  "tag": "tinkers_things:needs_hematite_tool",
+  "repair_ingredient": { "item": "tinkers_things:hematite" },
+  "sort_after": ["minecraft:diamond"],
+  "sort_before": ["minecraft:netherite"]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    { "tag": "tconstruct:blood",           "amount":  250 },
+    { "tag": "tconstruct:molten_debris",   "amount":   90 },
+    { "tag": "tconstruct:molten_obsidian", "amount":  250 }
+  ],
+  "result": {
+    "fluid": "tinkers_things:molten_hematite",
+    "amount": 100
+  },
+  "temperature": 1250
+}

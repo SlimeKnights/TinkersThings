@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "name": "tinkers_things:molten_hematite",
+    "amount": 900
+  },
+  "result": "tinkers_things:hematite_block",
+  "cooling_time": 800
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "tinkers_things:hematite_block" },
+  "result": {
+    "fluid": "tinkers_things:molten_hematite",
+    "amount": 900
+  },
+  "temperature": 1250,
+  "time": 800
+}

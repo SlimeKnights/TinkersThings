@@ -1,0 +1,17 @@
+{
+  "type": "flowing",
+  "bucket": {
+    "group": "tinkers_things:tinkers_things"
+  },
+  "block": true,
+  "still_texture": "tconstruct:block/fluid/molten/still",
+  "flowing_texture": "tconstruct:block/fluid/molten/flowing",
+  "color": [80,0,0],
+  "density": 2000,
+  "luminosity": 6,
+  "temperature": 1550,
+  "viscosity": 10000,
+  "gaseous": false,
+  "fill_sound": "item.bucket.fill_lava",
+  "empty_sound": "item.bucket.empty_lava"
+}

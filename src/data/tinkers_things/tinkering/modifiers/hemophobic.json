@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:stat_boost",
+  "level_display": "tconstruct:single_level",
+  "rarity": "uncommon",
+  "stats": [{
+    "stat": "tconstruct:accuracy",
+    "type": "add",
+    "value": -0.15
+  }]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:conditional_mining_speed",
+  "blocks": {
+    "type": "tconstruct:tag",
+    "tag": "tinkers_things:hemotoxin_blocks"
+  },
+  "require_effective": true,
+  "bonus": -6
+}
