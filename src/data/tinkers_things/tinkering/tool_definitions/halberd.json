@@ -8,7 +8,7 @@
   "stats": {
     "base": {
       "tconstruct:attack_damage": 5.0,
-      "tconstruct:attack_speed": 1.1
+      "tconstruct:attack_speed": 0.8
     },
     "multipliers": {
       "tconstruct:attack_damage": 1.25,

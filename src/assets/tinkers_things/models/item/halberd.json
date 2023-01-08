@@ -17,7 +17,7 @@
     "large_grip":         "tinkers_things:item/tool/halberd/large/grip"
   },
   "large": true,
-  "large_offset": [-4, 4],
+  "large_offset": [4, -4],
   "parts": [
     { "name": "spike",  "index": 2, "broken": "broken_spike" },
     { "name": "blade",  "index": 0, "broken": "broken_blade" },
