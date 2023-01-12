@@ -1,0 +1,16 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "tconstruct:item/base/bow",
+  "textures": {
+    "limb_bottom": "tinkers_things:item/tool/shortbow/limb_bottom_2",
+    "limb_top":    "tinkers_things:item/tool/shortbow/limb_top_2",
+    "bowstring":   "tinkers_things:item/tool/shortbow/bowstring_2",
+    "arrow":       "tconstruct:item/tool/longbow/arrow_2"
+  },
+  "parts": [
+    { "name": "limb_bottom", "index": 0 },
+    { "name": "limb_top",    "index": 1 },
+    { "name": "bowstring",   "index": 2 },
+    { "name": "arrow" }
+  ]
+}

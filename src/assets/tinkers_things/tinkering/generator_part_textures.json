@@ -13,6 +13,18 @@
     { "path": "tinkers_things:item/tool/halberd/large/spike",        "statType": "tconstruct:head" },
     { "path": "tinkers_things:item/tool/halberd/large/broken_spike", "statType": "tconstruct:head" },
     { "path": "tinkers_things:item/tool/halberd/large/handle",       "statType": "tconstruct:handle" },
-    { "path": "tinkers_things:item/tool/halberd/large/grip",         "statType": "tconstruct:extra" }
+    { "path": "tinkers_things:item/tool/halberd/large/grip",         "statType": "tconstruct:extra" },
+    
+    { "path": "tinkers_things:item/tool/shortbow/bowstring",        "statType": "tconstruct:bowstring" },
+    { "path": "tinkers_things:item/tool/shortbow/bowstring_1",      "statType": "tconstruct:bowstring" },
+    { "path": "tinkers_things:item/tool/shortbow/bowstring_2",      "statType": "tconstruct:bowstring" },
+    { "path": "tinkers_things:item/tool/shortbow/bowstring_3",      "statType": "tconstruct:bowstring" },
+    { "path": "tinkers_things:item/tool/shortbow/broken_bowstring", "statType": "tconstruct:bowstring" },
+    { "path": "tinkers_things:item/tool/shortbow/limb_bottom",   "statType": "tconstruct:limb" },
+    { "path": "tinkers_things:item/tool/shortbow/limb_bottom_2", "statType": "tconstruct:limb" },
+    { "path": "tinkers_things:item/tool/shortbow/limb_bottom_3", "statType": "tconstruct:limb" },
+    { "path": "tinkers_things:item/tool/shortbow/limb_top",      "statType": "tconstruct:limb" },
+    { "path": "tinkers_things:item/tool/shortbow/limb_top_2",    "statType": "tconstruct:limb" },
+    { "path": "tinkers_things:item/tool/shortbow/limb_top_3",    "statType": "tconstruct:limb" }
   ]
 }

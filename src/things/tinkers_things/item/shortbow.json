@@ -1,0 +1,6 @@
+{
+  "type": "tconstruct:bow",
+  "stat_provider": "tconstruct:ranged",
+  "group": "tinkers_things:tinkers_things",
+  "color_handler": "tconstruct:tool"
+}
