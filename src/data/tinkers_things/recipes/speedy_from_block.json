@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:incremental_modifier",
+  "input": { "tag": "forge:storage_blocks/redstone" },
+  "amount_per_item": 9,
+  "needed_per_level": 45,
+  "leftover": "minecraft:redstone",
+  "tools": { "item": "tinkers_things:halberd" },
+  "slots": { "upgrades": 1 },
+  "allow_crystal": false,
+  "result": {
+    "name": "tconstruct:speedy",
+    "level": 1
+  },
+  "max_level": 3
+}
