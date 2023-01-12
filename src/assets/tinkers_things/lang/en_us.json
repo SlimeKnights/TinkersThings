@@ -2,6 +2,10 @@
   "itemGroup.tinkers_things.tinkers_things": "Tinkers' Things",
   
   "item.tinkers_things.chisel": "Tinker's Chisel",
+  
+  "item.tinkers_things.shovel": "Shovel",
+  "item.tinkers_things.shovel.description": "The Shovel is a basic digging tool. It sends monsters flying and has more space for upgrades.",
+  
   "item.tinkers_things.halberd": "Halberd",
   "item.tinkers_things.halberd.description": "The Halberd is a reach weapon designed for dealing powerful blows to far away opponents.",
   

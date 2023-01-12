@@ -1,6 +1,10 @@
 {
   "replace": false,
   "parts": [
+    { "path": "tinkers_things:item/tool/shovel/head",        "statType": "tconstruct:head" },
+    { "path": "tinkers_things:item/tool/shovel/broken_head", "statType": "tconstruct:head" },
+    { "path": "tinkers_things:item/tool/shovel/handle",      "statType": "tconstruct:handle" },
+    
     { "path": "tinkers_things:item/tool/halberd/blade",        "statType": "tconstruct:head" },
     { "path": "tinkers_things:item/tool/halberd/broken_blade", "statType": "tconstruct:head" },
     { "path": "tinkers_things:item/tool/halberd/spike",        "statType": "tconstruct:head" },

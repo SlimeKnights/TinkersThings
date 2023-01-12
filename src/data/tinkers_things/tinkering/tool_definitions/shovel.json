@@ -1,0 +1,32 @@
+{
+  "parts": [
+    { "item": "tconstruct:round_plate" },
+    { "item": "tconstruct:tool_handle" }
+  ],
+  "stats": {
+    "base": {
+      "tconstruct:attack_damage": 1.5,
+      "tconstruct:attack_speed": 1
+    }
+  },
+  "slots": {
+    "upgrades": 5,
+    "abilities": 1
+  },
+  "traits": [
+    { "name": "tconstruct:knockback", "level": 1 },
+    { "name": "tconstruct:pathing",   "level": 1 }
+  ],
+  "actions": [ "shovel_dig" ],
+  "harvest": {
+    "logic": {
+      "type": "tconstruct:effective_tag",
+      "effective": "minecraft:mineable/shovel"
+    },
+    "aoe": {
+      "type": "tconstruct:circle",
+      "diameter": 1,
+      "3D": false
+    }
+  }
+}
