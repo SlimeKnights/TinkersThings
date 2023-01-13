@@ -1,4 +1,9 @@
 {
   "tinkers_things:fortified": "tinkers_things:item/tool/chisel/modifiers/tinkers_things_fortified",
-  "tinkers_things:ornate":    "tinkers_things:item/tool/chisel/modifiers/tinkers_things_ornate"
+  "tinkers_things:ornate":    "tinkers_things:item/tool/chisel/modifiers/tinkers_things_ornate",
+  
+  "tinkers_things:blinding": "tinkers_things:gui/modifiers/blinding",
+  "tinkers_things:tracing":  "tinkers_things:gui/modifiers/tracing",
+  "tinkers_things:venom":    "tinkers_things:gui/modifiers/venom",
+  "tinkers_things:weakness": "tinkers_things:gui/modifiers/weakness"
 }

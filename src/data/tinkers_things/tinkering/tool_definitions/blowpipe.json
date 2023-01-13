@@ -1,0 +1,15 @@
+{
+  "stats": {
+    "base": {
+      "tconstruct:durability": 140,
+      "tconstruct:velocity": 0.5,
+      "tconstruct:draw_speed": 2.0,
+      "tconstruct:accuracy": 0.9,
+      "tconstruct:projectile_damage": 1.5
+    }
+  },
+  "slots": {
+    "upgrades": 5,
+    "abilities": 1
+  }
+}

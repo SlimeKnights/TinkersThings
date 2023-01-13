@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:incremental_modifier",
+  "input":  { "item": "tconstruct:venom_bottle" },
+  "amount_per_item": 1,
+  "needed_per_level": 5,
+  "tools": { "item": "tinkers_things:blowpipe" },
+  "allow_crystal": true,
+  "result": { "name": "tinkers_things:venom", "level": 1 },
+  "max_level": 5,
+  "slots": { "upgrades": 1 }
+}

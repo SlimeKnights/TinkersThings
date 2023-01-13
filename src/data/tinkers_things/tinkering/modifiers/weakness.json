@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:mob_effect",
+  "effect": "minecraft:weakness",
+  "level": {
+    "base": 1,
+    "multiplier": 0
+  },
+  "time": {
+    "base": 60,
+    "multiplier_flat": 20,
+    "multiplier_random": 40
+  }
+}

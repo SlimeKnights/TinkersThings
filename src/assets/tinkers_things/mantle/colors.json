@@ -3,6 +3,11 @@
     "fortified": "#E77C56",
     "ornate":    "#F7CDBB",
     
+    "blinding": "#506B68",
+    "tracing":  "#F9FBCB",
+    "venom":    "#64A63A",
+    "weakness": "#7F0000",
+    
     "hemodynamic": "#842F00",
     "hemophilic":  "#842F00",
     "hemotoxins":  "#842F00",

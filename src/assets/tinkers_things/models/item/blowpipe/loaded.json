@@ -1,0 +1,10 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "tconstruct:item/base/crossbow",
+  "textures": {
+    "tool":   "tinkers_things:item/tool/blowpipe/loaded"
+  },
+  "parts": [
+    { "name": "tool" }
+  ]
+}

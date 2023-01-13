@@ -1,0 +1,7 @@
+{
+  "type": "tconstruct:specialized_repair_kit",
+  "tool": {
+    "item": "tinkers_things:blowpipe"
+  },
+  "repair_material": "tconstruct:bamboo"
+}

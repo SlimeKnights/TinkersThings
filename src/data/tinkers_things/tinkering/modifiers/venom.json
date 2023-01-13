@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:mob_effect",
+  "effect": "minecraft:poison",
+  "level": {
+    "base": 0,
+    "multiplier": 0.5
+  },
+  "time": {
+    "base": 100,
+    "multiplier_random": 50
+  }
+}

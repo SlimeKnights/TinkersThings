@@ -1,0 +1,29 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "tconstruct:item/base/crossbow",
+  "textures": {
+    "tool":   "tinkers_things:item/tool/blowpipe/tool",
+    "broken": "tinkers_things:item/tool/blowpipe/broken"
+  },
+  "parts": [
+    { "name": "tool", "broken": "broken" }
+  ],
+  "overrides": [
+    {
+      "predicate": { "pulling": 1 },
+      "model": "tinkers_things:item/blowpipe/loading_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.58 },
+      "model": "tinkers_things:item/blowpipe/loading_2"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 1.0 },
+      "model": "tinkers_things:item/blowpipe/loaded"
+    },
+    {
+      "predicate": { "tconstruct:ammo": 1 },
+      "model": "tinkers_things:item/blowpipe/loaded"
+    }
+  ]
+}

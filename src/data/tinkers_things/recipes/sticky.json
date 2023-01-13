@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:incremental_modifier",
+  "input":  { "item": "minecraft:cobweb" },
+  "amount_per_item": 1,
+  "needed_per_level": 5,
+  "tools": { "item": "tinkers_things:blowpipe" },
+  "allow_crystal": true,
+  "result": { "name": "tinkers_things:sticky", "level": 1 },
+  "max_level": 4,
+  "slots": { "upgrades": 1 }
+}

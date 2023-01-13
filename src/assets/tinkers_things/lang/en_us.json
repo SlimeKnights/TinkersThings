@@ -2,6 +2,7 @@
   "itemGroup.tinkers_things.tinkers_things": "Tinkers' Things",
   
   "item.tinkers_things.chisel": "Tinker's Chisel",
+  "item.tinkers_things.blowpipe": "Blowpipe",
   
   "item.tinkers_things.shovel": "Shovel",
   "item.tinkers_things.shovel.description": "The Shovel is a basic digging tool. It sends monsters flying and has more space for upgrades.",
@@ -27,6 +28,23 @@
   "modifier.tinkers_things.ornate.flavor": "Pretty as Gold",
   "modifier.tinkers_things.ornate.description": "Tool gains an additional upgrade slot",
   "modifier.tinkers_things.ornate.requirements": "Ornate requires fortified to be applied first",
+  
+  
+  "modifier.tinkers_things.blinding": "Blinding",
+  "modifier.tinkers_things.blinding.flavor": "Right in the eye",
+  "modifier.tinkers_things.blinding.description": "Arrows cause the target to be temporarily blinded",
+  
+  "modifier.tinkers_things.tracing": "Tracing",
+  "modifier.tinkers_things.tracing.flavor": "Totally not glowing",
+  "modifier.tinkers_things.tracing.description": "Target will glow for a few seconds, making them easier to track",
+  
+  "modifier.tinkers_things.venom": "Venom",
+  "modifier.tinkers_things.venom.flavor": "Revenge of the spider",
+  "modifier.tinkers_things.venom.description": "Target will be poisoned, causing damage over time",
+  
+  "modifier.tinkers_things.weakness": "Weakness",
+  "modifier.tinkers_things.weakness.flavor": "Dizziness in an arrow",
+  "modifier.tinkers_things.weakness.description": "Target will be temporarily weakened, reducing attack damage",
   
   
   "block.tinkers_things.hematite_block": "Hematite Block",

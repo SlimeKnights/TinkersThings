@@ -1,0 +1,7 @@
+{
+  "type": "tconstruct:crossbow",
+  "stat_provider": "tconstruct:no_parts",
+  "allow_fireworks": false,
+  "group": "tinkers_things:tinkers_things",
+  "color_handler": "tconstruct:tool"
+}

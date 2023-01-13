@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "tinkers_things:blowpipe",
     "tinkers_things:chisel",
     "tinkers_things:halberd",
     "tinkers_things:shortbow",
