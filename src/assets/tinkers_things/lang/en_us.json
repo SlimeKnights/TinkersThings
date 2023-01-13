@@ -12,6 +12,13 @@
   "item.tinkers_things.shortbow": "Shortbow",
   "item.tinkers_things.shortbow.description": "The Shortbow is a lightweight bow. It is not as strong or accurate as its ranged counterparts, but makes up for it in ease of drawing while moving.",
   
+  "pattern.tinkers_things.large_repair_kit": "Large Repair Kit",
+  "item.tinkers_things.large_repair_kit": "Large Repair Kit",
+  "item.tinkers_things.large_repair_kit_gold_cast": "Large Repair Kit Gold Cast",
+  "item.tinkers_things.large_repair_kit_sand_cast": "Large Repair Kit Sand Cast",
+  "item.tinkers_things.large_repair_kit_red_sand_cast": "Large Repair Kit Red Sand Cast",
+  
+  
   "modifier.tinkers_things.fortified": "Fortified",
   "modifier.tinkers_things.fortified.flavor": "Tough as Copper",
   "modifier.tinkers_things.fortified.description": "Tool has boosted stats, mining level, and can be repaired with copper",

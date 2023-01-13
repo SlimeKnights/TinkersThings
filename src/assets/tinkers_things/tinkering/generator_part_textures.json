@@ -1,6 +1,8 @@
 {
   "replace": false,
   "parts": [
+    { "path": "tinkers_things:item/tool/parts/large_repair_kit", "statType": "tconstruct:repair_kit" },
+    
     { "path": "tinkers_things:item/tool/shovel/head",        "statType": "tconstruct:head" },
     { "path": "tinkers_things:item/tool/shovel/broken_head", "statType": "tconstruct:head" },
     { "path": "tinkers_things:item/tool/shovel/handle",      "statType": "tconstruct:handle" },

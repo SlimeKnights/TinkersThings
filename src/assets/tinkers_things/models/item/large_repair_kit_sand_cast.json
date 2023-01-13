@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "tinkers_things:item/large_repair_kit_sand_cast"
+    }
+}

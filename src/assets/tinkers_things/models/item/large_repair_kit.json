@@ -1,0 +1,7 @@
+{
+  "loader": "tconstruct:material",
+  "parent": "forge:item/default",
+  "textures": {
+    "texture": "tinkers_things:item/tool/parts/large_repair_kit"
+  }
+}
