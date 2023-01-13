@@ -30,6 +30,11 @@
   "fluid.tinkers_things.molten_hematite": "Molten Hematite",
   "fluid.tinkers_things.molten_hematite_flowing": "Flowing Molten Hematite",
   "item.tinkers_things.molten_hematite_bucket": "Molten Hematite Bucket",
+  
+  "item.tinkers_things.laminar_helmet":     "Laminar Helmet",
+  "item.tinkers_things.laminar_chestplate": "Laminar Chestplate",
+  "item.tinkers_things.laminar_leggings":   "Laminar Leggings",
+  "item.tinkers_things.laminar_boots":      "Laminar Boots",
 
   "material.tinkers_things.hematite": "Hematite",
   "material.tinkers_things.hematite.flavor": "Bloodstone, thought a myth by many and feared by more",

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "mmm",
+    "m m",
+    "c c"
+  ],
+  "key": {
+    "m": { "tag": "forge:ingots/slimesteel" },
+    "c": { "tag": "minecraft:wool" }
+  },
+  "result": {
+    "item": "tinkers_things:laminar_leggings"
+  }
+}

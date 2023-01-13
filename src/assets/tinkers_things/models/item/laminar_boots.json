@@ -1,0 +1,10 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default",
+  "textures": {
+    "tool":   "tinkers_things:item/tool/laminar_armor/boots",
+    "broken": "tinkers_things:item/tool/laminar_armor/boots_broken"
+  },
+  "modifier_roots": [ "tinkers_things:item/tool/laminar_armor/boot_modifiers/" ],
+  "first_modifiers": [ "tconstruct:dyed", "tconstruct:embellishment", "tconstruct:golden" ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    { "tag": "tconstruct:greenheart_logs" },
+    { "item": "tconstruct:earth_slime_crystal" },
+    { "tag": "tconstruct:greenheart_logs" },
+    { "tag": "tconstruct:sky_slime_crystal" },
+    { "tag": "tconstruct:sky_slime_crystal" }
+  ],
+  "tools": [
+    { "item": "tinkers_things:laminar_helmet" },
+    { "item": "tinkers_things:laminar_chestplate" },
+    { "item": "tinkers_things:laminar_leggings" },
+    { "item": "tinkers_things:laminar_boots" }
+  ],
+  "slots": { "defense": 1 },
+  "allow_crystal": true,
+  "result": { "name": "tconstruct:overgrowth", "level": 1 }
+}

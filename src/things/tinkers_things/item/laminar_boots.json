@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:flat_embellished_armor",
+  "texture_name": "tinkers_things:laminar",
+  "default_material": "tconstruct:slimesteel",
+  "dyeable": true,
+  "slot": "boots",
+  "equip_sound": "item.armor.equip_generic",
+  "stat_provider": "tconstruct:no_parts",
+  "group": "tinkers_things:tinkers_things",
+  "color_handler": "tconstruct:tool"
+}
