@@ -1,4 +1,4 @@
 {
   "tinkers_things:fortified": "tconstruct:normal",
-  "tinkers_things:ornate":    "tconstruct:normal"
+  "tconstruct:enhanced":      "tconstruct:normal"
 }
