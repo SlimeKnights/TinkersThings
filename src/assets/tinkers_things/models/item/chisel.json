@@ -6,5 +6,5 @@
     "broken": "tinkers_things:item/tool/chisel/broken"
   },
   "modifier_roots": [ "tinkers_things:item/tool/chisel/modifiers/" ],
-  "first_modifiers": [ "tinkers_things:fortified", "tinkers_things:ornate" ]
+  "first_modifiers": [ "tinkers_things:fortified", "tconstruct:enhanced" ]
 }
