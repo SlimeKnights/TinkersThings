@@ -1,4 +1,4 @@
-# [Tinkers' Things](https://www.curseforge.com/minecraft/mc-mods/tinkers-json-things)
+# [Tinkers' Things](https://curseforge.com/minecraft/mc-mods/tinkers-things-json)
 Tinkers' Things is an addon for [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) that contains no Java code (if you do not believe me, check the GitHub source). This is made possible through the mod [Json Things](https://www.curseforge.com/minecraft/mc-mods/json-things), which allows you do add custom items, fluids, blocks, creative tabs, and harvest tiers through JSON files.
 
 This mod serves two purposes:
