@@ -59,7 +59,7 @@
 
   "material.tinkers_things.hematite": "Hematite",
   "material.tinkers_things.hematite.flavor": "Bloodstone, thought a myth by many and feared by more",
-  "material.tinkers_things.hematite.encyclopedia": "Grants two additional upgrade slots, at the cost of damage and mining speed against those without blood",
+  "material.tinkers_things.hematite.encyclopedia": "Grants two additional upgrade slots, at the cost of -3 undead damage and -6 mining speed against ores, logs, and dirt",
 
   "material.tinkers_things.veinline": "Veinline",
   "material.tinkers_things.veinline.flavor": "The blood continues to flow",
