@@ -54,4 +54,4 @@ For more info on custom Json Things content, see [the Tinkers' Construct wiki pa
 
 ## Installing
 
-To use this mod, you need at least [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) build 3.6.1 (unreleased at this time, will be released before this is submitted for review). You also need to install [Json Things](https://www.curseforge.com/minecraft/mc-mods/json-things), which is not currently on Modrinth. Assuming you have both, you can install this mod like any Java mod.
+To use this mod, you need at least [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) build 3.6.1. You also need to install [Json Things](https://www.curseforge.com/minecraft/mc-mods/json-things), which is not currently on Modrinth. Assuming you have both, you can install this mod like any Java mod.
