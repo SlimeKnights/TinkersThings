@@ -4,7 +4,7 @@ issueTrackerURL="https://github.com/SlimeKnights/TinkersThings/issues"
 license="MIT"
 [[mods]]
     modId="tinkers_things"
-    version="1.0.1"
+    version="1.0.2"
     displayName="Tinkers' Things"
     description='''
     A fully playable example Thing Pack for Tinkers' Construct. Includes example tools, weapon, and material.
