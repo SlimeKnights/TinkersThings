@@ -4,6 +4,9 @@
       "tconstruct:durability": 460,
       "tconstruct:armor": 7,
       "tconstruct:knockback_resistance": 0.2
+    },
+    "multipliers": {
+      "tconstruct:attack_damage": 0.5
     }
   },
   "traits": [
