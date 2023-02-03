@@ -7,6 +7,9 @@
     "venom":    "#64A63A",
     "weakness": "#7F0000",
     
+    "stowing": "#E8B3A0",
+    "pouch":   "#B79963",
+    
     "hemodynamic": "#842F00",
     "hemophilic":  "#842F00",
     "hemotoxins":  "#842F00",

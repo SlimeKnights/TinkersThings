@@ -13,6 +13,8 @@
   "item.tinkers_things.shortbow": "Shortbow",
   "item.tinkers_things.shortbow.description": "The Shortbow is a lightweight bow. It is not as strong or accurate as its ranged counterparts, but makes up for it in ease of drawing while moving.",
   
+  "item.tinkers_things.sack": "Silky Sack",
+  
   "pattern.tinkers_things.large_repair_kit": "Large Repair Kit",
   "item.tinkers_things.large_repair_kit": "Large Repair Kit",
   "item.tinkers_things.large_repair_kit_gold_cast": "Large Repair Kit Gold Cast",
@@ -41,6 +43,15 @@
   "modifier.tinkers_things.weakness": "Weakness",
   "modifier.tinkers_things.weakness.flavor": "Dizziness in an arrow",
   "modifier.tinkers_things.weakness.description": "Target will be temporarily weakened, reducing attack damage",
+  
+  
+  "modifier.tinkers_things.stowing": "Stowing",
+  "modifier.tinkers_things.stowing.flavor": "Holds a lot of stuff",
+  "modifier.tinkers_things.stowing.description": "Tool gains an additional 9 slots of storage",
+  
+  "modifier.tinkers_things.pouch": "Pouch",
+  "modifier.tinkers_things.pouch.flavor": "Holds a couple things",
+  "modifier.tinkers_things.pouch.description": "Tools gains an additional 3 slots of storage",
   
   
   "block.tinkers_things.hematite_block": "Hematite Block",

@@ -4,5 +4,8 @@
   "tinkers_things:blinding": "tinkers_things:gui/modifiers/blinding",
   "tinkers_things:tracing":  "tinkers_things:gui/modifiers/tracing",
   "tinkers_things:venom":    "tinkers_things:gui/modifiers/venom",
-  "tinkers_things:weakness": "tinkers_things:gui/modifiers/weakness"
+  "tinkers_things:weakness": "tinkers_things:gui/modifiers/weakness",
+  
+  "tinkers_things:stowing": "tinkers_things:gui/modifiers/stowing",
+  "tinkers_things:pouch":   "tinkers_things:gui/modifiers/pouch"
 }

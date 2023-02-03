@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sCs",
+    "C C",
+    "CCC"
+  ],
+  "key": {
+    "s": { "tag": "forge:string" },
+    "C": { "item": "tconstruct:silky_cloth" }
+  },
+  "result": {
+    "item": "tinkers_things:sack"
+  }
+}
