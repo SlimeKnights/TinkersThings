@@ -19,7 +19,7 @@
     "upgrades": 2,
     "abilities": 1
   },
-  "traits": [{ "name": "tconstruct:reach", "level": 2 }],
+  "traits": [{ "name": "tinkers_things:range", "level": 1 }],
   "actions": [ "shield_disable" ],
   "attack": {
     "type": "tconstruct:particle",
