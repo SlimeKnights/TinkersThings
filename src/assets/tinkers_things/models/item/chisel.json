@@ -6,5 +6,9 @@
     "broken": "tinkers_things:item/tool/chisel/broken"
   },
   "modifier_roots": [ "tinkers_things:item/tool/chisel/modifiers/" ],
-  "first_modifiers": [ "tinkers_things:fortified", "tconstruct:enhanced" ]
+  "first_modifiers": [ "tinkers_things:fortified", "tconstruct:enhanced" ],
+  "overrides": [{
+    "predicate": { "tconstruct:charging": 2 },
+    "model": "tinkers_things:item/blocking/chisel"
+  }]
 }

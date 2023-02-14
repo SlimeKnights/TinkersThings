@@ -23,5 +23,9 @@
     { "name": "blade",  "index": 0, "broken": "broken_blade" },
     { "name": "handle", "index": 1 },
     { "name": "grip",   "index": 3 }
-  ]
+  ],
+  "overrides": [{
+    "predicate": { "tconstruct:charging": 2 },
+    "model": "tinkers_things:item/blocking/halberd"
+  }]
 }
