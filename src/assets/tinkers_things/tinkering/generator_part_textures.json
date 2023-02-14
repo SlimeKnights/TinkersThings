@@ -33,15 +33,21 @@
     { "path": "tinkers_things:item/tool/shortbow/limb_top_2",    "statType": "tconstruct:limb" },
     { "path": "tinkers_things:item/tool/shortbow/limb_top_3",    "statType": "tconstruct:limb" },
     
-    { "path": "tinkers_things:item/tool/laminar_armor/boot_modifiers/tconstruct_embellishment",              "statType": "tconstruct:plate" },
-    { "path": "tinkers_things:item/tool/laminar_armor/boot_modifiers/tconstruct_embellishment_broken",       "statType": "tconstruct:plate" },
-    { "path": "tinkers_things:item/tool/laminar_armor/leggings_modifiers/tconstruct_embellishment",          "statType": "tconstruct:plate" },
-    { "path": "tinkers_things:item/tool/laminar_armor/leggings_modifiers/tconstruct_embellishment_broken",   "statType": "tconstruct:plate" },
-    { "path": "tinkers_things:item/tool/laminar_armor/chestplate_modifiers/tconstruct_embellishment",        "statType": "tconstruct:plate" },
-    { "path": "tinkers_things:item/tool/laminar_armor/chestplate_modifiers/tconstruct_embellishment_broken", "statType": "tconstruct:plate" },
-    { "path": "tinkers_things:item/tool/laminar_armor/helmet_modifiers/tconstruct_embellishment",            "statType": "tconstruct:plate" },
-    { "path": "tinkers_things:item/tool/laminar_armor/helmet_modifiers/tconstruct_embellishment_broken",     "statType": "tconstruct:plate" },
-    { "path": "tinkers_things:models/armor/laminar/layer_1",                                                 "statType": "tconstruct:plate" },
-    { "path": "tinkers_things:models/armor/laminar/layer_2",                                                 "statType": "tconstruct:plate" }
+    { "path": "tinkers_things:item/tool/laminar_armor/boot_modifiers/tconstruct_embellishment",                "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:item/tool/laminar_armor/boot_modifiers/tconstruct_embellishment_broken",         "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:item/tool/laminar_armor/leggings_modifiers/tconstruct_embellishment",            "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:item/tool/laminar_armor/leggings_modifiers/tconstruct_embellishment_broken",     "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:item/tool/laminar_armor/chestplate_modifiers/tconstruct_embellishment",          "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:item/tool/laminar_armor/chestplate_modifiers/tconstruct_embellishment_broken",   "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:item/tool/laminar_armor/helmet_modifiers/tconstruct_embellishment",              "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:item/tool/laminar_armor/helmet_modifiers/tconstruct_embellishment_broken",       "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:item/tool/laminar_armor/helmet_modifiers/tconstruct_embellishment",              "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:item/tool/laminar_armor/helmet_modifiers/tconstruct_embellishment_broken",       "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:item/tool/laminar_armor/shield_modifiers/tconstruct_embellishment",              "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:item/tool/laminar_armor/shield_modifiers/tconstruct_embellishment_broken",       "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:item/tool/laminar_armor/shield_large_modifiers/tconstruct_embellishment",        "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:item/tool/laminar_armor/shield_large_modifiers/tconstruct_embellishment_broken", "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:models/armor/laminar/layer_1",                                                   "statType": "tconstruct:plate" },
+    { "path": "tinkers_things:models/armor/laminar/layer_2",                                                   "statType": "tconstruct:plate" }
   ]
 }
