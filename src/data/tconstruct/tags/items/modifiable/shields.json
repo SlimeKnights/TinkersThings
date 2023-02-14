@@ -1,8 +1,6 @@
 {
   "replace": false,
   "values": [
-    "tinkers_things:blowpipe",
-    "tinkers_things:shortbow",
     "tinkers_things:laminar_shield"
   ]
 }

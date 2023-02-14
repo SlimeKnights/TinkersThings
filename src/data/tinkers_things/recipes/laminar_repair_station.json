@@ -4,7 +4,8 @@
     { "item": "tinkers_things:laminar_boots" },
     { "item": "tinkers_things:laminar_leggings" },
     { "item": "tinkers_things:laminar_chestplate" },
-    { "item": "tinkers_things:laminar_helmet" }
+    { "item": "tinkers_things:laminar_helmet" },
+    { "item": "tinkers_things:laminar_shield" }
   ],
   "repair_material": "tconstruct:slimesteel"
 }

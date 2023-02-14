@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "mcm",
+    "ccc",
+    " c "
+  ],
+  "key": {
+    "m": { "tag": "forge:ingots/slimesteel" },
+    "c": { "tag": "tconstruct:slimy_planks" }
+  },
+  "result": {
+    "item": "tinkers_things:laminar_shield"
+  }
+}

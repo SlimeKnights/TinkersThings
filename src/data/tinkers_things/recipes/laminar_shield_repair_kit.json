@@ -1,0 +1,5 @@
+{
+  "type": "tconstruct:specialized_repair_kit",
+  "tool": { "item": "tinkers_things:laminar_shield" },
+  "repair_material": "tconstruct:slimewood"
+}

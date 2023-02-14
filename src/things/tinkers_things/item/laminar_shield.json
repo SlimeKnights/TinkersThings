@@ -1,0 +1,7 @@
+{
+  "type": "tconstruct:staff",
+  "stat_provider": "tconstruct:no_parts",
+  "break_blocks_in_creative": true,
+  "group": "tinkers_things:tinkers_things",
+  "color_handler": "tconstruct:tool"
+}
