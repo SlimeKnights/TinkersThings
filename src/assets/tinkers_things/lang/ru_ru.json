@@ -1,0 +1,83 @@
+{
+  "itemGroup.tinkers_things.tinkers_things": "Tinkers' Things",
+  
+  "item.tinkers_things.chisel": "Стамеска металлурга",
+  "item.tinkers_things.blowpipe": "Духовое ружьё",
+  
+  "item.tinkers_things.shovel": "Лопата",
+  "item.tinkers_things.shovel.description": "Лопата — это основной копач. Она швыряет монстров и имеет больше места для улучшений.",
+  
+  "item.tinkers_things.halberd": "Алебарда",
+  "item.tinkers_things.halberd.description": "Алебарда — это длинное колющее оружие, предназначенное для нанесения мощных ударов по отдалённым соперникам.",
+  
+  "item.tinkers_things.shortbow": "Короткий лук",
+  "item.tinkers_things.shortbow.description": "Короткий лук это — легковесный лук. Он не такой же мощный или точный как его дистанционные аналоги, но этим компенсирует более комфортное натяжение во время движения.",
+  
+  "pattern.tinkers_things.large_repair_kit": "Большой ремкомплект",
+  "item.tinkers_things.large_repair_kit": "Большой ремкомплект",
+  "item.tinkers_things.large_repair_kit_gold_cast": "Золотая отливка: Большой ремкомплект",
+  "item.tinkers_things.large_repair_kit_sand_cast": "Песочная отливка: Большой ремкомплект",
+  "item.tinkers_things.large_repair_kit_red_sand_cast": "Отливка из красного песка: Большой ремкомплект",
+  
+  
+  "modifier.tinkers_things.fortified": "Упрочнённый",
+  "modifier.tinkers_things.fortified.flavor": "Твёрдый, как Медь.",
+  "modifier.tinkers_things.fortified.description": "У инструмента повышены характеристики, уровень добычи, и может быть починен при помощи меди.",
+  "modifier.tinkers_things.enhanced.requirements": "В первую очередь Усиленный требует Упрочнённый, чтобы быть наложенным.",
+  
+  
+  "modifier.tinkers_things.blinding": "Ослепляющий",
+  "modifier.tinkers_things.blinding.flavor": "Прямо в глаза.",
+  "modifier.tinkers_things.blinding.description": "Стрелы приводят к временному ослеплению цели.",
+  
+  "modifier.tinkers_things.tracing": "Следящий",
+  "modifier.tinkers_things.tracing.flavor": "Определённо не Накалённый.",
+  "modifier.tinkers_things.tracing.description": "Цель будет светиться в течении нескольких секунд, что значительно облегчает его отслеживание.",
+  
+  "modifier.tinkers_things.venom": "Яд",
+  "modifier.tinkers_things.venom.flavor": "Месть паука.",
+  "modifier.tinkers_things.venom.description": "Цель будет отравлена, причиняя урон в течение долгого времени.",
+  
+  "modifier.tinkers_things.weakness": "Слабость",
+  "modifier.tinkers_things.weakness.flavor": "Головокружение внутри стрелы.",
+  "modifier.tinkers_things.weakness.description": "Цель будет временно ослаблена, снижая урон от атаки.",
+  
+  
+  "block.tinkers_things.hematite_block": "Блок гематита",
+  "item.tinkers_things.hematite": "Гематит",
+  "stat.tconstruct.harvest_tier.tinkers_things.hematite": "Гематит",
+  
+  "block.tinkers_things.molten_hematite": "Расплав гематита",
+  "fluid.tinkers_things.molten_hematite": "Расплав гематита",
+  "fluid.tinkers_things.molten_hematite_flowing": "Текучий гематит",
+  "item.tinkers_things.molten_hematite_bucket": "Ведро с расплавом гематита",
+  
+  "item.tinkers_things.laminar_helmet": "Ламинарный шлем",
+  "item.tinkers_things.laminar_chestplate": "Ламинарный нагрудник",
+  "item.tinkers_things.laminar_leggings": "Ламинарные поножи",
+  "item.tinkers_things.laminar_boots": "Ламинарные ботинки",
+
+  "material.tinkers_things.hematite": "Гематит",
+  "material.tinkers_things.hematite.flavor": "Гелиотроп, большинство считало его мифом, а другое большинство боялось.",
+  "material.tinkers_things.hematite.encyclopedia": "Даёт 2 добавочных слотов улучшения, ценой -3 урона по нежити и -6 скорость добычи к рудам, брёвнам и земле.",
+
+  "material.tinkers_things.veinline": "Вена",
+  "material.tinkers_things.veinline.flavor": "Кровь продолжает течь.",
+  "material.tinkers_things.veinline.ranged": "Даёт добавочный слот улучшения ценой точностью.",
+  
+  "modifier.tinkers_things.hemodynamic": "Гемодинамический",
+  "modifier.tinkers_things.hemodynamic.flavor": "Кровь движется.",
+  "modifier.tinkers_things.hemodynamic.description": "Инструмент получает добавочный слот улучшения, но какой ценой?",
+  "modifier.tinkers_things.hemophilic": "Гемофилический",
+  "modifier.tinkers_things.hemophilic.flavor": "Без крови для свёртывания.",
+  "modifier.tinkers_things.hemophilic.description": "Инструмент наносит меньше урона по нежити.",
+  "modifier.tinkers_things.hemophilic.attack_damage": "Урон по нежити",
+  "modifier.tinkers_things.hemotoxins": "Гемотоксины",
+  "modifier.tinkers_things.hemotoxins.flavor": "Кровь ранит.",
+  "modifier.tinkers_things.hemotoxins.description": "Инструмент менее эффективен к рудам, брёвнам и земле.",
+  "modifier.tinkers_things.hemotoxins.mining_speed": "Гемотоксиновая скорость",
+  "modifier.tinkers_things.hemophobic": "Гемофобический",
+  "modifier.tinkers_things.hemophobic.flavor": "Боязнь красной жидкости.",
+  "modifier.tinkers_things.hemophobic.description": "Снаряды менее точны.",
+  "modifier.tinkers_things.fast_use_item": "Быстро использование предмета"
+}
