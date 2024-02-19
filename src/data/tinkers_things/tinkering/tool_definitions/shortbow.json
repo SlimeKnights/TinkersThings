@@ -9,7 +9,8 @@
       "tconstruct:accuracy": 0.6,
       "tconstruct:durability": 120.0,
       "tconstruct:attack_damage": 0.0,
-      "tconstruct:attack_speed": 1.0
+      "tconstruct:attack_speed": 1.0,
+      "tconstruct:use_item_speed": 0.8
     },
     "multipliers": {
       "tconstruct:velocity": 0.8
@@ -18,6 +19,5 @@
   "slots": {
     "upgrades": 3,
     "abilities": 1
-  },
-  "traits": [{ "name": "tinkers_things:fast_use_item", "level": 1 }]
+  }
 }
