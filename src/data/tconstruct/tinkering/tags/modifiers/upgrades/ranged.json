@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "tconstruct:sticky",
+    "tinkers_things:blinding",
+    "tinkers_things:tracing",
+    "tinkers_things:venom",
+    "tinkers_things:weakness"
+  ]
+}

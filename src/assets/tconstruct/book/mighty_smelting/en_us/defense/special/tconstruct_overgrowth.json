@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:overgrowth",
+  "text": [
+    {
+      "text": "Who needs defense when you have magical wood that grows?"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Overslime on armor slowly restores",
+    "Only works on laminar",
+    "Requires 1 defense slot per level"
+  ]
+}

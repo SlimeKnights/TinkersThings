@@ -1,0 +1,16 @@
+{
+  "tool": "tinkers_things:laminar_shield",
+  "text": [
+    { "text": "The plate shield is a highly defensive shield, granting high blocking power at the cost of speed while blocking." }
+  ],
+  "properties": [
+    "500 Durability",
+    "Blocks 20 damage per hit",
+    "130 degree block angle",
+    "50% speed while blocking",
+    "2 Upgrade Slots",
+    "5 Defense Slots",
+    "0 Ability Slots",
+    "Overcast II"
+  ]
+}

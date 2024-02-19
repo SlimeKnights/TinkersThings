@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:overgrowth",
+  "text": [
+    {
+      "text": "Gives a 5% chance per level of regenerating overslime each second."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Only works on laminar",
+    "Requires 1 defense slot per level"
+  ]
+}

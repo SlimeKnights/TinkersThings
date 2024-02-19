@@ -1,0 +1,15 @@
+{
+  "tool": "tinkers_things:laminar_helmet",
+  "text": [
+    { "text": "Laminar Helmet is a high defense helmet, with high protection and defense slots but no ability slots." }
+  ],
+  "properties": [
+    "285 Durability",
+    "+2 Armor",
+    "0.2 Knockback Resistance",
+    "2 Upgrade Slots",
+    "5 Defense Slots",
+    "0 Ability Slots",
+    "Overcast II"
+  ]
+}
