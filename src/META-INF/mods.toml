@@ -18,7 +18,7 @@ license="MIT"
 [[dependencies.tinkers_things]]
     modId="tconstruct"
     mandatory=true
-    versionRange="[3.6.3.143,)"
+    versionRange="[3.6.3.149,)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.tinkers_things]]
