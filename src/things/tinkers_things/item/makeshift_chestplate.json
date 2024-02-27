@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:layered_embellished_armor",
+  "texture_name": "tinkers_things:makeshift",
+  "dyeable": false,
+  "slot": "chestplate",
+  "equip_sound": "item.armor.equip_generic",
+  "stat_provider": "tconstruct:no_parts",
+  "group": "tinkers_things:tinkers_things",
+  "color_handler": "tconstruct:tool"
+}

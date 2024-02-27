@@ -1,0 +1,10 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default",
+  "textures": {
+    "tool":   "tinkers_things:item/tool/makeshift_armor/helmet",
+    "broken": "tinkers_things:item/tool/makeshift_armor/helmet_broken"
+  },
+  "modifier_roots": [ "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/" ],
+  "first_modifiers": [ "tconstruct:embellishment", "tconstruct:golden" ]
+}

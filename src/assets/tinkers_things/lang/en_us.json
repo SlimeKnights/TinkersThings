@@ -66,6 +66,9 @@
   "fluid.tinkers_things.molten_hematite_flowing": "Flowing Molten Hematite",
   "item.tinkers_things.molten_hematite_bucket": "Molten Hematite Bucket",
   
+  "item.tinkers_things.makeshift_helmet":     "Makeshift Helmet",
+  "item.tinkers_things.makeshift_chestplate": "Makeshift Chestplate",
+  
   "item.tinkers_things.laminar_helmet":     "Laminar Helmet",
   "item.tinkers_things.laminar_chestplate": "Laminar Chestplate",
   "item.tinkers_things.laminar_leggings":   "Laminar Leggings",

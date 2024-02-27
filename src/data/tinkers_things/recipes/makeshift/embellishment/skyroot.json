@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:swappable_modifier",
+  "inputs": [
+    {
+      "item": "tconstruct:pattern"
+    },
+    {
+      "tag": "tconstruct:skyroot_logs"
+    },
+    {
+      "item": "tconstruct:pattern"
+    }
+  ],
+  "tools": {
+    "tag": "tinkers_things:wood_embellishment"
+  },
+  "allow_crystal": false,
+  "result": {
+    "name": "tconstruct:embellishment",
+    "value": "tconstruct:slimewood#skyroot"
+  }
+}

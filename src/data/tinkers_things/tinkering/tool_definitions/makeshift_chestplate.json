@@ -1,0 +1,15 @@
+{
+  "stats": {
+    "base": {
+      "tconstruct:durability": 60,
+      "tconstruct:armor": 3.0
+    },
+    "multipliers": {
+      "tconstruct:attack_damage": 0.4
+    }
+  },
+  "slots": {
+    "upgrades": 2,
+    "defense": 1
+  }
+}

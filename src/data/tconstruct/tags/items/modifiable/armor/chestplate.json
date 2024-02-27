@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "tinkers_things:makeshift_chestplate",
     "tinkers_things:laminar_chestplate"
   ]
 }

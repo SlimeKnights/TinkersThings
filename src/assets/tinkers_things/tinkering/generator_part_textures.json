@@ -41,13 +41,34 @@
     { "path": "tinkers_things:item/tool/laminar_armor/chestplate_modifiers/tconstruct_embellishment_broken",   "statType": "tconstruct:plate" },
     { "path": "tinkers_things:item/tool/laminar_armor/helmet_modifiers/tconstruct_embellishment",              "statType": "tconstruct:plate" },
     { "path": "tinkers_things:item/tool/laminar_armor/helmet_modifiers/tconstruct_embellishment_broken",       "statType": "tconstruct:plate" },
-    { "path": "tinkers_things:item/tool/laminar_armor/helmet_modifiers/tconstruct_embellishment",              "statType": "tconstruct:plate" },
-    { "path": "tinkers_things:item/tool/laminar_armor/helmet_modifiers/tconstruct_embellishment_broken",       "statType": "tconstruct:plate" },
     { "path": "tinkers_things:item/tool/laminar_armor/shield_modifiers/tconstruct_embellishment",              "statType": "tconstruct:plate" },
     { "path": "tinkers_things:item/tool/laminar_armor/shield_modifiers/tconstruct_embellishment_broken",       "statType": "tconstruct:plate" },
     { "path": "tinkers_things:item/tool/laminar_armor/shield_large_modifiers/tconstruct_embellishment",        "statType": "tconstruct:plate" },
     { "path": "tinkers_things:item/tool/laminar_armor/shield_large_modifiers/tconstruct_embellishment_broken", "statType": "tconstruct:plate" },
     { "path": "tinkers_things:models/armor/laminar/layer_1",                                                   "statType": "tconstruct:plate" },
-    { "path": "tinkers_things:models/armor/laminar/layer_2",                                                   "statType": "tconstruct:plate" }
-  ]
+    { "path": "tinkers_things:models/armor/laminar/layer_2",                                                   "statType": "tconstruct:plate" },
+    
+    { "path": "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/tconstruct_embellishment",        "statType": "tinkers_things:wood" },
+    { "path": "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/tconstruct_embellishment_broken", "statType": "tinkers_things:wood" },
+    { "path": "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/tconstruct_embellishment",            "statType": "tinkers_things:wood" },
+    { "path": "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/tconstruct_embellishment_broken",     "statType": "tinkers_things:wood" },
+    { "path": "tinkers_things:models/armor/makeshift/layer_1",                                                 "statType": "tinkers_things:wood" }
+  ],
+  "overrides": {
+    "tinkers_things:wood": [
+      "tconstruct:wood",
+      "tconstruct:wood#oak",
+      "tconstruct:wood#spruce",
+      "tconstruct:wood#birch",
+      "tconstruct:wood#jungle",
+      "tconstruct:wood#acacia",
+      "tconstruct:wood#dark_oak",
+      "tconstruct:wood#crimson",
+      "tconstruct:wood#warped",
+      "tconstruct:slimewood#greenheart",
+      "tconstruct:slimewood#skyroot",
+      "tconstruct:slimewood#bloodshroom",
+      "tconstruct:gold"
+    ]
+  }
 }

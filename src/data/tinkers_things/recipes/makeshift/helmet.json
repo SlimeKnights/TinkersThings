@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ppp",
+    "p p"
+  ],
+  "key": {
+    "p": { "item": "tconstruct:pattern" }
+  },
+  "result": {
+    "item": "tinkers_things:makeshift_helmet"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "tconstruct:specialized_station_repair",
+  "tool": [
+    { "item": "tinkers_things:makeshift_chestplate" },
+    { "item": "tinkers_things:makeshift_helmet" }
+  ],
+  "repair_material": "tconstruct:wood"
+}

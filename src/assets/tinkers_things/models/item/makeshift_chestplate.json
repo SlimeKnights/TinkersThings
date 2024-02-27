@@ -1,0 +1,10 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default",
+  "textures": {
+    "tool":   "tinkers_things:item/tool/makeshift_armor/chestplate",
+    "broken": "tinkers_things:item/tool/makeshift_armor/chestplate_broken"
+  },
+  "modifier_roots": [ "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/" ],
+  "first_modifiers": [ "tconstruct:embellishment", "tconstruct:golden" ]
+}
