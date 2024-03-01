@@ -84,21 +84,15 @@
 
   "material.tinkers_things.veinline": "Veinline",
   "material.tinkers_things.veinline.flavor": "The blood continues to flow",
-  "material.tinkers_things.veinline.ranged": "Grants an additional upgrade slot at the cost of accuracy",
+  "material.tinkers_things.veinline.encyclopedia": "Grants an additional defense slot",
+  "material.tinkers_things.veinline.ranged": "Grants an additional defense slot",
   
   "modifier.tinkers_things.hemodynamic": "Hemodynamic",
   "modifier.tinkers_things.hemodynamic.flavor": "The blood moves",
-  "modifier.tinkers_things.hemodynamic.description": "Tool gains an additional upgrade slot, but at what cost?",
-  "modifier.tinkers_things.hemophilic": "Hemophilic",
-  "modifier.tinkers_things.hemophilic.flavor": "Without blood to clot",
-  "modifier.tinkers_things.hemophilic.description": "Tool does less damage against undead",
-  "modifier.tinkers_things.hemophilic.attack_damage": "Undead Damage",
-  "modifier.tinkers_things.hemotoxins": "Hemotoxins",
-  "modifier.tinkers_things.hemotoxins.flavor": "The blood hurts",
-  "modifier.tinkers_things.hemotoxins.description": "Tool is less effective against ores, logs, and dirt",
-  "modifier.tinkers_things.hemotoxins.mining_speed": "Hemotoxin Speed",
+  "modifier.tinkers_things.hemodynamic.description": "Tool gains two additional upgrade slots, but at what cost?",
+  "modifier.tinkers_things.hemodynamic.attack_damage": "Undead Damage",
+  "modifier.tinkers_things.hemodynamic.mining_speed": "Hemodynamic Speed",
   "modifier.tinkers_things.hemophobic": "Hemophobic",
   "modifier.tinkers_things.hemophobic.flavor": "Fear of the red liquid",
-  "modifier.tinkers_things.hemophobic.description": "Projectiles are less accurate",
-  "modifier.tinkers_things.fast_use_item": "Fast Use Item"
+  "modifier.tinkers_things.hemophobic.description": "Tool gains an additional defense slot"
 }

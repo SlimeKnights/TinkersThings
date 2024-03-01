@@ -1,6 +1,5 @@
 {
   "default": [
-    { "name": "tinkers_things:hemodynamic", "level": 1 },
     { "name": "tinkers_things:hemophobic",  "level": 1 }
   ]
 }

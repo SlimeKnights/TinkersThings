@@ -1,7 +1,5 @@
 {
   "default": [
-    { "name": "tinkers_things:hemodynamic", "level": 2 },
-    { "name": "tinkers_things:hemophilic",  "level": 1 },
-    { "name": "tinkers_things:hemotoxins",  "level": 1 }
+    { "name": "tinkers_things:hemodynamic", "level": 1 }
   ]
 }

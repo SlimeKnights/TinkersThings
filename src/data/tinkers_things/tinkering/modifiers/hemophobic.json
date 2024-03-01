@@ -1,10 +1,11 @@
 {
-  "type": "tconstruct:stat_boost",
-  "level_display": "tconstruct:single_level",
-  "rarity": "uncommon",
-  "stats": [{
-    "stat": "tconstruct:accuracy",
-    "type": "add",
-    "value": -0.15
+  "type": "tconstruct:composable",
+  "level_display": "tconstruct:default",
+  "tooltip_display": "always",
+  "priority": 60,
+  "modules": [{
+    "type": "tconstruct:modifier_slot",
+    "name": "defense",
+    "count": 1
   }]
 }
