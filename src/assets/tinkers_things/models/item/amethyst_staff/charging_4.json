@@ -1,0 +1,26 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "tconstruct:item/base/staff_charging",
+  "textures": {
+    "low":     "tinkers_things:item/tool/staff/low",
+    "high":    "tinkers_things:item/tool/staff/high",
+    "grip":    "tinkers_things:item/tool/staff/grip",
+    "crystal": "tinkers_things:item/tool/staff/crystal_4",
+    
+    "large_low":     "tinkers_things:item/tool/staff/large/low",
+    "large_high":    "tinkers_things:item/tool/staff/large/high",
+    "large_grip":    "tinkers_things:item/tool/staff/large/grip",
+    "large_crystal": "tinkers_things:item/tool/staff/large/crystal_4"
+  },
+  "large": true,
+  "modifier_roots": {
+    "small": [ "tconstruct:item/tool/staff/modifiers/" ],
+    "large": [ "tconstruct:item/tool/staff/large_modifiers/" ]
+  },
+  "parts": [
+    { "name": "low",    "index": 0 },
+    { "name": "high",   "index": 1 },
+    { "name": "grip",   "index": 2 },
+    { "name": "crystal" }
+  ]
+}

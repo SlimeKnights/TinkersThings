@@ -1,0 +1,74 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "tconstruct:item/base/staff",
+  "textures": {
+    "low":            "tinkers_things:item/tool/staff/low",
+    "high":           "tinkers_things:item/tool/staff/high",
+    "grip":           "tinkers_things:item/tool/staff/grip",
+    "crystal":        "tinkers_things:item/tool/staff/crystal",
+    "broken_crystal": "tinkers_things:item/tool/staff/crystal_broken",
+    
+    "large_low":            "tinkers_things:item/tool/staff/large/low",
+    "large_high":           "tinkers_things:item/tool/staff/large/high",
+    "large_grip":           "tinkers_things:item/tool/staff/large/grip",
+    "large_crystal":        "tinkers_things:item/tool/staff/large/crystal",
+    "large_broken_crystal": "tinkers_things:item/tool/staff/large/crystal_broken"
+  },
+  "large": true,
+  "modifier_roots": {
+    "small": [ "tconstruct:item/tool/staff/modifiers/" ],
+    "large": [ "tconstruct:item/tool/staff/large_modifiers/" ]
+  },
+  "parts": [
+    { "name": "low",      "index": 0 },
+    { "name": "high",     "index": 1 },
+    { "name": "grip",     "index": 2 },
+    { "name": "crystal",  "broken": "broken_crystal" }
+  ],
+  "overrides": [
+    {
+      "predicate": { "tconstruct:charging": 1 },
+      "model": "tinkers_things:item/amethyst_staff/charging_1"
+    },
+    {
+      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 0.4 },
+      "model": "tinkers_things:item/amethyst_staff/charging_2"
+    },
+    {
+      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 0.7 },
+      "model": "tinkers_things:item/amethyst_staff/charging_3"
+    },
+    {
+      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 0.9 },
+      "model": "tinkers_things:item/amethyst_staff/charging_4"
+    },
+    {
+      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 1.0 },
+      "model": "tinkers_things:item/amethyst_staff/charging_5"
+    },
+    {
+      "predicate": { "tconstruct:charging": 2 },
+      "model": "tinkers_things:item/amethyst_staff/blocking"
+    },
+    {
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 0.05 },
+      "model": "tinkers_things:item/amethyst_staff/blocking_1"
+    },
+    {
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 0.4 },
+      "model": "tinkers_things:item/amethyst_staff/blocking_2"
+    },
+    {
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 0.7 },
+      "model": "tinkers_things:item/amethyst_staff/blocking_3"
+    },
+    {
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 0.9 },
+      "model": "tinkers_things:item/amethyst_staff/blocking_4"
+    },
+    {
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 1.0 },
+      "model": "tinkers_things:item/amethyst_staff/blocking_5"
+    }
+  ]
+}

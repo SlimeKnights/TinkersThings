@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "tinkers_things:amethyst_staff",
     "tinkers_things:sack"
   ]
 }
