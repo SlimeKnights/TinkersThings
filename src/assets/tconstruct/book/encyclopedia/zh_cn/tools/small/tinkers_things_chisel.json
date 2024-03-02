@@ -1,17 +1,17 @@
 {
   "tool": "tinkers_things:chisel",
   "text": [
-    { "text": "Chisels are an early game mining tool, allowing mining stone without creating a full tinkering setup." },
-    { "text": "Chisels can have their stats upgraded using a couple unique modifiers, and can exchange mined blocks.", "paragraph": true }
+    { "text": "工匠凿子是游戏早期的采掘工具，可以不用制造全套匠魂工作方块的情况下采掘石头。" },
+    { "text": "工匠凿子可以通过几个独特的强化升级它的属性，并且可以替换采掘的方块。", "paragraph": true }
   ],
   "properties": [
-    "3 Mining Speed",
-    "Stone Harvest Tier",
-    "+1 Attack Damage",
-    "75% Attack Modifier",
-    "1.75 Attack Speed",
-    "100 Durability",
-    "75% Durability Modifier",
-    "Exchanging"
+    "3 挖掘速度",
+    "挖掘等级为“石头”",
+    "+1 攻击伤害",
+    "75% 攻击系数",
+    "1.75 攻击速度",
+    "100 耐久度",
+    "75% 耐久系数",
+    "置换"
   ]
 }
