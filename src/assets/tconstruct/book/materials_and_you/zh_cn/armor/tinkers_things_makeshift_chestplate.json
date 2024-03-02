@@ -1,13 +1,13 @@
 {
   "tool": "tinkers_things:makeshift_chestplate",
   "text": [
-    { "text": "Simple chestplate granting a modest amount of protection until you have resources to create better armor." }
+    { "text": "简单的胸部防具，提供适中的保护。直到你有足够的材料制作更好的盔甲。" }
   ],
   "properties": [
-    "Low Durability",
-    "Low Protection",
-    "2 Upgrade Slots",
-    "1 Defense Slots",
-    "0 Ability Slots"
+    "低耐久度",
+    "低护甲值",
+    "2 升级槽",
+    "1 防御槽",
+    "0 能力槽"
   ]
 }

@@ -1,11 +1,11 @@
 {
   "tool": "tinkers_things:chisel",
   "text": [
-    { "text": "If you keep chiseling away at the marble in front of you, you might reveal the sculpture inside, or you might run out of stone." }
+    { "text": "如果你不停地雕刻前面的那块大理石，要么是一尊雕塑作品，要么是一地石头碎块。" }
   ],
   "properties": [
-    "Cheap tool for mining stone",
-    "Can swap mined blocks",
-    "Can fortify and enhance"
+    "采掘石头的廉价工具",
+    "可以替换采掘的方块",
+    "可以加持“固化”和“增强”强化"
   ]
 }

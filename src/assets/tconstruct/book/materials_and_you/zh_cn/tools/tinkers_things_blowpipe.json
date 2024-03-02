@@ -1,11 +1,11 @@
 {
   "tool": "tinkers_things:blowpipe",
   "text": [
-    { "text": "Ew, there is spit all over the arrow in my knee." }
+    { "text": "额，我膝盖上的箭沾满了口水。" }
   ],
   "properties": [
-    "High accuracy and draw speed",
-    "Low velocity and damage",
-    "Can fire arrows with special potions"
+    "高精确度，高拉弓速度",
+    "低精确度，低伤害",
+    "可以发射药水箭"
   ]
 }
