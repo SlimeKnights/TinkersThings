@@ -1,14 +1,14 @@
 {
   "tool": "tinkers_things:laminar_helmet",
   "text": [
-    { "text": "Including padding in your helmet keeps your skull from bouncing around." }
+    { "text": "在头盔上加持“护垫”可以让你的头免于摇晃。" }
   ],
   "properties": [
-    "Mid Durability",
-    "High Protection",
-    "Better at Overslime",
-    "2 Upgrade Slots",
-    "5 Defense Slots",
-    "0 Ability Slots"
+    "中等耐久度",
+    "高护甲值",
+    "与“黏液覆层”相适甚佳",
+    "2 升级槽",
+    "5 防御槽",
+    "0 升级槽"
   ]
 }

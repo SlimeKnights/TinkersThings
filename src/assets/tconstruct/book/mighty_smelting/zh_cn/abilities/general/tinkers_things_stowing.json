@@ -2,12 +2,12 @@
   "modifier_id": "tinkers_things:stowing",
   "text": [
     {
-      "text": "Somehow its bigger on the inside."
+      "text": "不知为何，它的内部空间比看上去更大。"
     }
   ],
   "effects": [
-    "Adds 9 more slots to the silky sack",
-    "Multiple levels, each adding more slots",
-    "Requires 1 ability slot per level"
+    "为丝绸袋子增加9个物品槽",
+    "多个等级，每级增加更多物品槽",
+    "每级需要一个能力槽"
   ]
 }

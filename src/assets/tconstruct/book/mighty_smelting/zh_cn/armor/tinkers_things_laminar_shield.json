@@ -1,15 +1,15 @@
 {
   "tool": "tinkers_things:laminar_shield",
   "text": [
-    { "text": "The classic shield shape, just a bit more gooey." }
+    { "text": "经典的盾牌样式，只是有一点黏糊糊的。" }
   ],
   "properties": [
-    "Mid Durability",
-    "Mid Block Potential",
-    "Mid speed while shielding",
-    "Better at Overslime",
-    "2 Upgrade Slots",
-    "5 Defense Slots",
-    "0 Ability Slots"
+    "中等耐久度",
+    "中等格挡潜力",
+    "举盾时中等移速",
+    "与“黏液覆层”相适甚佳",
+    "2 升级槽",
+    "5 防御槽",
+    "0 升级槽"
   ]
 }

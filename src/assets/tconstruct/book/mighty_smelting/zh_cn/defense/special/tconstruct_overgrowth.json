@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:overgrowth",
   "text": [
     {
-      "text": "Who needs defense when you have magical wood that grows?"
+      "text": "有了能生长的魔法木头谁还需要防御啊？"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Overslime on armor slowly restores",
-    "Only works on laminar",
-    "Requires 1 defense slot per level"
+    "缓慢长出黏液覆层",
+    "仅在“层板”系列防具上生效",
+    "每级需要1个防御槽"
   ]
 }
