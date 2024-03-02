@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:enhanced",
   "text": [
     {
-      "text": "Why can the chisel get an extra slot with rose gold, but my sword cannot? What, I have to use tool parts?"
+      "text": "为什么我的工匠凿子能用玫瑰金获得一个额外的强化槽而我的剑不行？什么，我只能用工具部件？"
     }
   ],
   "effects": [
-    "Adds an upgrade slot",
-    "Requires Fortified",
-    "Single use"
+    "增加1个升级槽",
+    "需要“固化”作为前置",
+    "单次使用"
   ]
 }

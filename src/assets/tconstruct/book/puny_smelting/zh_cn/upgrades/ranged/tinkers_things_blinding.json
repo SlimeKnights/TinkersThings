@@ -2,12 +2,12 @@
   "modifier_id": "tinkers_things:blinding",
   "text": [
     {
-      "text": "If you cannot see, you cannot fight."
+      "text": "看不见，打不着。"
     }
   ],
   "effects": [
-    "Blinds targets of arrows from blowpipes",
-    "Multiple levels, each level increases blindness duration",
-    "Requires 1 upgrade slot per level"
+    "对吹箭筒击中的目标施加失明效果",
+    "多个等级，每级增加失明时长",
+    "每级需要1个升级槽"
   ]
 }

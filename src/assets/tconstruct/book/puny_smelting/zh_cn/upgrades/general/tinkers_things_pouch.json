@@ -2,12 +2,12 @@
   "modifier_id": "tinkers_things:pouch",
   "text": [
     {
-      "text": "Why don't they add more pockets to things?"
+      "text": "为什么不多加一些口袋呢？"
     }
   ],
   "effects": [
-    "Adds 3 more slots to the silky sack",
-    "Multiple levels, each level adds more slots",
-    "Requires 1 upgrade slot per level"
+    "为丝绸袋子增加3个物品槽",
+    "多个等级，每个等级增加更多槽位",
+    "每级需要1个升级槽"
   ]
 }

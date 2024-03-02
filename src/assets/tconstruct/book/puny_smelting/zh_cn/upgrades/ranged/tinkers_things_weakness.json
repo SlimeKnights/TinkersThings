@@ -2,12 +2,12 @@
   "modifier_id": "tinkers_things:weakness",
   "text": [
     {
-      "text": "Why fight fairly when you can fight with toxins?"
+      "text": "当你和毒素战斗时，为什么要公平竞争呢？"
     }
   ],
   "effects": [
-    "Weakens targets of arrows from blowpipes",
-    "Multiple levels, each level increases weakness duration",
-    "Requires 1 upgrade slot per level"
+    "对吹箭筒击中的目标施加虚弱效果",
+    "多个等级，每级增加虚弱时长",
+    "每级需要1个升级槽"
   ]
 }

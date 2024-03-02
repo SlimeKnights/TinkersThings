@@ -2,13 +2,13 @@
   "modifier_id": "tinkers_things:fortified",
   "text": [
     {
-      "text": "Copper is very malleable allowing you to improve your tools without casting equipment. Neat, right?"
+      "text": "铜具有较好的延展性，无需铸造即可改善你的工具性能。真简洁，是吧？"
     }
   ],
   "effects": [
-    "Increases durability, mining speed, and harvest tier",
-    "Allows repairing with copper",
-    "Single use",
-    "Requires 1 upgrade slot"
+    "增加耐久度，挖掘速度，挖掘等级",
+    "可以使用铜来修复",
+    "单次使用",
+    "需要1个升级槽"
   ]
 }

@@ -2,12 +2,12 @@
   "modifier_id": "tinkers_things:sticky",
   "text": [
     {
-      "text": "Spider silk keeps your target from running, allowing you to close in for the kill."
+      "text": "蜘蛛丝可以防止你的目标逃跑，从而使你能够靠近击杀。"
     }
   ],
   "effects": [
-    "Slows targets of arrows from blowpipes",
-    "Multiple levels, each level increases slowness duration",
-    "Requires 1 upgrade slot per level"
+    "对吹箭筒击中的目标施加缓慢效果",
+    "多个等级，每级增加减速时长",
+    "每级需要1个升级槽"
   ]
 }

@@ -2,12 +2,12 @@
   "modifier_id": "tinkers_things:venom",
   "text": [
     {
-      "text": "The deadly venom from a spider will slowly weaken your targets, but never kill them."
+      "text": "蜘蛛喷出的致命毒液会削弱你的目标，但是不会致死。"
     }
   ],
   "effects": [
-    "Poisons targets of arrows from blowpipes",
-    "Multiple levels, each level increases poison duration",
-    "Requires 1 upgrade slot per level"
+    "对吹箭筒击中的目标施加中毒效果",
+    "多个等级，每级增加发光时长",
+    "每级需要1个升级槽"
   ]
 }
