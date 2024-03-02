@@ -1,0 +1,15 @@
+{
+  "tool": "tinkers_things:laminar_shield",
+  "text": [
+    { "text": "The classic shield shape, just a bit more gooey." }
+  ],
+  "properties": [
+    "Mid Durability",
+    "Mid Block Potential",
+    "Mid speed while shielding",
+    "Better at Overslime",
+    "2 Upgrade Slots",
+    "5 Defense Slots",
+    "0 Ability Slots"
+  ]
+}
