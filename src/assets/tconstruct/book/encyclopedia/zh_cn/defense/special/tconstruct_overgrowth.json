@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:overgrowth",
+  "text": [
+    {
+      "text": "每级每秒黏液覆层再生概率+5%。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "仅在“层板”系列防具上生效",
+    "每级需要1个防御槽"
+  ]
+}
