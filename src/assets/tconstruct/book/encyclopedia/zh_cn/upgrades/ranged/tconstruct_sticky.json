@@ -2,14 +2,14 @@
   "modifier_id": "tconstruct:sticky",
   "text": [
     {
-      "text": "Applies up to 1.5 seconds (plus 1 seconds per level) of slowness to the target of the projectile."
+      "text": "弹射物可对目标造成1.5秒的缓慢效果（每级+1秒）。"
     }
   ],
   "more_text_space": true,
   "tool_filter": "tconstruct:modifiable/ranged",
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 4 levels",
-    "Requires 1 upgrade slot per level"
+    "可以逐级强化",
+    "最高4级",
+    "每级需要1个升级槽"
   ]
 }

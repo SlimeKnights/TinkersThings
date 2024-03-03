@@ -1,11 +1,11 @@
 {
   "tool": "tinkers_things:amethyst_staff",
   "text": [
-    { "text": "Amethyst Staff is a highly customizable staff variant." }
+    { "text": "紫水晶手杖是一种高度定制化的手杖。" }
   ],
   "properties": [
-    "2 Upgrade Slots",
-    "2 Ability Slots",
-    "Variable handle parts"
+    "2 升级槽",
+    "2 能力槽",
+    "多种杖柄"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "tool": "tinkers_things:sack",
   "text": [
-    { "text": "The sack is a storage item, holding up to 9 stacks of items. Its storage can be upgraded using bonus modifiers, pouch, and stowing. It can also be dyed to make sacks easier to tell apart." }
+    { "text": "丝绸袋子可以存储物品，最多容纳9组物品。存储物品的数量可以通过加持“口袋”“装载”增加。同时它也可以染成你喜欢的颜色来方便区分。" }
   ],
   "properties": [
-    "0 Upgrade Slots",
-    "0 Ability Slots"
+    "0 升级槽",
+    "0 能力槽"
   ]
 }

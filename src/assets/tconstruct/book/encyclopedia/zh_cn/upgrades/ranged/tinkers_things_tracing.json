@@ -2,13 +2,13 @@
   "modifier_id": "tinkers_things:tracing",
   "text": [
     {
-      "text": "Applies up to 2 seconds (plus 3 seconds per level) of glowing to the target of the projectile."
+      "text": "弹射物可对目标造成2秒的发光效果（每级+3秒）。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "可以逐级强化",
+    "最高5级",
+    "每级需要1个升级槽"
   ]
 }

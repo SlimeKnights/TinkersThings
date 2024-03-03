@@ -2,13 +2,13 @@
   "modifier_id": "tinkers_things:venom",
   "text": [
     {
-      "text": "Applies up to 5 seconds (plus 2.5 seconds per level) of poison to the target of the projectile. Poison level increases every other modifier level."
+      "text": "弹射物可对目标造成5秒的中毒效果（每级+2.5秒）。每隔1级强化等级，药水效果提升1级。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "可以逐级强化",
+    "最高5级",
+    "每级需要1个升级槽"
   ]
 }

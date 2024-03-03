@@ -2,15 +2,15 @@
   "modifier_id": "tinkers_things:fortified",
   "text": [
     {
-      "text": "Grants a chisel +150 durability, +1 mining speed, and increases the harvest tier to iron."
+      "text": "工匠凿子耐久度+150，挖掘速度+1，挖掘等级提升至“铁”。"
     },
     {
-      "text": "Allows repairing the chisel using copper, though flint still works.", "paragraph": true
+      "text": "工匠凿子可以用铜进行修复，燧石依旧可以。", "paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Single use",
-    "Requires 1 upgrade slot"
+    "单次使用",
+    "需要1个升级槽"
   ]
 }
