@@ -1,6 +1,6 @@
 {
   "type": "tconstruct:material_fluid",
-  "input": "tconstruct:string",
+  "input": "tconstruct:vine",
   "fluid": {
     "name": "tinkers_things:molten_hematite",
     "amount": 100
