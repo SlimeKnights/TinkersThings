@@ -1,19 +1,22 @@
 {
-  "type": "tconstruct:stat_boost",
+  "type": "tconstruct:composable",
   "level_display": "tconstruct:single_level",
-  "attributes": [
+  "tooltip_display": "always",
+  "modules": [
     {
-      "unique": "tinkers_things.modifier.reach",
+      "type": "tconstruct:attribute",
+      "unique": "tinkers_things.modifier.range",
       "attribute": "forge:reach_distance",
       "operation": "addition",
-      "amount": 2.0,
+      "each_level": 2.0,
       "slots": [ "offhand" ]
     },
     {
+      "type": "tconstruct:attribute",
       "unique": "tinkers_things.modifier.range",
       "attribute": "forge:attack_range",
       "operation": "addition",
-      "amount": 2.0,
+      "each_level": 2.0,
       "slots": [ "mainhand" ]
     }
   ]

@@ -1,12 +1,17 @@
 {
-  "type": "tconstruct:mob_effect",
-  "effect": "minecraft:poison",
-  "level": {
-    "base": 0,
-    "multiplier": 0.5
-  },
-  "time": {
-    "base": 100,
-    "multiplier_random": 50
-  }
+  "type": "tconstruct:composable",
+  "level_display": "tconstruct:default",
+  "tooltip_display": "always",
+  "modules": [
+    {
+      "type": "tconstruct:incremental"
+    },
+    {
+      "type": "tconstruct:mob_effect",
+      "entity": "mantle:any",
+      "effect": "minecraft:poison",
+      "level": { "per_level": 0.5 },
+      "time": { "flat": 100, "random": 50 }
+    }
+  ]
 }

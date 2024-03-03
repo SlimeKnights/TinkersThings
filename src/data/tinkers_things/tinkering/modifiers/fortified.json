@@ -1,18 +1,22 @@
 {
-  "type": "tconstruct:stat_boost",
-  "level_display": "tconstruct:single_level",
-  "stats": [
+  "type": "tconstruct:composable",
+  "level_display": "tconstruct:no_levels",
+  "tooltip_display": "always",
+  "modules": [
     {
+      "type": "tconstruct:stat_boost",
       "stat": "tconstruct:durability",
-      "type": "add",
-      "value": 150
+      "operation": "add",
+      "flat": 150
     },
     {
+      "type": "tconstruct:stat_boost",
       "stat": "tconstruct:mining_speed",
-      "type": "add",
-      "value": 1.0
+      "operation": "add",
+      "flat": 1
     },
     {
+      "type": "tconstruct:set_stat",
       "stat": "tconstruct:harvest_tier",
       "value": "minecraft:iron"
     }

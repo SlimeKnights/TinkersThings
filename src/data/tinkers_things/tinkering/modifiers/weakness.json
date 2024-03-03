@@ -1,13 +1,17 @@
 {
-  "type": "tconstruct:mob_effect",
-  "effect": "minecraft:weakness",
-  "level": {
-    "base": 1,
-    "multiplier": 0
-  },
-  "time": {
-    "base": 60,
-    "multiplier_flat": 20,
-    "multiplier_random": 40
-  }
+  "type": "tconstruct:composable",
+  "level_display": "tconstruct:default",
+  "tooltip_display": "always",
+  "modules": [
+    {
+      "type": "tconstruct:incremental"
+    },
+    {
+      "type": "tconstruct:mob_effect",
+      "entity": "mantle:any",
+      "effect": "minecraft:weakness",
+      "level": { "flat": 1 },
+      "time": { "flat": 60, "per_level": 20, "random": 40 }
+    }
+  ]
 }
