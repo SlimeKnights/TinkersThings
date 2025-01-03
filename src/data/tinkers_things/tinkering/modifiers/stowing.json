@@ -1,4 +1,14 @@
 {
-  "type": "tconstruct:inventory_with_menu",
-  "size": 9
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:inventory",
+      "slots": { "each_level": 9 }
+    },
+    {
+      "type": "tconstruct:inventory_menu",
+      "on_key": "any"
+    }
+  ],
+  "tooltip_display": "always"
 }
