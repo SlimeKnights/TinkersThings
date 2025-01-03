@@ -2,7 +2,7 @@
   {
     "type": "tconstruct:part_stats",
     "parts": [
-      "tconstruct:round_plate",
+      "tconstruct:adze_head",
       "tconstruct:tool_handle"
     ],
     "primary_part": 0
