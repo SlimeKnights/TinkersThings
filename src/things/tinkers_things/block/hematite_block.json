@@ -1,7 +1,6 @@
 {
   "type": "plain",
-  "material": "metal",
-  "map_color": "COLOR_RED",
+  "map_color": "color_red",
   "requires_tool_for_drops": true,
   "explosion_resistance": 1200,
   "destroy_time": 50,
