@@ -1,3 +1,5 @@
 {
-  "icon": "tinkers_things:chisel"
+  "icon": "tinkers_things:chisel",
+  "before": ["tconstruct:world"],
+  "translation_key": "itemGroup.tinkers_things.tinkers_things"
 }
