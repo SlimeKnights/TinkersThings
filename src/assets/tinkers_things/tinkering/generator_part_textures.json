@@ -63,13 +63,13 @@
     { "path": "tinkers_things:item/tool/laminar_armor/boots/wood",         "stat_type": "tconstruct:shield_core" },
     { "path": "tinkers_things:item/tool/laminar_armor/boots/wood_broken",  "stat_type": "tconstruct:shield_core" },
     
-    { "path": "tinkers_things:tinker_armor/laminar/upper_armor",    "stat_type": "tconstruct:armor_plating" },
-    { "path": "tinkers_things:tinker_armor/laminar/upper_leggings", "stat_type": "tconstruct:armor_plating" },
-    { "path": "tinkers_things:tinker_armor/laminar/lower_armor",    "stat_type": "tconstruct:armor_plating" },
-    { "path": "tinkers_things:tinker_armor/laminar/lower_leggings", "stat_type": "tconstruct:armor_plating" },
-    { "path": "tinkers_things:tinker_armor/laminar/wood_armor",     "stat_type": "tconstruct:shield_core" },
-    { "path": "tinkers_things:tinker_armor/laminar/wood_leggings",  "stat_type": "tconstruct:shield_core" },
-    { "path": "tinkers_things:tinker_armor/laminar/wood_wings",     "stat_type": "tconstruct:shield_core" },
+    { "path": "tinkers_things:tinker_armor/laminar/upper_armor",    "stat_type": "tconstruct:armor_plating", "allow_animated": false },
+    { "path": "tinkers_things:tinker_armor/laminar/upper_leggings", "stat_type": "tconstruct:armor_plating", "allow_animated": false },
+    { "path": "tinkers_things:tinker_armor/laminar/lower_armor",    "stat_type": "tconstruct:armor_plating", "allow_animated": false },
+    { "path": "tinkers_things:tinker_armor/laminar/lower_leggings", "stat_type": "tconstruct:armor_plating", "allow_animated": false },
+    { "path": "tinkers_things:tinker_armor/laminar/wood_armor",     "stat_type": "tconstruct:shield_core",   "allow_animated": false },
+    { "path": "tinkers_things:tinker_armor/laminar/wood_leggings",  "stat_type": "tconstruct:shield_core",   "allow_animated": false },
+    { "path": "tinkers_things:tinker_armor/laminar/wood_wings",     "stat_type": "tconstruct:shield_core",   "allow_animated": false },
     
     { "path": "tinkers_things:item/tool/laminar_armor/shield/small",         "stat_type": "tconstruct:plating_shield" },
     { "path": "tinkers_things:item/tool/laminar_armor/shield/small_broken",  "stat_type": "tconstruct:plating_shield" },
@@ -82,7 +82,7 @@
     { "path": "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/broken/tconstruct_embellishment", "stat_type": "tconstruct:wood" },
     { "path": "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/tconstruct_embellishment",            "stat_type": "tconstruct:wood" },
     { "path": "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/broken/tconstruct_embellishment",     "stat_type": "tconstruct:wood" },
-    { "path": "tinkers_things:tinker_armor/makeshift/armor",                                                   "stat_type": "tconstruct:wood" }
+    { "path": "tinkers_things:tinker_armor/makeshift/armor", "allow_animated": false,                          "stat_type": "tconstruct:wood" }
   ],
   "overrides": {
     "tconstruct:wood": [
