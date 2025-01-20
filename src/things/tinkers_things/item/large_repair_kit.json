@@ -1,5 +1,4 @@
 {
   "type": "tconstruct:repair_kit",
-  "repair_amount": 9,
-  "group": "tinkers_things:tinkers_things"
+  "repair_amount": 9
 }

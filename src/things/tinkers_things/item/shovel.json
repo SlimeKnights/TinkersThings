@@ -2,6 +2,5 @@
   "type": "tconstruct:tool",
   "break_blocks_in_creative": true,
   "max_stack_size": 1,
-  "group": "tinkers_things:tinkers_things",
   "color_handler": "tconstruct:tool"
 }

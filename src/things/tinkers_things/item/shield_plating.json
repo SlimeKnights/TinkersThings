@@ -1,5 +1,4 @@
 {
   "type": "tconstruct:tool_part",
-  "stat_type": "tconstruct:plating_shield",
-  "group": "tinkers_things:tinkers_things"
+  "stat_type": "tconstruct:plating_shield"
 }

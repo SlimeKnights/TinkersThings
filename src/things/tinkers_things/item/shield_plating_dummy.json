@@ -1,6 +1,5 @@
 {
   "type": "minecraft:plain",
-  "group": "tinkers_things:tinkers_things",
   "lore": [
     { "translate": "item.tconstruct.dummy_tool_part.tooltip", "color": "gray" }
   ]

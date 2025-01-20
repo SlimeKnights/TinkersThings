@@ -18,6 +18,6 @@ license="MIT"
 [[dependencies.tinkers_things]]
     modId="jsonthings"
     mandatory=true
-    versionRange="[0.9.4,)"
+    versionRange="[0.9.9,)"
     ordering="NONE"
     side="BOTH"

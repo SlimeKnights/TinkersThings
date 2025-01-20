@@ -2,6 +2,5 @@
   "type": "tconstruct:crossbow",
   "allow_fireworks": false,
   "max_stack_size": 1,
-  "group": "tinkers_things:tinkers_things",
   "color_handler": "tconstruct:tool"
 }

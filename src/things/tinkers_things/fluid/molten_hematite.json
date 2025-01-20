@@ -1,8 +1,7 @@
 {
   "type": "flowing",
   "bucket": {
-    "max_stack_size": 1,
-    "group": "tinkers_things:tinkers_things"
+    "max_stack_size": 1
   },
   "block": {
     "type": "tconstruct:burning_liquid",

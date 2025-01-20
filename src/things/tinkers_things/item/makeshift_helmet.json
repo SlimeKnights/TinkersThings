@@ -3,7 +3,6 @@
   "slot": "helmet",
   "equip_sound": "item.armor.equip_generic",
   "max_stack_size": 1,
-  "group": "tinkers_things:tinkers_things",
   "model_name": "tinkers_things:makeshift",
   "color_handler": "tconstruct:tool"
 }

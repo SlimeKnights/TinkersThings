@@ -1,5 +1,33 @@
 {
   "icon": "tinkers_things:chisel",
-  "before": ["tconstruct:world"],
-  "translation_key": "itemGroup.tinkers_things.tinkers_things"
+  "after": ["tconstruct:world"],
+  "translation_key": "itemGroup.tinkers_things.tinkers_things",
+  "items": [
+    "tinkers_things:hematite",
+    "tinkers_things:hematite_block",
+    "tinkers_things:molten_hematite_bucket",
+    "tinkers_things:shield_plating_gold_cast",
+    "tinkers_things:large_repair_kit_gold_cast",
+    "tinkers_things:shield_plating_sand_cast",
+    "tinkers_things:large_repair_kit_sand_cast",
+    "tinkers_things:shield_plating_red_sand_cast",
+    "tinkers_things:large_repair_kit_red_sand_cast",
+    "tinkers_things:sack",
+    "tinkers_things:chisel",
+    "tinkers_things:shovel",
+    "tinkers_things:halberd",
+    "tinkers_things:blowpipe",
+    "tinkers_things:shortbow",
+    "tinkers_things:amethyst_staff",
+    "tinkers_things:makeshift_helmet",
+    "tinkers_things:makeshift_chestplate",
+    "tinkers_things:laminar_helmet",
+    "tinkers_things:laminar_chestplate",
+    "tinkers_things:laminar_leggings",
+    "tinkers_things:laminar_boots",
+    "tinkers_things:laminar_shield",
+    "tinkers_things:shield_plating_dummy",
+    "tinkers_things:shield_plating",
+    "tinkers_things:large_repair_kit"
+  ]
 }

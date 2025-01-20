@@ -1,5 +1,4 @@
 {
   "type": "tconstruct:part_cast",
-  "part": "tinkers_things:shield_plating",
-  "group": "tinkers_things:tinkers_things"
+  "part": "tinkers_things:shield_plating"
 }
