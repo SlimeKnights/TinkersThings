@@ -1,7 +1,8 @@
 {
   "type": "flowing",
   "bucket": {
-    "max_stack_size": 1
+    "max_stack_size": 1,
+    "container": "minecraft:bucket"
   },
   "block": {
     "type": "tconstruct:burning_liquid",
