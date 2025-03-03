@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    { "item": "minecraft:leather" },
+    { "item": "minecraft:crafting_table" },
+    { "item": "minecraft:leather" }
+  ],
+  "tools": { "item": "tinkers_things:sack" },
+  "slots": { "upgrades": 1 },
+  "level": 1,
+  "check_trait_level": true,
+  "allow_crystal": true,
+  "result": "tconstruct:workbench"
+}
