@@ -72,6 +72,7 @@
   "fluid.tinkers_things.molten_hematite": "Molten Hematite",
   "fluid.tinkers_things.molten_hematite_flowing": "Flowing Molten Hematite",
   "item.tinkers_things.molten_hematite_bucket": "Molten Hematite Bucket",
+  "fluid.tinkers_things.molten_hematite.fluid_effect": "Burns away the old, then heals it back stronger. Effective against undead!",
   
   "item.tinkers_things.makeshift_helmet":     "Makeshift Helmet",
   "item.tinkers_things.makeshift_chestplate": "Makeshift Chestplate",
