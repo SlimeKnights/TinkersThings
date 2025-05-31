@@ -3,6 +3,9 @@
   
   "item.tinkers_things.chisel": "工匠凿子",
   "item.tinkers_things.blowpipe": "吹箭筒",
+  "modifier.tinkers_things.bambooshot": "竹镞",
+  "modifier.tinkers_things.bambooshot.flavor": "移镞接竹",
+  "modifier.tinkers_things.bambooshot.description": "吹箭筒能长出箭矢并发射出去",
   
   "item.tinkers_things.shovel": "锹",
   "item.tinkers_things.shovel.description": "锹是一种基础挖掘工具，能将怪物击飞，并且有更多的升级槽位。",
