@@ -3,6 +3,9 @@
   
   "item.tinkers_things.chisel": "Tinker's Chisel",
   "item.tinkers_things.blowpipe": "Blowpipe",
+  "modifier.tinkers_things.bambooshot": "Bambooshot",
+  "modifier.tinkers_things.bambooshot.flavor": "Bamboozling",
+  "modifier.tinkers_things.bambooshot.description": "Blowpipe grows its own arrows to fire",
   
   "item.tinkers_things.shovel": "Shovel",
   "item.tinkers_things.shovel.description": "The Shovel is a basic digging tool. It sends monsters flying and has more space for upgrades.",

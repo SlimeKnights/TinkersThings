@@ -4,10 +4,11 @@
     "enhanced":  "#F7CDBB",
     "range":     "#DDDDDD",
     
-    "blinding": "#506B68",
-    "tracing":  "#F9FBCB",
-    "venom":    "#64A63A",
-    "weakness": "#7F0000",
+    "bambooshot": "#97C463",
+    "blinding":   "#506B68",
+    "tracing":    "#F9FBCB",
+    "venom":      "#64A63A",
+    "weakness":   "#7F0000",
     
     "stowing": "#E8B3A0",
     "pouch":   "#B79963",

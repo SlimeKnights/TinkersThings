@@ -1,6 +1,6 @@
 {
   "type": "tconstruct:incremental_modifier",
-  "input":  { "item": "tconstruct:venom_bottle" },
+  "input":  { "item": "tconstruct:venombone" },
   "amount_per_item": 1,
   "needed_per_level": 5,
   "tools": { "item": "tinkers_things:blowpipe" },

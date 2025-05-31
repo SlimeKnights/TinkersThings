@@ -1,10 +1,11 @@
 {
   "tool": "tinkers_things:blowpipe",
   "text": [
-    { "text": "The blowpipe is a fast, high accuracy bow variant with low arrow velocity." },
+    { "text": "The blowpipe is a fast, high accuracy bow alternative with low arrow velocity. It also grows its own projectiles from bamboo." },
     { "text": "Instead of upgrading speed or arrow, blowpipes have several unique modifiers applying potion effects.", "paragraph": true }
   ],
   "properties": [
+    "Bambooshot",
     "2.0 Draw Speed",
     "0.5 Arrow Velocity",
     "0.9 Accuracy",
