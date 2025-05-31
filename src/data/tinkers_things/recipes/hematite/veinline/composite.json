@@ -3,7 +3,7 @@
   "input": "tconstruct:vine",
   "fluid": {
     "fluid": "tinkers_things:molten_hematite",
-    "amount": 100
+    "amount": 50
   },
   "temperature": 1250,
   "output": "tinkers_things:veinline"
