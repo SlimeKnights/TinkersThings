@@ -20,10 +20,33 @@
       "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 1.0 },
       "model": "tinkers_things:item/blowpipe/loaded"
     },
+    
+    {
+      "predicate": { "tconstruct:charging": 2 },
+      "model": "tinkers_things:item/blowpipe/blocking"
+    },
+    {
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 0.01 },
+      "model": "tinkers_things:item/blowpipe/blocking_1"
+    },
+    {
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 0.58 },
+      "model": "tinkers_things:item/blowpipe/blocking_2"
+    },
+    {
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 1.0 },
+      "model": "tinkers_things:item/blowpipe/blocking_loaded"
+    },
+    
     {
       "predicate": { "tconstruct:ammo": 1 },
       "model": "tinkers_things:item/blowpipe/loaded"
     },
+    {
+      "predicate": { "tconstruct:charging": 2, "tconstruct:ammo": 1 },
+      "model": "tinkers_things:item/blowpipe/blocking_loaded"
+    },
+    
     {
       "predicate": { "tconstruct:broken": 1 },
       "model": "tinkers_things:item/blowpipe/broken"

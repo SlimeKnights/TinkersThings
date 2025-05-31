@@ -4,13 +4,17 @@
   "textures": {
     "limb_bottom": "tinkers_things:item/tool/shortbow/limb_bottom",
     "limb_top":    "tinkers_things:item/tool/shortbow/limb_top",
-    "bowstring":   "tinkers_things:item/tool/shortbow/bowstring_1",
-    "arrow":       "tconstruct:item/tool/longbow/arrow_1"
+    "bowstring":   "tinkers_things:item/tool/shortbow/bowstring_1"
   },
   "parts": [
     { "name": "limb_bottom", "index": 0 },
     { "name": "limb_top",    "index": 1 },
-    { "name": "bowstring",   "index": 2 },
-    { "name": "arrow" }
-  ]
+    { "name": "bowstring",   "index": 2 }
+  ],
+  "ammo": {
+    "key": "tconstruct:drawback_ammo",
+    "flip": true,
+    "left": true,
+    "offset": [ -3, -4 ]
+  }
 }
