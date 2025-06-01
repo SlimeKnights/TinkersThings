@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_things:makeshift_chestplate",
+  "text": [
+    { "text": "Le plastron de fortune est une armure peu coûteuse et peu défensive, conçue comme un tremplin vers une meilleure armure." }
+  ],
+  "properties": [
+    "60 de durabilité",
+    "+3 d'armure",
+    "2 emplacements d'amélioration",
+    "1 emplacement de défense",
+    "0 emplacement d'aptitude"
+  ]
+}

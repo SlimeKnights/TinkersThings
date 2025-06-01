@@ -1,0 +1,16 @@
+{
+  "tool": "tinkers_things:laminar_shield",
+  "text": [
+    { "text": "Le bouclier laminaire est un bouclier de défense moyenne avec de la place pour des aptitudes supplémentaires." }
+  ],
+  "properties": [
+    "150 % de durabilité",
+    "+1 en robustesse",
+    "Bloque 40 points de dégâts par coup",
+    "Angle de blocage de 130 degrés",
+    "40 % speed while blocking",
+    "3 emplacements d'amélioration",
+    "1 emplacement d'aptitude",
+    "3 caractéristiques de matériau"
+  ]
+}

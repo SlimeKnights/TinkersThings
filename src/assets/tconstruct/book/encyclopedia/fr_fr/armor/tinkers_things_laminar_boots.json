@@ -1,0 +1,14 @@
+{
+  "tool": "tinkers_things:laminar_boots",
+  "text": [
+    { "text": "Les bottes laminaires offrent une haute défense, avec une forte protection et un emplacement d'aptitude, mais aucun emplacement de défense." }
+  ],
+  "properties": [
+    "150 % de durabilité",
+    "+1 en robustesse",
+    "2 emplacements d'amélioration",
+    "0 emplacement de défense",
+    "1 emplacement d'aptitude",
+    "3 caractéristiques de matériau"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "tool": "tinkers_things:amethyst_staff",
+  "text": [
+    { "text": "Le bâton d'améthyste est une variante offrant davantage d'options de manche pour créer un outil hautement personnalisable." }
+  ],
+  "properties": [
+    "2 emplacements d'amélioration",
+    "2 emplacements d'aptitude",
+    "Manches personnalisables"
+  ]
+}

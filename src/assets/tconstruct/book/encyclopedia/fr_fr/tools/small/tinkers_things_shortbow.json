@@ -1,0 +1,14 @@
+{
+  "tool": "tinkers_things:shortbow",
+  "text": [
+    { "text": "L'arc court est un arc léger. Il est moins puissant et précis que ses homologues à distance, mais se rattrape par sa rapidité de tir en mouvement." },
+    { "text": "Lors de l'utilisation de modificateurs d’interaction, l’arc court agit avec un clic gauche.", "paragraph": true }
+  ],
+  "properties": [
+    "1 de vitesse d’attaque",
+    "1 de vitesse de tir",
+    "80 % de vitesse de flèche",
+    "0,6 de précision",
+    "+120 de durabilité"
+  ]
+}
