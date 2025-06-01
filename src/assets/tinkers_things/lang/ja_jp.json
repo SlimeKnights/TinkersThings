@@ -3,6 +3,9 @@
 
   "item.tinkers_things.chisel": "ティンカーのみ",
   "item.tinkers_things.blowpipe": "吹き矢",
+  "modifier.tinkers_things.bambooshot": "竹撃ち",
+  "modifier.tinkers_things.bambooshot.flavor": "竹で騙せ",
+  "modifier.tinkers_things.bambooshot.description": "吹き矢自身が矢を育てる",
 
   "item.tinkers_things.shovel": "シャベル",
   "item.tinkers_things.shovel.description": "シャベルは基本的な採掘道具です。\nモンスターを飛ばすことができ、アップグレード用のスペースもあります。",
