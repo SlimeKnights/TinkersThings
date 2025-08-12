@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "tinkers_things:magmaskin",
+  "temperature": 300,
+  "result": {
+    "tag": "forge:magma",
+    "amount": 250
+  }
+}

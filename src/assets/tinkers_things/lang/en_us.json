@@ -123,5 +123,9 @@
   "material.tinkers_things.silky_cloth.armor": "Grants an additional ability slot at the cost of 3 max health",
   "modifier.tinkers_things.silkitoxin": "Silkitoxin",
   "modifier.tinkers_things.silkitoxin.flavor": "Strength draining",
-  "modifier.tinkers_things.silkitoxin.description": "Tool gains an additional ability slots, but at what cost?"
+  "modifier.tinkers_things.silkitoxin.description": "Tool gains an additional ability slots, but at what cost?",
+  
+  "material.tinkers_things.magmaskin": "Magmaskin",
+  "material.tinkers_things.magmaskin.flavor": "Obligatory skin joke",
+  "material.tinkers_things.magmaskin.encyclopedia": "Grants +100% to all methods of restoring overslime"
 }

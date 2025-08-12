@@ -85,8 +85,16 @@
     { "path": "tinkers_things:tinker_armor/makeshift/armor", "allow_animated": false,                          "stat_type": "tconstruct:wood" }
   ],
   "overrides": {
-    "tconstruct:wood": [
-      "tconstruct:gold"
-    ]
+    "tconstruct:wood": [ "tconstruct:gold" ],
+    
+    "tconstruct:binding":   [ "tconstruct:magma" ],
+    "tconstruct:bowstring": [ "tconstruct:magma" ],
+    
+    "tconstruct:maille":       [ "tconstruct:magma" ],
+    "tconstruct:armor_maille": [ "tconstruct:magma" ],
+    
+    "tconstruct:cuirass":       [ "tconstruct:magma" ],
+    "tconstruct:armor_cuirass": [ "tconstruct:magma" ],
+    "tconstruct:repair_kit":    [ "tconstruct:magma" ]
   }
 }
