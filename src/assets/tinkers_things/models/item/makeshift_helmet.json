@@ -5,7 +5,7 @@
     "tool": "tinkers_things:item/tool/makeshift_armor/helmet"
   },
   "modifier_roots": [ "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/" ],
-  "first_modifiers": [ "tconstruct:embellishment", "tconstruct:golden" ],
+  "first_modifiers": [ "tconstruct:embellishment" ],
   "overrides": [
     {
       "predicate": { "tconstruct:broken": 1 },

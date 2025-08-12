@@ -85,8 +85,6 @@
     { "path": "tinkers_things:tinker_armor/makeshift/armor", "allow_animated": false,                          "stat_type": "tconstruct:wood" }
   ],
   "overrides": {
-    "tconstruct:wood": [ "tconstruct:gold" ],
-    
     "tconstruct:binding":   [ "tconstruct:magma" ],
     "tconstruct:bowstring": [ "tconstruct:magma" ],
     
