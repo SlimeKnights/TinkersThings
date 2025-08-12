@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "description": "Tinkers' Things Generated Resources",
-        "pack_format": 8
-    }
+  "pack": {
+    "description": "Tinkers' Things Generated Resources",
+    "pack_format": 15
+  }
 }
