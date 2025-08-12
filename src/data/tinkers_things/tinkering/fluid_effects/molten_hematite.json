@@ -1,6 +1,6 @@
 {
   "fluid": {
-    "name": "tinkers_things:molten_hematite",
+    "fluid": "tinkers_things:molten_hematite",
     "amount": 10
   },
   "block_effects": [

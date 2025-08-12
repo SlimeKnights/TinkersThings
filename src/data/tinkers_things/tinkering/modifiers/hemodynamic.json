@@ -6,7 +6,7 @@
     {
       "type": "tconstruct:modifier_slot",
       "name": "upgrades",
-      "count": 2
+      "each_level": 2
     },
     {
       "type": "tconstruct:conditional_mining_speed",
