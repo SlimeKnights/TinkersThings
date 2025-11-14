@@ -1,0 +1,15 @@
+{
+  "tool": "tinkers_things:blockram",
+  "text": [
+    { "text": "The blockram is a throwable harvest tool effective on most blocks, though it cannot mine blocks without throwing. It is found from stronghold, skeletons, and a gift from toolsmiths after defeating a raid." },
+    { "text": "Expanders mine additional blocks in a circle.", "paragraph": true }
+  ],
+  "properties": [
+    "+1 Attack Damage",
+    "1.7 Attack Speed",
+    "Throwing",
+    "Returning",
+    "3 Upgrade Slots",
+    "1 Ability Slot"
+  ]
+}

@@ -22,6 +22,12 @@
   "item.tinkers_things.amethyst_staff": "Amethyst Staff",
   "item.tinkers_things.amethyst_staff.description": "The Amethyst Staff is a staff variant providing a wider variety of options for the handle for creating highly customizable tool.",
   
+  "__comment": "Blockram is a portmanteau of block and chakram",
+  "item.tinkers_things.blockram": "Blockram",
+  "modifier.tinkers_things.hyperoptic": "Hyperoptic",
+  "modifier.tinkers_things.hyperoptic.flavor": "Not for close distance",
+  "modifier.tinkers_things.hyperoptic.description": "Ineffective mining blocks while held, but still effective when thrown",
+  
   "item.tinkers_things.sack": "Knapsack",
   
   "pattern.tinkers_things.large_repair_kit": "Large Repair Kit",

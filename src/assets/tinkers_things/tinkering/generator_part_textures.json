@@ -7,6 +7,11 @@
     { "path": "tinkers_things:item/tool/shovel/head_broken", "stat_type": "tconstruct:head" },
     { "path": "tinkers_things:item/tool/shovel/handle",      "stat_type": "tconstruct:handle" },
     
+    { "path": "tinkers_things:item/tool/blockram/blade",         "stat_type": "tconstruct:head" },
+    { "path": "tinkers_things:item/tool/blockram/blade_broken",  "stat_type": "tconstruct:head" },
+    { "path": "tinkers_things:item/tool/blockram/handle",        "stat_type": "tconstruct:limb" },
+    { "path": "tinkers_things:item/tool/blockram/handle_broken", "stat_type": "tconstruct:limb" },
+    
     { "path": "tinkers_things:item/tool/halberd/blade",        "stat_type": "tconstruct:head" },
     { "path": "tinkers_things:item/tool/halberd/blade_broken", "stat_type": "tconstruct:head" },
     { "path": "tinkers_things:item/tool/halberd/spike",        "stat_type": "tconstruct:head" },

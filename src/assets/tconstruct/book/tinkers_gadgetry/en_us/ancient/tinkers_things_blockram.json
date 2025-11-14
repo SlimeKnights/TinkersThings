@@ -1,0 +1,14 @@
+{
+  "tool": "tinkers_things:blockram",
+  "text": [
+    { "text": "The blockram is a specialized chakram thrown to break blocks at a distance, though its ineffective mining at close range. It is also the weapon of choice of the most skilled cartographers. Skeletons love the tool, even if it does confuse them." }
+  ],
+  "properties": [
+    "Thrown to mine blocks",
+    "Low Damage",
+    "High Attack Speed",
+    "3 Upgrade Slots",
+    "1 Ability Slot",
+    "Poshanka!"
+  ]
+}
