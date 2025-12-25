@@ -8,7 +8,9 @@
     "ignoreMaterialStats": false,
     "supportedStats": [
       "tconstruct:maille",
-      "tconstruct:armor_maille"
+      "tconstruct:armor_maille",
+      "tconstruct:bowstring",
+      "tconstruct:fletching"
     ],
     "transformer": {
       "type": "tconstruct:recolor_sprite",

@@ -1,5 +1,7 @@
 {
   "stats": {
-    "tconstruct:maille": {}
+    "tconstruct:maille": {},
+    "tconstruct:bowstring": {},
+    "tconstruct:fletching": {}
   }
 }

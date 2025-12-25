@@ -11,7 +11,9 @@
         "feet",
         "legs",
         "chest",
-        "head"
+        "head",
+        "mainhand",
+        "offhand"
       ],
       "unique": "tinkers_things.modifier.silitoxin"
     },
