@@ -1,0 +1,134 @@
+{
+  "itemGroup.tinkers_things.tinkers_things": "Cosas del Tinker",
+  
+  "item.tinkers_things.chisel": "Cincel del Tinker",
+  "item.tinkers_things.blowpipe": "Cerbatana",
+  "modifier.tinkers_things.bambooshot": "Tiro de bambú",
+  "modifier.tinkers_things.bambooshot.flavor": "Bambuceante",
+  "modifier.tinkers_things.bambooshot.description": "La Cerbatana crece sus propias flechas para disparar",
+  
+  "item.tinkers_things.shovel": "Pala",
+  "item.tinkers_things.shovel.description": "La Pala es una herramienta de excavación básica. Manda volando a los monstruos y tiene más espacio para mejoras.",
+  
+  "item.tinkers_things.halberd": "Alabarda",
+  "item.tinkers_things.halberd.description": "La Alabarda tiene un largo alcance, está diseñada para dar fuertes golpes a oponentes lejanos.",
+  "modifier.tinkers_things.range": "Largo alcance",
+  "modifier.tinkers_things.range.flavor": "Mango extra grande",
+  "modifier.tinkers_things.range.description": "La herramienta es extra larga, permitiendo atacar a monstruos lejanos",
+  
+  "item.tinkers_things.shortbow": "Arco corto",
+  "item.tinkers_things.shortbow.description": "El arco corto es un arco ligero. No es tan fuerte o preciso como sus primas de rango, pero lo compensa al ser fácil de disparar al moverse.",
+  
+  "item.tinkers_things.amethyst_staff": "Cetro Amatista",
+  "item.tinkers_things.amethyst_staff.description": "El Cetro Amatista es una variante de cetro que provee una gran variedad d emangos para crear una herramienta altamente personalizable.",
+  
+  "__comment": "El Bloqkram es una mezcla entre bloque y charkam",
+  "item.tinkers_things.blockram": "Bloqkram",
+  "modifier.tinkers_things.hyperoptic": "Hiperóptico",
+  "modifier.tinkers_things.hyperoptic.flavor": "No diseñado para corta distancia",
+  "modifier.tinkers_things.hyperoptic.description": "No es efectivo al minar bloques normalmente, pero si lo es al lanzarlo",
+  
+  "item.tinkers_things.sack": "Bolso",
+  
+  "pattern.tinkers_things.large_repair_kit": "Kit de Reparación bruto",
+  "item.tinkers_things.large_repair_kit": "Kit de Reparación bruto",
+  "item.tinkers_things.large_repair_kit_gold_cast": "Molde de oro de Kit de reparación bruto",
+  "item.tinkers_things.large_repair_kit_sand_cast": "Molde de arena de Kit de reparación bruto",
+  "item.tinkers_things.large_repair_kit_red_sand_cast": "Molde de arena roja de Kit de reparación bruto",
+  
+  
+  "modifier.tinkers_things.fortified": "Fortificado",
+  "modifier.tinkers_things.fortified.flavor": "Tan duro como el cobre",
+  "modifier.tinkers_things.fortified.description": "La herrmamienta tiene estadísticas mejoradas, nivel de minería y puede ser reparado con cobre",
+  "modifier.tinkers_things.enhanced": "Mejorado",
+  "modifier.tinkers_things.enhanced.flavor": "¡Brillante!",
+  "modifier.tinkers_things.enhanced.description": "Restaura el slot de mejora perdido por Fortificado.",
+  "modifier.tinkers_things.enhanced.requirements": "Mejorado requiere aplicar Fortificado primero",
+  
+  
+  "modifier.tinkers_things.blinding": "Cegamiento",
+  "modifier.tinkers_things.blinding.flavor": "Justo en el ojo",
+  "modifier.tinkers_things.blinding.description": "Las flechas causan que el objetivo sea cegado temporalmente",
+  
+  "modifier.tinkers_things.tracing": "Rastreo",
+  "modifier.tinkers_things.tracing.flavor": "¡No puedo creer que no sea Brillo!",
+  "modifier.tinkers_things.tracing.description": "El objetivo brillará por unos segundos, haciéndolos más fáciles de rastrear",
+  
+  "modifier.tinkers_things.venom": "Veneno",
+  "modifier.tinkers_things.venom.flavor": "La venganza de la araña",
+  "modifier.tinkers_things.venom.description": "El objetivo será envenenado, causando daño por el tiempo",
+  
+  "modifier.tinkers_things.weakness": "Debilidad",
+  "modifier.tinkers_things.weakness.flavor": "Mareo en una flecha",
+  "modifier.tinkers_things.weakness.description": "El objetivo será temporalmente debilitado, reduciendo su daño de ataque",
+  
+  
+  "modifier.tinkers_things.stowing": "Almacenamiento",
+  "modifier.tinkers_things.stowing.flavor": "Puede guardar hartas cosas",
+  "modifier.tinkers_things.stowing.description": "La herramienta gana 9 slots de almacenamiento adicional",
+  
+  "modifier.tinkers_things.pouch": "Bolsillo",
+  "modifier.tinkers_things.pouch.flavor": "Puede guardar unas cuantas cosas",
+  "modifier.tinkers_things.pouch.description": "La herramienta gana 3 slots de almacenamiento adicional",
+  
+  
+  "block.tinkers_things.hematite_block": "Bloque de Hematita",
+  "item.tinkers_things.hematite": "Hematita",
+  "stat.tconstruct.harvest_tier.tinkers_things.hematite": "Hematita",
+  
+  "fluid_type.tinkers_things.molten_hematite": "Hematita fundida",
+  "block.tinkers_things.molten_hematite": "Hematita fundida",
+  "fluid.tinkers_things.molten_hematite": "Hematita fundida",
+  "fluid.tinkers_things.molten_hematite_flowing": "Hematita fundida fluyendo",
+  "item.tinkers_things.molten_hematite_bucket": "Balde con Hematita fundida",
+  "fluid.tinkers_things.molten_hematite.fluid_effect": "Quema lo viejo, y lo cura más fuerte. ¡Efectivo contra los no-nuertos!",
+  
+  "item.tinkers_things.makeshift_helmet":     "Casco Improvisado",
+  "item.tinkers_things.makeshift_chestplate": "Pechera Improvisada",
+  
+  "gui.tinkers_things.laminar_armor": "Armadura Lamelar",
+  "item.tinkers_things.laminar_helmet":     "Casco Lamelar",
+  "item.tinkers_things.laminar_chestplate": "Pechera Lamelar",
+  "item.tinkers_things.laminar_leggings":   "Pantalones Lamelares",
+  "item.tinkers_things.laminar_boots":      "Botas Lamelares",
+  "item.tinkers_things.laminar_shield":     "Escudo Lamelar",
+  "gui.tinkers_things.laminar_armor.description": "El set Lamelar es altamente modificable hecho con un núcleo sólido. Mientras que su defensa mágica es limitada, lo compensa en un potencial de armadura y habilidad bruto.",
+  
+  "pattern.tinkers_things.shield_plating": "Blindaje de Escudo",
+  "item.tinkers_things.shield_plating": "Blindaje de Escudo",
+  "item.tinkers_things.shield_plating_dummy": "Blindaje de Escudo de piedra",
+  "item.tinkers_things.shield_plating_gold_cast": "Molde de oro de Blindaje de Escudo",
+  "item.tinkers_things.shield_plating_sand_cast": "Molde de Arena de Blindaje de Escudo",
+  "item.tinkers_things.shield_plating_red_sand_cast": "Molde de Arena roja de Blindaje de Escudo",
+
+  "material.tinkers_things.hematite": "Hematita",
+  "material.tinkers_things.hematite.flavor": "Piedra de sangre, creída un mito por muchos y temida por más",
+  "material.tinkers_things.hematite.encyclopedia": "Otorga 2 slots de mejora adicionales por el coste de -3 daño a los no-uertos -6 de velocidad minera contra minerales, troncos y tierra",
+  "material.tinkers_things.hematite.armor": "Otorga 2 slots de defensa adicionales por el costo -5% de protección contra todas las fuentes",
+  
+  "modifier.tinkers_things.hemodynamic": "Hemodinámico",
+  "modifier.tinkers_things.hemodynamic.flavor": "La sangre se mueve",
+  "modifier.tinkers_things.hemodynamic.description": "La herramienta gana 2 slots de mejora adicionales, ¿Pero a qué costo?",
+  "modifier.tinkers_things.hemodynamic.attack_damage": "Daño a los no-muertos",
+  "modifier.tinkers_things.hemodynamic.mining_speed": "Velocidad hemodinámica",
+  "modifier.tinkers_things.hemosistance": "Hemosistencia",
+  "modifier.tinkers_things.hemosistance.flavor": "La sangre se mueve",
+  "modifier.tinkers_things.hemosistance.description": "La herramienta gana 2 slots de defensa adicionales, ¿Pero a qué costo?",
+  "modifier.tinkers_things.hemosistance.resistance": "Resistencia",
+  
+  "material.tinkers_things.silky_cloth": "Paño sedoso",
+  "material.tinkers_things.silky_cloth.flavor": "¡Suave como la seda!!",
+  "material.tinkers_things.silky_cloth.armor": "Otorga un slot de habilidad adicional por el costo de 3 de vida máximaGh",
+  "material.tinkers_things.silky_cloth.ranged": "Otorga +1 de poder. pero restringe el ángulo del proyectil",
+  "material.tinkers_things.silky_cloth.ammo": "Otorga +0.5 de poder. pero restringe el ángulo del proyectil",
+  "modifier.tinkers_things.silkitoxin": "Toxina Sedosa",
+  "modifier.tinkers_things.silkitoxin.flavor": "Drena-fuerzas",
+  "modifier.tinkers_things.silkitoxin.description": "La herramienta gana un slot de habilidad adicional, ¿Pero a qué costo?",
+  "modifier.tinkers_things.silkibound": "Atado a la Seda",
+  "modifier.tinkers_things.silkibound.flavor": "Dirjie-fuerzas",
+  "modifier.tinkers_things.silkibound.description": "El proyectil gana más poder, ¿Pero a qué costo?",
+  
+  "material.tinkers_things.magmaskin": "Piel de Magma",
+  "material.tinkers_things.magmaskin.flavor": "Chiste sobre piel obligatorio",
+  "material.tinkers_things.magmaskin.encyclopedia": "Otorga +100% a todos los métodos de restaurar Sobreslime"
+}
