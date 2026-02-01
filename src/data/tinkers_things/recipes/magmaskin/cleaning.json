@@ -1,10 +1,10 @@
 {
   "type": "tconstruct:material_fluid",
-  "input": "tconstruct:magmaskin",
+  "input": "tinkers_things:magmaskin",
   "fluid": {
     "tag": "tconstruct:venom",
     "amount": 50
   },
   "temperature": 10,
-  "output": "tinkers_things:magmaskin"
+  "output": "tconstruct:leather"
 }
