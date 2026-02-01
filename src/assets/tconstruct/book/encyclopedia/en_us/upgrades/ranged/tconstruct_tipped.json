@@ -1,0 +1,15 @@
+{
+  "modifier_id": "tconstruct:tipped",
+  "text": [
+    {
+      "text": "Allows casting potion on the tool to tip it. When tipped, fired arrows will apply a potion effect in addition to its damage."
+    }
+  ],
+  "more_text_space": true,
+  "tool_filter": "tconstruct:modifiable/ranged",
+  "effects": [
+    "Maximum of 3 levels",
+    "Different recipe each level",
+    "Requires 1 upgrade slot per level"
+  ]
+}

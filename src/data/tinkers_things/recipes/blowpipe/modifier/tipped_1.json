@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "inputs": [
+    { "item": "minecraft:flint" },
+    { "item": "minecraft:flint" },
+    { "item": "minecraft:flint" }
+  ],
+  "slots": { "upgrades": 1 },
+  "level": 1,
+  "result": "tconstruct:tipped",
+  "tools": { "item": "tinkers_things:blowpipe" }
+}tipped_1.json
