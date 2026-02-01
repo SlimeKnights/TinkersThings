@@ -3,7 +3,7 @@
   "allow_crystal": true,
   "inputs": [
     { "item": "minecraft:piston" },
-    { "tag": "forge:ingots/amethyst_bronze" },
+    { "tag": "forge:ingots/steel" },
     { "item": "minecraft:piston" },
     { "tag": "forge:slimeball/ichor" },
     { "tag": "forge:slimeball/ichor" }
