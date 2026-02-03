@@ -4,6 +4,7 @@
   "textures": {
     "tool":   "tinkers_things:item/tool/blowpipe/tool"
   },
+  "modifier_roots": [ "tinkers_things:item/tool/blowpipe/modifiers/" ],
   "parts": [
     { "name": "tool" }
   ],

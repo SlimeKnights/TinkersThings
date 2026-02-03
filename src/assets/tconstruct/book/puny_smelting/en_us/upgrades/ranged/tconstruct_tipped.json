@@ -1,0 +1,15 @@
+{
+  "modifier_id": "tconstruct:tipped",
+  "text": [
+    {
+      "text": "Why fight fairly when you can fight with toxins?"
+    }
+  ],
+  "effects": [
+    "Allows casting potions on the tool",
+    "Potion effects apply to fired arrows",
+    "Multiple levels, each level increases effect",
+    "Different recipe each level",
+    "Requires 1 upgrade slot per level"
+  ]
+}

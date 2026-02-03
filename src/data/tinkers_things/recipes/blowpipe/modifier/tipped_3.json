@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "inputs": [
+    { "item": "tconstruct:cobalt_shard" },
+    { "item": "tconstruct:cobalt_shard" },
+    { "item": "tconstruct:cobalt_shard" }
+  ],
+  "slots": { "upgrades": 1 },
+  "level": 3,
+  "result": "tconstruct:tipped",
+  "tools": { "item": "tinkers_things:blowpipe" }
+}
