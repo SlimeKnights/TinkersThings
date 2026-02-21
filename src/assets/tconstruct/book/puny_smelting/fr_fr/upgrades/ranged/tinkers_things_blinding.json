@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tinkers_things:blinding",
+  "text": [
+    {
+      "text": "Si vous ne voyez rien, vous ne pouvez pas vous battre."
+    }
+  ],
+  "effects": [
+    "Aveugle les cibles des flèches de sarbacane",
+    "Plusieurs niveaux, chaque niveau augmente la durée de l'aveuglement",
+    "Nécessite 1 emplacement d'amélioration par niveau"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "tool": "tinkers_things:chisel",
+  "text": [
+    { "text": "Les ciseaux sont des outils de minage en début de partie, permettant de miner la pierre sans avoir besoin d'un véritable atelier de tinker." },
+    { "text": "Les ciseaux peuvent voir leurs statistiques améliorées via quelques modificateurs uniques, et permettent d'échanger les blocs minés.", "paragraph": true }
+  ],
+  "properties": [
+    "3 de vitesse de minage",
+    "Niveau de récolte : pierre",
+    "+1 dégât d'attaque",
+    "75 % de modificateur d'attaque",
+    "1,75 de vitesse d'attaque",
+    "100 de durabilité",
+    "75 % de modificateur de durabilité",
+    "Échange"
+  ]
+}

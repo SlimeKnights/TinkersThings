@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tinkers_things:sticky",
+  "text": [
+    {
+      "text": "La soie d'araignée empêche votre cible de fuir, vous permettant de l'achever de près."
+    }
+  ],
+  "effects": [
+    "Ralentit les cibles touchées par les flèches des sarbacanes",
+    "Plusieurs niveaux, chaque niveau augmente la durée du ralentissement",
+    "Nécessite 1 emplacement d'amélioration par niveau"
+  ]
+}

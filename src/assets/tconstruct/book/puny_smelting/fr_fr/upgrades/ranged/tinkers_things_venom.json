@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tinkers_things:venom",
+  "text": [
+    {
+      "text": "Le venin mortel d'une araignée affaiblira lentement vos cibles, sans jamais les tuer."
+
+    }
+  ],
+  "effects": [
+    "Empoisonne les cibles des flèches de sarbacane",
+    "Plusieurs niveaux, chaque niveau augmente la durée du poison",
+    "Nécessite 1 emplacement d'amélioration par niveau"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_things:laminar_helmet",
+  "text": [
+    { "text": "Ajouter du rembourrage à votre casque évite à votre crâne de rebondir." }
+  ],
+  "properties": [
+    "Durabilité moyenne",
+    "Haute protection",
+    "2 emplacements d'amélioration",
+    "1 emplacement d'aptitude",
+    "3 caractéristiques de matériau"
+  ]
+}

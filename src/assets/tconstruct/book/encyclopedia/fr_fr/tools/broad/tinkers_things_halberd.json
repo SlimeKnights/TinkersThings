@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_things:halberd",
+  "text": [
+    { "text": "La hallebarde est une arme à portée conçue pour asséner de puissants coups à des adversaires éloignés." }
+  ],
+  "properties": [
+    "+5 dégâts d'attaque",
+    "125 % de modificateur d'attaque",
+    "0,8 de vitesse d'attaque",
+    "225 % de durabilité",
+    "Longue portée"
+  ]
+}

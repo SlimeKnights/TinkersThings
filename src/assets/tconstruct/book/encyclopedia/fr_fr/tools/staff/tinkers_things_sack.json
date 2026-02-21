@@ -1,0 +1,10 @@
+{
+  "tool": "tinkers_things:sack",
+  "text": [
+    { "text": "Le sac à dos est un objet de stockage pouvant contenir jusqu'à 9 piles d'objets. Son espace de stockage peut être amélioré avec des modificateurs bonus, la bourse et le rangement. Il peut aussi être teint pour différencier les sacs plus facilement." }
+  ],
+  "properties": [
+    "0 emplacement d'amélioration",
+    "0 emplacement d'aptitude"
+  ]
+}

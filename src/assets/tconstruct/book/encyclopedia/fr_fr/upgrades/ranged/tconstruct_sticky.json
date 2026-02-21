@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:sticky",
+  "text": [
+    { "text": "Applique jusqu'à 1,5 seconde (plus 1 seconde par niveau) de lenteur à la cible du projectile." }
+  ],
+  "more_text_space": true,
+  "tool_filter": "tconstruct:modifiable/ranged",
+  "effects": [
+    "Peut être appliqué par paliers",
+    "Maximum de 4 niveaux",
+    "Nécessite 1 emplacement d'amélioration par niveau"
+  ]
+}

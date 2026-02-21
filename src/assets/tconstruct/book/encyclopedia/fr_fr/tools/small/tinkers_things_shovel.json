@@ -1,0 +1,12 @@
+{
+  "tool": "tinkers_things:shovel",
+  "text": [
+    { "text": "La pelle est un outil de creusage basique. Elle envoie les monstres valser et offre plus d'espace pour des améliorations." }
+  ],
+  "properties": [
+    "+1,5 dégâts d'attaque",
+    "1 de vitesse d'attaque",
+    "Recul I",
+    "Création de chemins"
+  ]
+}

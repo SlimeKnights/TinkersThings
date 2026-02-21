@@ -1,0 +1,11 @@
+{
+  "tool": "tinkers_things:chisel",
+  "text": [
+    { "text": "Si tu continues à tailler le marbre devant toi, tu pourrais révéler la sculpture cachée… ou simplement manquer de pierre." }
+  ],
+  "properties": [
+    "Outil bon marché pour miner la pierre",
+    "Peut échanger les blocs extraits",
+    "Peut être renforcé et amélioré"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "modifier_id": "tinkers_things:fortified",
+  "text": [
+    { "text": "Donne au ciseau +150 de durabilité, +1 en vitesse de minage, et augmente le niveau de récolte à fer." },
+    { "text": "Permet de réparer le ciseau avec du cuivre, bien que le silex fonctionne toujours.", "paragraph": true }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Utilisable une seule fois",
+    "Nécessite 1 emplacement d'amélioration"
+  ]
+}
