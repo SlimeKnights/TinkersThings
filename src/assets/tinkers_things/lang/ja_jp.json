@@ -22,6 +22,12 @@
   "item.tinkers_things.amethyst_staff": "アメジストの杖",
   "item.tinkers_things.amethyst_staff.description": "アメジストの杖は、持ち手の幅広い選択肢があり、高度にカスタマイズ可能な杖の一種です。",
 
+  "__comment": "Blockram is a portmanteau of block and chakram",
+  "item.tinkers_things.blockram": "ブロックラム",
+  "modifier.tinkers_things.hyperoptic": "遠視能力",
+  "modifier.tinkers_things.hyperoptic.flavor": "近距離用ではない",
+  "modifier.tinkers_things.hyperoptic.description": "手に持つと効果がないが、投げると効果を発揮する",
+
   "item.tinkers_things.sack": "ナップサック",
 
   "pattern.tinkers_things.large_repair_kit": "大型リペアキット",
@@ -96,19 +102,11 @@
   "material.tinkers_things.hematite.encyclopedia": "アンデッドへのダメージが-3、鉱石、丸太、土に対する採掘速度が-6されるが、2つの追加アップグレードスロットを得る",
   "material.tinkers_things.hematite.armor": "すべての耐性が-5%されるが、2つの追加の防御スロットを得る",
 
-  "material.tinkers_things.veinline": "静脈糸",
-  "material.tinkers_things.veinline.flavor": "血液は流れ続ける",
-  "material.tinkers_things.veinline.encyclopedia": "追加の防御スロットを得る",
-  "material.tinkers_things.veinline.ranged": "追加の防御スロットを得る",
-
   "modifier.tinkers_things.hemodynamic": "血行",
   "modifier.tinkers_things.hemodynamic.flavor": "血の動き",
   "modifier.tinkers_things.hemodynamic.description": "道具に追加の2つのアップグレードスロットを得る。しかし、代償はある",
   "modifier.tinkers_things.hemodynamic.attack_damage": "アンデッド攻撃力補正",
   "modifier.tinkers_things.hemodynamic.mining_speed": "血行補正",
-  "modifier.tinkers_things.hemophobic": "血液恐怖症",
-  "modifier.tinkers_things.hemophobic.flavor": "赤い液体への恐怖",
-  "modifier.tinkers_things.hemophobic.description": "道具は追加の防御スロットを得る",
   "modifier.tinkers_things.hemosistance": "血液抵抗",
   "modifier.tinkers_things.hemosistance.flavor": "血の動き",
   "modifier.tinkers_things.hemosistance.description": "道具に追加の2つの防御スロットを得る。しかし、代償はある",
@@ -117,7 +115,16 @@
   "material.tinkers_things.silky_cloth": "絹布",
   "material.tinkers_things.silky_cloth.flavor": "とてもソフトな肌触り！",
   "material.tinkers_things.silky_cloth.armor": "体力がハート1.5個分減少するが、追加のアビリティスロットを1つ得る。",
+  "material.tinkers_things.silky_cloth.ranged": "攻撃力補正が+1増加するが、射出角度が制限される",
+  "material.tinkers_things.silky_cloth.ammo": "攻撃力補正が+0.5増加するが、射出角度が制限される",
   "modifier.tinkers_things.silkitoxin": "絹毒",
   "modifier.tinkers_things.silkitoxin.flavor": "体力吸収",
-  "modifier.tinkers_things.silkitoxin.description": "道具に追加のアビリティスロットを得る。しかし、代償はある"
+  "modifier.tinkers_things.silkitoxin.description": "道具に追加のアビリティスロットを得る。しかし、代償はある",
+  "modifier.tinkers_things.silkibound": "シルキバウンド",
+  "modifier.tinkers_things.silkibound.flavor": "力の向き",
+  "modifier.tinkers_things.silkibound.description": "弾丸の威力は増すが、その代償は何か？",
+
+  "material.tinkers_things.magmaskin": "マグマスキン",
+  "material.tinkers_things.magmaskin.flavor": "お決まりの肌ネタ",
+  "material.tinkers_things.magmaskin.encyclopedia": "オーバースライムを回復するすべての方法の効果を100%増加させる"
 }
