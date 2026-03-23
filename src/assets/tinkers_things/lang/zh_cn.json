@@ -21,6 +21,12 @@
   
   "item.tinkers_things.amethyst_staff": "紫水晶手杖",
   "item.tinkers_things.amethyst_staff.description": "紫水晶手杖为选择高度定制化手杖的人们提供了一种全新选择，因为它可以搭配不同的杖柄。",
+  
+  "__comment": "方刃是方块和轮刃的合成词",
+  "item.tinkers_things.blockram": "方刃",
+  "modifier.tinkers_things.hyperoptic": "舍近求远",
+  "modifier.tinkers_things.hyperoptic.flavor": "不适合近距离使用",
+  "modifier.tinkers_things.hyperoptic.description": "手持该工具时无法破坏方块，但是投掷后能破坏击中的方块",
 
   "item.tinkers_things.sack": "小型背包",  
   
@@ -100,14 +106,9 @@
   "material.tinkers_things.hematite.encyclopedia": "给予2个额外升级槽，但同时对亡灵生物伤害-3，且对矿石、木材、泥土挖掘速度-6。",
   "material.tinkers_things.hematite.armor": "增加2个额外的防御槽，代价是对所有伤害来源提供的保护-5%",
   
-  "material.tinkers_things.veinline": "血脉丝线",
-  "material.tinkers_things.veinline.flavor": "血液奔流不息",
-  "material.tinkers_things.veinline.encyclopedia": "给予1个额外防御槽",
-  "material.tinkers_things.veinline.ranged": "给予1个额外防御槽",
-  
   "modifier.tinkers_things.hemodynamic": "血动力",
   "modifier.tinkers_things.hemodynamic.flavor": "血液涌流",
-  "modifier.tinkers_things.hemodynamic.description": "工具获得1个额外升级槽，但代价是什么？",
+  "modifier.tinkers_things.hemodynamic.description": "工具获得1个额外升级槽，但代价是什么呢？",
   "modifier.tinkers_things.hemodynamic.attack_damage": "对亡灵生物伤害",
   "modifier.tinkers_things.hemodynamic.mining_speed": "血动力伤害",
   "modifier.tinkers_things.hemophobic": "恐血",
@@ -123,5 +124,12 @@
   "material.tinkers_things.silky_cloth.armor": "降低3点最大生命值，但额外增加1个能力槽",
   "modifier.tinkers_things.silkitoxin": "丝毒",
   "modifier.tinkers_things.silkitoxin.flavor": "力量汲取",
-  "modifier.tinkers_things.silkitoxin.description": "工具额外增加1个能力槽，但代价是什么呢"
-  }
+  "modifier.tinkers_things.silkitoxin.description": "工具额外增加1个能力槽，但代价是什么呢？",
+  "modifier.tinkers_things.silkibound": "丝固",
+  "modifier.tinkers_things.silkibound.flavor": "力量导向",
+  "modifier.tinkers_things.silkibound.description": "弹射物力量增加，但代价是什么呢？",
+
+  "material.tinkers_things.magmaskin": "岩浆皮",
+  "material.tinkers_things.magmaskin.flavor": "不得不品的皮肉笑话",
+  "material.tinkers_things.magmaskin.encyclopedia": "所有恢复黏液覆层的方法+100%"
+}

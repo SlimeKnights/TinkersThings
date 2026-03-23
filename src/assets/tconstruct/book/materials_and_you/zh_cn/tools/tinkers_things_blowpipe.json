@@ -1,7 +1,7 @@
 {
   "tool": "tinkers_things:blowpipe",
   "text": [
-    { "text": "能够欺骗对手，也是一种廉价的弹射物。" }
+    { "text": "能够欺骗对手，也是一种廉价的弹射物武器。" }
   ],
   "properties": [
     "发射吹箭筒长出的竹镖",
