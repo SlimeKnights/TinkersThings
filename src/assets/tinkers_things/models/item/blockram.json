@@ -1,0 +1,22 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "blade":  "tinkers_things:item/tool/blockram/blade",
+    "handle": "tinkers_things:item/tool/blockram/handle"
+  },
+  "parts": [
+    { "name": "handle", "index": 1 },
+    { "name": "blade",  "index": 0 }
+  ],
+  "overrides": [
+    {
+      "predicate": { "tconstruct:charging": 2 },
+      "model": "tinkers_things:item/blockram/blocking"
+    },
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "tinkers_things:item/blockram/broken"
+    }
+  ]
+}

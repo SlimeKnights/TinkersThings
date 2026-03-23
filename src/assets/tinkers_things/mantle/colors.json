@@ -3,6 +3,7 @@
     "fortified": "#E77C56",
     "enhanced":  "#F7CDBB",
     "range":     "#DDDDDD",
+    "hyperoptic": "#DDDDDD",
     
     "bambooshot": "#97C463",
     "blinding":   "#506B68",
@@ -14,14 +15,16 @@
     "pouch":   "#B79963",
     
     "silkitoxin": "#E8B3A0",
+    "silkibound": "#E8B3A0",
+    
     "hemodynamic":  "#842F00",
     "hemophobic":   "#842F00",
     "hemosistance": "#842F00"
   },
   "material.tinkers_things": {
     "hematite":    "#842F00",
-    "veinline":    "#842F00",
-    "silky_cloth": "#E8B3A0"
+    "silky_cloth": "#E8B3A0",
+    "magmaskin":   "#652828"
   },
   "harvest_tier.tinkers_things.hematite": "#842F00"
 }

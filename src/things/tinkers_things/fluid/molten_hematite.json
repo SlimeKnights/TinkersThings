@@ -1,5 +1,8 @@
 {
   "type": "flowing",
+  "slope_distance": 2,
+  "dropoff": 2,
+  "tick_delay": 30,
   "bucket": {
     "max_stack_size": 1,
     "container": "minecraft:bucket"

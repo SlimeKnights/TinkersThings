@@ -1,0 +1,17 @@
+{
+  "name": "minecraft:chests/stronghold_crossing",
+  "pools": [{
+    "entries": [{
+      "type": "minecraft:item",
+      "functions": [{
+        "function": "tconstruct:add_tool_data",
+        "materials": [
+          { "type": "tconstruct:ancient" },
+          { "type": "tconstruct:ancient" }
+        ]
+      }],
+      "name": "tinkers_things:blockram"
+    }],
+    "name": "main"
+  }]
+}

@@ -26,19 +26,19 @@
     },
     
     {
-      "predicate": { "tconstruct:charging": 1 },
+      "predicate": { "tconstruct:charging": 2 },
       "model": "tinkers_things:item/shortbow/blocking"
     },
     {
-      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 0.01 },
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 0.01 },
       "model": "tinkers_things:item/shortbow/blocking_1"
     },
     {
-      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 0.65 },
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 0.65 },
       "model": "tinkers_things:item/shortbow/blocking_2"
     },
     {
-      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 1.0 },
+      "predicate": { "tconstruct:charging": 2, "tconstruct:charge": 1.0 },
       "model": "tinkers_things:item/shortbow/blocking_3"
     },
     

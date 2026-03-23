@@ -18,6 +18,11 @@
       "type": "tconstruct:set_stat",
       "stat": "tconstruct:harvest_tier",
       "value": "minecraft:iron"
+    },
+    {
+      "type": "tconstruct:material_repair",
+      "stat_type": "tconstruct:head",
+      "material": "tconstruct:copper"
     }
   ]
 }

@@ -11,13 +11,15 @@
         "feet",
         "legs",
         "chest",
-        "head"
+        "head",
+        "mainhand",
+        "offhand"
       ],
       "unique": "tinkers_things.modifier.silitoxin"
     },
     {
       "type": "tconstruct:modifier_slot",
-      "count": 1,
+      "each_level": 1,
       "name": "abilities"
     }
   ]

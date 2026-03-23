@@ -1,6 +1,3 @@
 {
-  "craftable": false,
-  "tier": 4,
-  "sortOrder": 25,
-  "hidden": false
+  "redirect": [{ "id": "tconstruct:ancient_hide" }]
 }

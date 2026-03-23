@@ -8,5 +8,5 @@
     "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/broken/",
     "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/"
   ],
-  "first_modifiers": [ "tconstruct:embellishment", "tconstruct:golden" ]
+  "first_modifiers": [ "tconstruct:embellishment" ]
 }

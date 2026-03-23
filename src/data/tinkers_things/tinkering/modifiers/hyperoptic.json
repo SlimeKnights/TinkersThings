@@ -1,0 +1,14 @@
+{
+  "level_display": "tconstruct:single_level",
+  "tooltip_display": "always",
+  "modules": [
+    {
+      "type": "tconstruct:attribute",
+      "unique": "tinkers_things.modifier.hyperoptic",
+      "attribute": "tconstruct:player.mining_speed_multiplier",
+      "operation": "multiply_total",
+      "flat": -0.99,
+      "slots": [ "mainhand" ]
+    }
+  ]
+}

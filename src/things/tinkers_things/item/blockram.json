@@ -1,0 +1,6 @@
+{
+  "type": "tconstruct:tool",
+  "break_blocks_in_creative": true,
+  "max_stack_size": 1,
+  "color_handler": "tconstruct:tool"
+}

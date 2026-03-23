@@ -6,20 +6,9 @@
       "suffix": "_base"
     },
     {
-      "type": "tconstruct:first_present",
-      "options": [
-        {
-          "type": "tconstruct:fixed",
-          "prefix": "tinkers_things:makeshift/",
-          "suffix": "_tconstruct_gold",
-          "modifier": "tconstruct:golden"
-        },
-        {
-          "type": "tconstruct:persistent_data",
-          "prefix": "tinkers_things:makeshift/",
-          "material_key": "tconstruct:embellishment"
-        }
-      ]
+      "type": "tconstruct:persistent_data",
+      "prefix": "tinkers_things:makeshift/",
+      "material_key": "tconstruct:embellishment"
     },
     "tconstruct:trim"
   ]

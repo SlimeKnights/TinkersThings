@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "tinkers_things:blockram",
     "tinkers_things:blowpipe"
   ]
 }

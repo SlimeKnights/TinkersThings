@@ -1,0 +1,21 @@
+{
+  "entity": [
+    "minecraft:skeleton",
+    "minecraft:stray",
+    "minecraft:wither_skeleton"
+  ],
+  "equip": {
+    "chance": 0.05,
+    "materials": [
+      {
+        "type": "tconstruct:ancient"
+      },
+      {
+        "type": "tconstruct:ancient"
+      }
+    ],
+    "priority": 100,
+    "slot": "mainhand",
+    "tool": "tinkers_things:blockram"
+  }
+}

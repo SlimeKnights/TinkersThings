@@ -22,6 +22,12 @@
   "item.tinkers_things.amethyst_staff": "Amethyst Staff",
   "item.tinkers_things.amethyst_staff.description": "The Amethyst Staff is a staff variant providing a wider variety of options for the handle for creating highly customizable tool.",
   
+  "__comment": "Blockram is a portmanteau of block and chakram",
+  "item.tinkers_things.blockram": "Blockram",
+  "modifier.tinkers_things.hyperoptic": "Hyperoptic",
+  "modifier.tinkers_things.hyperoptic.flavor": "Not for close distance",
+  "modifier.tinkers_things.hyperoptic.description": "Ineffective mining blocks while held, but still effective when thrown",
+  
   "item.tinkers_things.sack": "Knapsack",
   
   "pattern.tinkers_things.large_repair_kit": "Large Repair Kit",
@@ -99,20 +105,12 @@
   "material.tinkers_things.hematite.flavor": "Bloodstone, thought a myth by many and feared by more",
   "material.tinkers_things.hematite.encyclopedia": "Grants two additional upgrade slots, at the cost of -3 undead damage and -6 mining speed against ores, logs, and dirt",
   "material.tinkers_things.hematite.armor": "Grants two additional defense slots, at the cost of -5% protection against all sources",
-
-  "material.tinkers_things.veinline": "Veinline",
-  "material.tinkers_things.veinline.flavor": "The blood continues to flow",
-  "material.tinkers_things.veinline.encyclopedia": "Grants an additional defense slot",
-  "material.tinkers_things.veinline.ranged": "Grants an additional defense slot",
   
   "modifier.tinkers_things.hemodynamic": "Hemodynamic",
   "modifier.tinkers_things.hemodynamic.flavor": "The blood moves",
   "modifier.tinkers_things.hemodynamic.description": "Tool gains two additional upgrade slots, but at what cost?",
   "modifier.tinkers_things.hemodynamic.attack_damage": "Undead Damage",
   "modifier.tinkers_things.hemodynamic.mining_speed": "Hemodynamic Speed",
-  "modifier.tinkers_things.hemophobic": "Hemophobic",
-  "modifier.tinkers_things.hemophobic.flavor": "Fear of the red liquid",
-  "modifier.tinkers_things.hemophobic.description": "Tool gains an additional defense slot",
   "modifier.tinkers_things.hemosistance": "Hemosistance",
   "modifier.tinkers_things.hemosistance.flavor": "The blood moves",
   "modifier.tinkers_things.hemosistance.description": "Tool gains two additional defense slots, but at what cost?",
@@ -121,7 +119,16 @@
   "material.tinkers_things.silky_cloth": "Silky Cloth",
   "material.tinkers_things.silky_cloth.flavor": "So soft on your skin!",
   "material.tinkers_things.silky_cloth.armor": "Grants an additional ability slot at the cost of 3 max health",
+  "material.tinkers_things.silky_cloth.ranged": "Grants +1 power, but restricts the projectile angle",
+  "material.tinkers_things.silky_cloth.ammo": "Grants +0.5 power, but restricts the projectile angle",
   "modifier.tinkers_things.silkitoxin": "Silkitoxin",
   "modifier.tinkers_things.silkitoxin.flavor": "Strength draining",
-  "modifier.tinkers_things.silkitoxin.description": "Tool gains an additional ability slots, but at what cost?"
+  "modifier.tinkers_things.silkitoxin.description": "Tool gains an additional ability slots, but at what cost?",
+  "modifier.tinkers_things.silkibound": "Silkibound",
+  "modifier.tinkers_things.silkibound.flavor": "Strength directing",
+  "modifier.tinkers_things.silkibound.description": "Projectile gains more power, but at what cost?",
+  
+  "material.tinkers_things.magmaskin": "Magmaskin",
+  "material.tinkers_things.magmaskin.flavor": "Obligatory skin joke",
+  "material.tinkers_things.magmaskin.encyclopedia": "Grants +100% to all methods of restoring overslime"
 }

@@ -1,0 +1,18 @@
+{
+  "name": "minecraft:chests/stronghold_corridor",
+  "pools": [{
+    "entries": [{
+      "type": "minecraft:item",
+      "functions": [{
+        "function": "tconstruct:add_tool_data",
+        "materials": [
+          { "type": "tconstruct:ancient" },
+          { "type": "tconstruct:ancient" }
+        ]
+      }],
+      "name": "tinkers_things:blockram",
+      "weight": 5
+    }],
+    "name": "main"
+  }]
+}
