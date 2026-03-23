@@ -1,7 +1,7 @@
 {
   "tool": "tinkers_things:makeshift_helmet",
   "text": [
-    { "text": "简易头盔是一件防御较低的廉价头部防具。是制作高阶头盔之路的铺路石。" }
+    { "text": "简易头盔是一件防御较低的廉价头部防具，是制作高阶头盔之路的铺路石。" }
   ],
   "properties": [
     "45 耐久度",
