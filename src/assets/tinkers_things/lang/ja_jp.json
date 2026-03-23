@@ -1,0 +1,130 @@
+{
+  "itemGroup.tinkers_things.tinkers_things": "Tinkers' Things",
+
+  "item.tinkers_things.chisel": "ティンカーのみ",
+  "item.tinkers_things.blowpipe": "吹き矢",
+  "modifier.tinkers_things.bambooshot": "竹撃ち",
+  "modifier.tinkers_things.bambooshot.flavor": "竹で騙せ",
+  "modifier.tinkers_things.bambooshot.description": "吹き矢自身が矢を育てる",
+
+  "item.tinkers_things.shovel": "シャベル",
+  "item.tinkers_things.shovel.description": "シャベルは基本的な採掘道具です。\nモンスターを飛ばすことができ、アップグレード用のスペースもあります。",
+
+  "item.tinkers_things.halberd": "ハルバード",
+  "item.tinkers_things.halberd.description": "ハルバードは間合いの長い武器で、遠くの相手に強力な一撃を与えるために設計されています。",
+  "modifier.tinkers_things.range": "ロングレンジ",
+  "modifier.tinkers_things.range.flavor": "更に長い持ち手",
+  "modifier.tinkers_things.range.description": "道具が長く、遠くの敵を攻撃できる",
+
+  "item.tinkers_things.shortbow": "ショートボウ",
+  "item.tinkers_things.shortbow.description": "ショートボウは軽量の弓です。遠距離攻撃用の弓ほど強力でもなく精度も高くありません。\nしかし、移動しながらでも容易に扱うことができます。",
+
+  "item.tinkers_things.amethyst_staff": "アメジストの杖",
+  "item.tinkers_things.amethyst_staff.description": "アメジストの杖は、持ち手の幅広い選択肢があり、高度にカスタマイズ可能な杖の一種です。",
+
+  "__comment": "Blockram is a portmanteau of block and chakram",
+  "item.tinkers_things.blockram": "ブロックラム",
+  "modifier.tinkers_things.hyperoptic": "遠視能力",
+  "modifier.tinkers_things.hyperoptic.flavor": "近距離用ではない",
+  "modifier.tinkers_things.hyperoptic.description": "手に持つと効果がないが、投げると効果を発揮する",
+
+  "item.tinkers_things.sack": "ナップサック",
+
+  "pattern.tinkers_things.large_repair_kit": "大型リペアキット",
+  "item.tinkers_things.large_repair_kit": "大型リペアキット",
+  "item.tinkers_things.large_repair_kit_gold_cast": "大型リペアキットの金型",
+  "item.tinkers_things.large_repair_kit_sand_cast": "大型リペアキットの砂型",
+  "item.tinkers_things.large_repair_kit_red_sand_cast": "大型リペアキットの赤い砂型",
+
+  "modifier.tinkers_things.fortified": "増強",
+  "modifier.tinkers_things.fortified.flavor": "銅のように硬く",
+  "modifier.tinkers_things.fortified.description": "道具はステータスと採掘ランクがアップし、銅で修理できる",
+  "modifier.tinkers_things.enhanced": "拡張",
+  "modifier.tinkers_things.enhanced.flavor": "ピカピカ！",
+  "modifier.tinkers_things.enhanced.description": "増強で使用したアップグレードを復活させる",
+  "modifier.tinkers_things.enhanced.requirements": "拡張を適用するには増強が必要です",
+
+  "modifier.tinkers_things.blinding": "眩惑",
+  "modifier.tinkers_things.blinding.flavor": "目の真ん中に",
+  "modifier.tinkers_things.blinding.description": "矢は対象を一時的に盲目にする",
+
+  "modifier.tinkers_things.tracing": "追跡",
+  "modifier.tinkers_things.tracing.flavor": "全く輝かない",
+  "modifier.tinkers_things.tracing.description": "ターゲットは数秒間光り、追跡しやすくなる",
+
+  "modifier.tinkers_things.venom": "毒牙",
+  "modifier.tinkers_things.venom.flavor": "クモの復讐",
+  "modifier.tinkers_things.venom.description": "対象に毒を与え、時間経過でダメージを与える",
+
+  "modifier.tinkers_things.weakness": "弱化",
+  "modifier.tinkers_things.weakness.flavor": "矢にめまい",
+  "modifier.tinkers_things.weakness.description": "対象が一時的に弱体化し、ダメージが減少する",
+
+  "modifier.tinkers_things.stowing": "収納",
+  "modifier.tinkers_things.stowing.flavor": "もっと多くのものを",
+  "modifier.tinkers_things.stowing.description": "道具に9スロットのインベントリを追加",
+
+  "modifier.tinkers_things.pouch": "ポーチ",
+  "modifier.tinkers_things.pouch.flavor": "いくつか収納",
+  "modifier.tinkers_things.pouch.description": "道具に3スロットのインベントリを追加",
+
+  "block.tinkers_things.hematite_block": "ヘマタイトブロック",
+  "item.tinkers_things.hematite": "ヘマタイト",
+  "stat.tconstruct.harvest_tier.tinkers_things.hematite": "ヘマタイト",
+
+  "fluid_type.tinkers_things.molten_hematite": "ヘマタイト",
+  "block.tinkers_things.molten_hematite": "溶融したヘマタイト",
+  "fluid.tinkers_things.molten_hematite": "溶融したヘマタイト",
+  "fluid.tinkers_things.molten_hematite_flowing": "流れる溶融したヘマタイト",
+  "item.tinkers_things.molten_hematite_bucket": "溶融したヘマタイト入りバケツ",
+  "fluid.tinkers_things.molten_hematite.fluid_effect": "古いものを焼き尽くし、より強く蘇らせる。アンデッドにも効果的！",
+
+  "item.tinkers_things.makeshift_helmet": "即席ヘルメット",
+  "item.tinkers_things.makeshift_chestplate": "即席チェストプレート",
+
+  "gui.tinkers_things.laminar_armor": "層状防具",
+  "item.tinkers_things.laminar_helmet": "層状ヘルメット",
+  "item.tinkers_things.laminar_chestplate": "層状チェストプレート",
+  "item.tinkers_things.laminar_leggings": "層状レギンス",
+  "item.tinkers_things.laminar_boots": "層状ブーツ",
+  "item.tinkers_things.laminar_shield": "層状シールド",
+  "gui.tinkers_things.laminar_armor.description": "層状防具は強固なコアから作られた、高度に変更可能なアーマーである。\n魔法の防御には限界があるが、それを補うだけの防御力と潜在能力がある。",
+
+  "pattern.tinkers_things.shield_plating": "シールド用プレート",
+  "item.tinkers_things.shield_plating": "シールド用プレート",
+  "item.tinkers_things.shield_plating_dummy": "石のシールド用プレート",
+  "item.tinkers_things.shield_plating_gold_cast": "シールド用プレートの金型",
+  "item.tinkers_things.shield_plating_sand_cast": "シールド用プレートの砂型",
+  "item.tinkers_things.shield_plating_red_sand_cast": "シールド用プレートの赤い砂型",
+
+  "material.tinkers_things.hematite": "ヘマタイト",
+  "material.tinkers_things.hematite.flavor": "多くの人に神話だと考えられ、さらに多くの人が恐れている、血の石",
+  "material.tinkers_things.hematite.encyclopedia": "アンデッドへのダメージが-3、鉱石、丸太、土に対する採掘速度が-6されるが、2つの追加アップグレードスロットを得る",
+  "material.tinkers_things.hematite.armor": "すべての耐性が-5%されるが、2つの追加の防御スロットを得る",
+
+  "modifier.tinkers_things.hemodynamic": "血行",
+  "modifier.tinkers_things.hemodynamic.flavor": "血の動き",
+  "modifier.tinkers_things.hemodynamic.description": "道具に追加の2つのアップグレードスロットを得る。しかし、代償はある",
+  "modifier.tinkers_things.hemodynamic.attack_damage": "アンデッド攻撃力補正",
+  "modifier.tinkers_things.hemodynamic.mining_speed": "血行補正",
+  "modifier.tinkers_things.hemosistance": "血液抵抗",
+  "modifier.tinkers_things.hemosistance.flavor": "血の動き",
+  "modifier.tinkers_things.hemosistance.description": "道具に追加の2つの防御スロットを得る。しかし、代償はある",
+  "modifier.tinkers_things.hemosistance.resistance": "耐性",
+
+  "material.tinkers_things.silky_cloth": "絹布",
+  "material.tinkers_things.silky_cloth.flavor": "とてもソフトな肌触り！",
+  "material.tinkers_things.silky_cloth.armor": "体力がハート1.5個分減少するが、追加のアビリティスロットを1つ得る。",
+  "material.tinkers_things.silky_cloth.ranged": "攻撃力補正が+1増加するが、射出角度が制限される",
+  "material.tinkers_things.silky_cloth.ammo": "攻撃力補正が+0.5増加するが、射出角度が制限される",
+  "modifier.tinkers_things.silkitoxin": "絹毒",
+  "modifier.tinkers_things.silkitoxin.flavor": "体力吸収",
+  "modifier.tinkers_things.silkitoxin.description": "道具に追加のアビリティスロットを得る。しかし、代償はある",
+  "modifier.tinkers_things.silkibound": "シルキバウンド",
+  "modifier.tinkers_things.silkibound.flavor": "力の向き",
+  "modifier.tinkers_things.silkibound.description": "弾丸の威力は増すが、その代償は何か？",
+
+  "material.tinkers_things.magmaskin": "マグマスキン",
+  "material.tinkers_things.magmaskin.flavor": "お決まりの肌ネタ",
+  "material.tinkers_things.magmaskin.encyclopedia": "オーバースライムを回復するすべての方法の効果を100%増加させる"
+}
