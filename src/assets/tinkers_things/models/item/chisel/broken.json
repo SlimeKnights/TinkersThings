@@ -4,9 +4,9 @@
   "textures": {
     "tool": "tinkers_things:item/tool/chisel/broken"
   },
+  "modifier_maps": [ "tinkers_things:broken/chisel", "tinkers_things:chisel" ],
   "modifier_roots": [
     "tinkers_things:item/tool/chisel/modifiers/broken/",
     "tinkers_things:item/tool/chisel/modifiers/"
-  ],
-  "first_modifiers": [ "tinkers_things:fortified", "tconstruct:enhanced" ]
+  ]
 }

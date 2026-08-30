@@ -11,6 +11,7 @@
     { "name": "shield",  "index": 1 },
     { "name": "overlay", "index": 0 }
   ],
+  "modifier_maps": [ "tinkers_things:laminar/shield_broken", "tinkers_things:laminar/shield" ],
   "modifier_roots": {
     "small": [
       "tinkers_things:item/tool/laminar_armor/shield/small_modifiers/broken/",
@@ -22,6 +23,5 @@
     ]
   },
   "large": true,
-  "large_offset": [-8, 0],
-  "first_modifiers": [ "tconstruct:dyed" ]
+  "large_offset": [-8, 0]
 }

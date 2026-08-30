@@ -1,0 +1,25 @@
+{
+  "constant": {
+    "__embellishment": {
+      "type": "tconstruct:crafted",
+      "modifier": "tconstruct:embellishment",
+      "model": {
+        "type": "tconstruct:persistent_material",
+        "texture": "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/embellishment"
+      }
+    },
+    "__golden": {
+      "type": "tconstruct:crafted",
+      "modifier": "tconstruct:golden",
+      "model": "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/golden"
+    },
+    "_trim": {
+      "type": "tconstruct:crafted",
+      "model": {
+        "type": "tconstruct:armor_trim",
+        "slot": "helmet"
+      },
+      "modifier": "tconstruct:trim"
+    }
+  }
+}

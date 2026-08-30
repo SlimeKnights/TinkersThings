@@ -1,0 +1,18 @@
+{
+  "constant": {
+    "__fortified": {
+      "type": "tconstruct:crafted",
+      "modifier": "tinkers_things:fortified",
+      "model": "tinkers_things:item/tool/chisel/modifiers/fortified_broken"
+    },
+    "_enhanced": {
+      "type": "tconstruct:crafted",
+      "modifier": "tinkers_things:enhanced",
+      "model": "tinkers_things:item/tool/chisel/modifiers/enhanced_broken"
+    }
+  },
+  "modifiers": {
+    "tconstruct:diamond":   "tinkers_things:item/tool/chisel/modifiers/diamond_broken",
+    "tconstruct:netherite": "tinkers_things:item/tool/chisel/modifiers/netherite_broken"
+  }
+}

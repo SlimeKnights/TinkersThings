@@ -1,0 +1,12 @@
+{
+  "constant": {
+    "__dyed": {
+      "type": "tconstruct:crafted",
+      "modifier": "tconstruct:dyed",
+      "model": {
+        "type": "tconstruct:dyed",
+        "texture": "tinkers_things:item/tool/sack/tconstruct_dyed"
+      }
+    }
+  }
+}

@@ -11,13 +11,13 @@
     { "name": "shield",  "index": 1 },
     { "name": "overlay", "index": 0 }
   ],
+  "modifier_maps": [ "tinkers_things:laminar/shield" ],
   "modifier_roots": {
     "small": [ "tinkers_things:item/tool/laminar_armor/shield/small_modifiers/" ],
     "large": [ "tinkers_things:item/tool/laminar_armor/shield/large_modifiers/" ]
   },
   "large": true,
   "large_offset": [-8, 0],
-  "first_modifiers": [ "tconstruct:dyed" ],
   "overrides": [
     {
       "predicate": { "tconstruct:charging": 2 },

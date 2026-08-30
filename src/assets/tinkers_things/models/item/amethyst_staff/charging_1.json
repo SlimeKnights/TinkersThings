@@ -13,6 +13,7 @@
     "large_crystal": "tinkers_things:item/tool/staff/large/crystal_1"
   },
   "large": true,
+  "modifier_maps": [ "tinkers_things:amethyst_staff/1", "tinkers_things:amethyst_staff", "tconstruct:staff" ],
   "modifier_roots": {
     "small": [ "tconstruct:item/tool/staff/modifiers/" ],
     "large": [ "tconstruct:item/tool/staff/large_modifiers/" ]

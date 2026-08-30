@@ -16,5 +16,6 @@
     "flip": true,
     "left": true,
     "offset": [ -3, -4 ]
-  }
+  },
+  "modifier_maps": [ "tinkers_things:shortbow/1", "tinkers_things:shortbow" ]
 }

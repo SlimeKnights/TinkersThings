@@ -20,6 +20,7 @@
     { "name": "handle", "index": 1 },
     { "name": "grip",   "index": 3 }
   ],
+  "modifier_maps": [ "tinkers_things:halberd" ],
   "overrides": [
     {
       "predicate": { "tconstruct:charging": 2 },

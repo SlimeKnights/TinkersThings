@@ -4,9 +4,9 @@
   "textures": {
     "tool": "tinkers_things:item/tool/makeshift_armor/helmet_broken"
   },
+  "modifier_maps": [ "tinkers_things:makeshift/helmet_broken", "tinkers_things:makeshift/helmet" ],
   "modifier_roots": [
     "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/broken/",
     "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/"
-  ],
-  "first_modifiers": [ "tconstruct:embellishment" ]
+  ]
 }

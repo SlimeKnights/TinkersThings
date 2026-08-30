@@ -1,0 +1,13 @@
+{
+  "constant": {
+    "__dyed": {
+      "type": "tconstruct:crafted",
+      "modifier": "tconstruct:dyed",
+      "model": {
+        "type": "tconstruct:dyed",
+        "texture":       "tinkers_things:item/tool/laminar_armor/shield/small_dyed",
+        "large_texture": "tinkers_things:item/tool/laminar_armor/shield/large_dyed"
+      }
+    }
+  }
+}

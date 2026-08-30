@@ -4,8 +4,8 @@
   "textures": {
     "tool": "tinkers_things:item/tool/makeshift_armor/chestplate"
   },
+  "modifier_maps": [ "tinkers_things:makeshift/chestplate" ],
   "modifier_roots": [ "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/" ],
-  "first_modifiers": [ "tconstruct:embellishment" ],
   "overrides": [
     {
       "predicate": { "tconstruct:broken": 1 },

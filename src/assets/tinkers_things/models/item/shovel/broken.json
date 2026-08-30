@@ -8,5 +8,6 @@
   "parts": [
     { "name": "handle", "index": 1 },
     { "name": "head",   "index": 0 }
-  ]
+  ],
+  "modifier_maps": [ "tinkers_things:shovel_broken", "tinkers_things:shovel" ]
 }

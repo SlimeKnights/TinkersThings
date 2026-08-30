@@ -4,6 +4,6 @@
   "textures": {
     "tool": "tinkers_things:item/tool/sack/sack"
   },
-  "modifier_roots": [ "tinkers_things:item/tool/sack/" ],
-  "first_modifiers": [ "tconstruct:dyed" ]
+  "modifier_maps": [ "tinkers_things:sack" ],
+  "modifier_roots": [ "tinkers_things:item/tool/sack/" ]
 }

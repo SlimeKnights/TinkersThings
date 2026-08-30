@@ -9,6 +9,7 @@
     { "name": "handle", "index": 1 },
     { "name": "blade",  "index": 0 }
   ],
+  "modifier_maps": [ "tinkers_things:blockram" ],
   "overrides": [
     {
       "predicate": { "tconstruct:charging": 2 },

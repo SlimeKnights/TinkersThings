@@ -1,0 +1,12 @@
+{
+  "constant": {
+    "__tipped": {
+      "type": "tconstruct:trait",
+      "modifier": "tconstruct:tipped",
+      "model": {
+        "type": "tconstruct:potion",
+        "texture": "tinkers_things:item/tool/blowpipe/modifiers/tipped_broken"
+      }
+    }
+  }
+}

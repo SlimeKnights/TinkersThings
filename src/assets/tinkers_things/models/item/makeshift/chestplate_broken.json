@@ -4,9 +4,9 @@
   "textures": {
     "tool": "tinkers_things:item/tool/makeshift_armor/chestplate_broken"
   },
+  "modifier_maps": [ "tinkers_things:makeshift/chestplate_broken", "tinkers_things:makeshift/chestplate" ],
   "modifier_roots": [
     "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/broken/",
     "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/"
-  ],
-  "first_modifiers": [ "tconstruct:embellishment" ]
+  ]
 }

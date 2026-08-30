@@ -11,6 +11,7 @@
     { "name": "upper", "index": 0 },
     { "name": "wood",  "index": 2 }
   ],
+  "modifier_maps": [ "tinkers_things:laminar/chestplate_broken", "tinkers_things:laminar/chestplate" ],
   "modifier_roots": [
     "tinkers_things:item/tool/laminar_armor/chestplate/modifiers/broken/",
     "tinkers_things:item/tool/laminar_armor/chestplate/modifiers/"

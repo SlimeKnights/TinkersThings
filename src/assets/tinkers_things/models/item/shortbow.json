@@ -11,6 +11,7 @@
     { "name": "limb_top",    "index": 1 },
     { "name": "bowstring",   "index": 2 }
   ],
+  "modifier_maps": [ "tinkers_things:shortbow" ],
   "overrides": [
     {
       "predicate": { "tconstruct:charging": 1 },

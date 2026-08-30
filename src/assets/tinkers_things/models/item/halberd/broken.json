@@ -19,5 +19,6 @@
     { "name": "blade",  "index": 0 },
     { "name": "handle", "index": 1 },
     { "name": "grip",   "index": 3 }
-  ]
+  ],
+  "modifier_maps": [ "tinkers_things:halberd_broken", "tinkers_things:halberd" ]
 }

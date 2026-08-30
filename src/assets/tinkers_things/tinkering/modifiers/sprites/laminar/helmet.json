@@ -1,0 +1,12 @@
+{
+  "constant": {
+    "_trim": {
+      "type": "tconstruct:crafted",
+      "model": {
+        "type": "tconstruct:armor_trim",
+        "slot": "helmet"
+      },
+      "modifier": "tconstruct:trim"
+    }
+  }
+}

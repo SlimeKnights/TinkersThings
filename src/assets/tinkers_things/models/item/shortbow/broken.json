@@ -10,5 +10,6 @@
     { "name": "limb_bottom", "index": 0 },
     { "name": "limb_top",    "index": 1 },
     { "name": "bowstring",   "index": 2 }
-  ]
+  ],
+  "modifier_maps": [ "tinkers_things:shortbow/broken", "tinkers_things:shortbow" ]
 }

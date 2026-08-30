@@ -8,5 +8,6 @@
   "parts": [
     { "name": "handle", "index": 1 },
     { "name": "blade",  "index": 0 }
-  ]
+  ],
+  "modifier_maps": [ "tinkers_things:blockram_broken", "tinkers_things:blockram" ]
 }

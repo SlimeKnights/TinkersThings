@@ -4,8 +4,8 @@
   "textures": {
     "tool": "tinkers_things:item/tool/chisel/tool"
   },
+  "modifier_maps": [ "tinkers_things:chisel" ],
   "modifier_roots": [ "tinkers_things:item/tool/chisel/modifiers/" ],
-  "first_modifiers": [ "tinkers_things:fortified", "tconstruct:enhanced" ],
   "overrides": [
     {
       "predicate": { "tconstruct:charging": 2 },

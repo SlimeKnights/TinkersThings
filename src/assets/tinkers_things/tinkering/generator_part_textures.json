@@ -83,11 +83,11 @@
     { "path": "tinkers_things:item/tool/laminar_armor/shield/large_broken",  "stat_type": "tconstruct:plating_shield" },
     { "path": "tinkers_things:item/tool/laminar_armor/shield/large_overlay", "stat_type": "tconstruct:plating_shield" },
 
-    { "path": "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/tconstruct_embellishment",        "stat_type": "tconstruct:wood", "allow_animated": false },
-    { "path": "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/broken/tconstruct_embellishment", "stat_type": "tconstruct:wood", "allow_animated": false },
-    { "path": "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/tconstruct_embellishment",            "stat_type": "tconstruct:wood", "allow_animated": false },
-    { "path": "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/broken/tconstruct_embellishment",     "stat_type": "tconstruct:wood", "allow_animated": false },
-    { "path": "tinkers_things:tinker_armor/makeshift/armor",                                                   "stat_type": "tconstruct:wood", "allow_animated": false }
+    { "path": "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/embellishment",        "stat_type": "tconstruct:wood", "allow_animated": false },
+    { "path": "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/embellishment_broken", "stat_type": "tconstruct:wood", "allow_animated": false },
+    { "path": "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/embellishment",            "stat_type": "tconstruct:wood", "allow_animated": false },
+    { "path": "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/embellishment_broken",     "stat_type": "tconstruct:wood", "allow_animated": false },
+    { "path": "tinkers_things:tinker_armor/makeshift/armor",                                        "stat_type": "tconstruct:wood", "allow_animated": false }
   ],
   "overrides": {
     "tconstruct:binding":   [ "tconstruct:magma" ],
