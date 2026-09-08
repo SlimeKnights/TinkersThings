@@ -8,6 +8,15 @@
         "texture":       "tinkers_things:item/tool/laminar_armor/shield/small_dyed",
         "large_texture": "tinkers_things:item/tool/laminar_armor/shield/large_dyed"
       }
+    },
+    "_banner": {
+      "type": "tconstruct:crafted",
+      "model": {
+        "type": "tconstruct:banner",
+        "prefix":       "tinkers_things:item/tool/laminar_armor/shield/banner_small/",
+        "prefix_large": "tinkers_things:item/tool/laminar_armor/shield/banner_large/"
+      },
+      "modifier": "tconstruct:banner"
     }
   }
 }
