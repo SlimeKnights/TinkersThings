@@ -1,5 +1,13 @@
 {
   "constant": {
+    "__dyed": {
+      "type": "tconstruct:crafted",
+      "model": {
+        "type": "tconstruct:dyed",
+        "texture": "tinkers_things:item/tool/laminar_armor/chestplate/wood"
+      },
+      "modifier": "tconstruct:dyed"
+    },
     "_trim": {
       "type": "tconstruct:crafted",
       "model": {

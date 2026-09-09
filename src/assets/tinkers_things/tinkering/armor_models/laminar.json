@@ -11,9 +11,18 @@
       "prefix": "tinkers_things:laminar/upper_"
     },
     {
-      "type": "tconstruct:material",
-      "index": 2,
-      "prefix": "tinkers_things:laminar/wood_"
+      "type": "tconstruct:first_present",
+      "options": [
+        {
+          "type": "tconstruct:dyed",
+          "prefix": "tinkers_things:laminar/wood_"
+        },
+        {
+          "type": "tconstruct:material",
+          "index": 2,
+          "prefix": "tinkers_things:laminar/wood_"
+        }
+      ]
     },
     "tconstruct:trim"
   ]
