@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "tinkers_things:laminar_shield",
     "tinkers_things:sack"
   ]
 }
