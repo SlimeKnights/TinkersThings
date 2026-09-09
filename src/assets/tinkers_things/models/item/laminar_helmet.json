@@ -11,7 +11,7 @@
     { "name": "upper", "index": 0 },
     { "name": "wood",  "index": 2 }
   ],
-  "modifier_maps": [ "tinkers_things:laminar/helmet" ],
+  "modifier_maps": [ "tinkers_things:laminar/helmet", "tconstruct:armor/helmet" ],
   "modifier_roots": [ "tinkers_things:item/tool/laminar_armor/helmet/modifiers/" ],
   "overrides": [
     {

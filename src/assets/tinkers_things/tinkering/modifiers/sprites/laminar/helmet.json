@@ -7,14 +7,6 @@
         "texture": "tinkers_things:item/tool/laminar_armor/helmet/wood"
       },
       "modifier": "tconstruct:dyed"
-    },
-    "_trim": {
-      "type": "tconstruct:crafted",
-      "model": {
-        "type": "tconstruct:armor_trim",
-        "slot": "helmet"
-      },
-      "modifier": "tconstruct:trim"
     }
   }
 }

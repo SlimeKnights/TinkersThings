@@ -11,7 +11,7 @@
     { "name": "upper", "index": 0 },
     { "name": "wood",  "index": 2 }
   ],
-  "modifier_maps": [ "tinkers_things:laminar/boots" ],
+  "modifier_maps": [ "tinkers_things:laminar/boots", "tconstruct:armor/boots" ],
   "modifier_roots": [ "tinkers_things:item/tool/laminar_armor/boots/modifiers/" ],
   "overrides": [
     {

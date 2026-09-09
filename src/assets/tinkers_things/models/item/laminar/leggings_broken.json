@@ -11,7 +11,7 @@
     { "name": "upper", "index": 0 },
     { "name": "wood",  "index": 2 }
   ],
-  "modifier_maps": [ "tinkers_things:laminar/leggings_broken", "tinkers_things:laminar/leggings" ],
+  "modifier_maps": [ "tinkers_things:laminar/leggings_broken", "tinkers_things:laminar/leggings", "tconstruct:armor/leggings" ],
   "modifier_roots": [
     "tinkers_things:item/tool/laminar_armor/leggings/modifiers/broken/",
     "tinkers_things:item/tool/laminar_armor/leggings/modifiers/"

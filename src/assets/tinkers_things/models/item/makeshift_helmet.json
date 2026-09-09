@@ -4,7 +4,7 @@
   "textures": {
     "tool": "tinkers_things:item/tool/makeshift_armor/helmet"
   },
-  "modifier_maps": [ "tinkers_things:makeshift/helmet" ],
+  "modifier_maps": [ "tinkers_things:makeshift/helmet", "tconstruct:armor/helmet" ],
   "modifier_roots": [ "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/" ],
   "overrides": [
     {
