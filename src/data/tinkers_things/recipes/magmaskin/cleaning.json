@@ -5,6 +5,7 @@
     "tag": "tconstruct:venom",
     "amount": 50
   },
+  "hide_in_book": true,
   "temperature": 10,
   "output": "tconstruct:leather"
 }
