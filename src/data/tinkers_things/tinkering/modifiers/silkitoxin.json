@@ -15,7 +15,19 @@
         "mainhand",
         "offhand"
       ],
-      "unique": "tinkers_things.modifier.silitoxin"
+      "unique": "tinkers_things.modifier.silitoxin",
+      "tooltip_style": "boost"
+    },
+    {
+      "type": "tconstruct:update_health",
+      "slots": [
+        "feet",
+        "legs",
+        "chest",
+        "head",
+        "mainhand",
+        "offhand"
+      ]
     },
     {
       "type": "tconstruct:modifier_slot",
