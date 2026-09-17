@@ -7,6 +7,9 @@
   "generator": {
     "supported_stats": [
       "tconstruct:maille",
+      "tconstruct:cuirass",
+      "tconstruct:armor_cuirass",
+      "tconstruct:repair_kit",
       "tconstruct:armor_maille",
       "tconstruct:bowstring",
       "tconstruct:fletching"
