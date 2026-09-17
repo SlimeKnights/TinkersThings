@@ -1,0 +1,12 @@
+{
+  "tool": "tinkers_things:blowpipe",
+  "text": [
+    { "text": "Embrouille tes ennemis… ou profite juste d'un projectile bon marché." }
+  ],
+  "properties": [
+    "Tire des fléchettes de bambou cultivées directement dans la sarbacane",
+    "Grande précision et vitesse de tir",
+    "Faible vitesse et faibles dégâts",
+    "Peut tirer des flèches avec potions spéciales"
+  ]
+}

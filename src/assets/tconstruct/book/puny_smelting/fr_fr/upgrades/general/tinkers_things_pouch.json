@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tinkers_things:pouch",
+  "text": [
+    {
+      "text": "Pourquoi ne mettent-ils pas plus de poches partout ?"
+    }
+  ],
+  "effects": [
+    "Ajoute 3 emplacements supplémentaires au sac soyeux",
+    "Plusieurs niveaux, chaque niveau ajoute des emplacements",
+    "Nécessite 1 emplacement d'amélioration par niveau"
+  ]
+}

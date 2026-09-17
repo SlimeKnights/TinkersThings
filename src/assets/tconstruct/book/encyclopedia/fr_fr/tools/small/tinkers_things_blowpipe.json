@@ -1,0 +1,15 @@
+{
+  "tool": "tinkers_things:blowpipe",
+  "text": [
+    { "text": "La sarbacane est une alternative rapide et précise à l'arc, avec une faible vitesse de flèche. Elle génère aussi ses propres projectiles à partir de bambou." },
+    { "text": "Au lieu d'améliorer la vitesse ou les flèches, les sarbacanes disposent de plusieurs modificateurs uniques appliquant des effets de potion.", "paragraph": true }
+  ],
+  "properties": [
+    "Bambouf",
+    "2 de vitesse de tir",
+    "0,5 de vitesse de flèche",
+    "0,9 de précision",
+    "140 de durabilité",
+    "-0,5 de dégâts de projectile"
+  ]
+}

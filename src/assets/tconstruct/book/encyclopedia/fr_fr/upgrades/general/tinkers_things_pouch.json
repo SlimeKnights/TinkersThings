@@ -1,0 +1,11 @@
+{
+  "modifier_id": "tinkers_things:pouch",
+  "text": [
+    { "text": "Ajoute 3 emplacements supplémentaires au sac soyeux." }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Aucun niveau maximal",
+    "Nécessite 1 emplacement d'amélioration par niveau"
+  ]
+}

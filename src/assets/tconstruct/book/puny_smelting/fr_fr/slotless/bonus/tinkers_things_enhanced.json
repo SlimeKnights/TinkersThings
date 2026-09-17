@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tinkers_things:enhanced",
+  "text": [
+    {
+      "text": "Pourquoi le ciseau peut-il obtenir un emplacement supplémentaire avec de l'or rose, mais pas mon épée ? Quoi, je dois utiliser des pièces d'outil ?"
+    }
+  ],
+  "effects": [
+    "Ajoute un emplacement d'amélioration",
+    "Nécessite Renforcé",
+    "Utilisable une seule fois"
+  ]
+}

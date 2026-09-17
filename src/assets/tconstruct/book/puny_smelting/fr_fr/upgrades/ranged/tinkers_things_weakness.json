@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tinkers_things:weakness",
+  "text": [
+    {
+      "text": "Pourquoi se battre loyalement quand on peut utiliser des toxines ?"
+    }
+  ],
+  "effects": [
+    "Affaiblit les cibles des flèches de sarbacane",
+    "Plusieurs niveaux, chaque niveau augmente la durée de la faiblesse",
+    "Nécessite 1 emplacement d'amélioration par niveau"
+  ]
+}

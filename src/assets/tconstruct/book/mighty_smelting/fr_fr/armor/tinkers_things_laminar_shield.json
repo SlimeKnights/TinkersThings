@@ -1,0 +1,16 @@
+{
+  "tool": "tinkers_things:laminar_shield",
+  "text": [
+    { "text": "La forme classique du bouclier !" }
+  ],
+  "properties": [
+    "Durabilité moyenne",
+    "Potentiel de blocage moyen",
+    "Vitesse moyenne en parade",
+    "3 emplacements d'amélioration",
+    "1 emplacement d'aptitude",
+    "3 caractéristiques de matériau"
+
+
+  ]
+}

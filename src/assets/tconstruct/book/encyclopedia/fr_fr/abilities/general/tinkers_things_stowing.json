@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tinkers_things:stowing",
+  "text": [
+    {
+      "text": "Ajoute 9 emplacements supplémentaires au sac soyeux."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Aucun niveau maximal",
+    "Nécessite 1 emplacement d'aptitude par niveau"
+  ]
+}

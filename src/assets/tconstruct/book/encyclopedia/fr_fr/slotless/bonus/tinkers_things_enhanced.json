@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tinkers_things:enhanced",
+  "text": [
+    {
+      "text": "Accorde +1 emplacement d'amélioration à un ciseau."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Utilisable une seule fois",
+    "Ne consomme pas d'emplacement",
+    "Nécessite Renforcé"
+  ]
+}

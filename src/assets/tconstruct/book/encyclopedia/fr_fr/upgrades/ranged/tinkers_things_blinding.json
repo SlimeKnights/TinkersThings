@@ -1,0 +1,12 @@
+{
+  "modifier_id": "tinkers_things:blinding",
+  "text": [
+    { "text": "Applique jusqu’à 3 secondes (plus 2 secondes par niveau) d'aveuglement à la cible du projectile." }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Peut être appliqué par paliers",
+    "Maximum de 3 niveaux",
+    "Nécessite 1 emplacement d'amélioration par niveau"
+  ]
+}

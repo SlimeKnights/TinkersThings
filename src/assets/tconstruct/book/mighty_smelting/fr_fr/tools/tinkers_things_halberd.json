@@ -1,0 +1,11 @@
+{
+  "tool": "tinkers_things:halberd",
+  "text": [
+    { "text": "La version stylée d'une lance." }
+  ],
+  "properties": [
+    "Arme à portée",
+    "Lente à manier",
+    "Peu efficace contre les arbres"
+  ]
+}

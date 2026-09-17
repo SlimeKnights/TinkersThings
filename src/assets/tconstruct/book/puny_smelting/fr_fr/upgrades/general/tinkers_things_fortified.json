@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tinkers_things:fortified",
+  "text": [
+    {
+      "text": "Le cuivre est très malléable, ce qui vous permet d'améliorer vos outils sans équipement de moulage. Sympa, non ?"
+    }
+  ],
+  "effects": [
+    "Augmente la durabilité, la vitesse de minage et le niveau de récolte",
+    "Permet la réparation avec du cuivre",
+    "Utilisable une seule fois",
+    "Nécessite 1 emplacement d'amélioration"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tinkers_things:tracing",
+  "text": [
+    {
+      "text": "Avec ça, vous ne perdrez jamais votre cible de vue."
+    }
+  ],
+  "effects": [
+    "Fait briller les cibles des flèches de sarbacane",
+    "Plusieurs niveaux, chaque niveau augmente la durée de la lueur",
+    "Nécessite 1 emplacement d'amélioration par niveau"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "tool": "tinkers_things:shortbow",
+  "text": [
+    { "text": "Parfois, mieux vaut esquiver que frapper fort." }
+  ],
+  "properties": [
+    "Tir rapide avec gêne minimale des déplacements",
+    "Moins de précision et de vitesse",
+    "Tu traites qui de petit, là ?!?"
+  ]
+}

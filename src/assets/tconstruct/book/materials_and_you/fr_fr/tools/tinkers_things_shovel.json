@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_things:shovel",
+  "text": [
+    { "text": "Certaines personnes se plaignent de l'absence de pelle, même si les houes et les 'piques-az' prennent le relais." },
+    { "text": "À toi de voir maintenant si ça en vaut la peine.", "paragraph": true }
+  ],
+  "properties": [
+    "Crée des chemins",
+    "Casse les terres meubles et le gravier",
+    "Emplacements d'amélioration supplémentaires",
+    "Recul bonus"
+  ]
+}

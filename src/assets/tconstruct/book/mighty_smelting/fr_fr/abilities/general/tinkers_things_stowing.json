@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tinkers_things:stowing",
+  "text": [
+    {
+      "text": "D'une façon ou d'une autre, c'est plus grand à l'intérieur."
+    }
+  ],
+  "effects": [
+    "Ajoute 9 emplacements supplémentaires au sac soyeux",
+    "Plusieurs niveaux, chaque niveau ajoute des emplacements",
+    "Nécessite 1 emplacement d'aptitude par niveau"
+  ]
+}

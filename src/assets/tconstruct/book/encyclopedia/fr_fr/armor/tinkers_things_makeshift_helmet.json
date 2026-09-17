@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_things:makeshift_helmet",
+  "text": [
+    { "text": "Le casque de fortune est un casque peu coûteux et peu défensif, conçu comme un tremplin vers une meilleure armure." }
+  ],
+  "properties": [
+    "45 Durability",
+    "+1 Armor",
+    "2 Upgrade Slots",
+    "1 Defense Slot",
+    "0 Ability Slots"
+  ]
+}

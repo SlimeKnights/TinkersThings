@@ -1,0 +1,11 @@
+{
+  "tool": "tinkers_things:sack",
+  "text": [
+    { "text": "Bien mieux que les baluchons." }
+  ],
+  "properties": [
+    "Tient 9 objets",
+    "Peut être modifié pour contenir plus de 9 objets",
+    "Teignez-le de votre couleur préférée"
+  ]
+}

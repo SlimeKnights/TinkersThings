@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_things:makeshift_chestplate",
+  "text": [
+    { "text": "Plastron simple offrant une protection modeste en attendant de meilleures ressources pour fabriquer une meilleure armure." }
+  ],
+  "properties": [
+    "Faible durabilité",
+    "Faible protection",
+    "2 emplacements d'amélioration",
+    "1 emplacement de défense",
+    "0 emplacement d'aptitude"
+  ]
+}

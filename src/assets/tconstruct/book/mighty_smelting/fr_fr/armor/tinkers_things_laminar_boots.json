@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_things:laminar_boots",
+  "text": [
+    { "text": "Aussi étonnant que cela puisse paraître, malgré leur aspect duveteux, ces bottes sont horribles dans la neige." }
+  ],
+  "properties": [
+    "Durabilité moyenne",
+    "Haute protection",
+    "2 emplacements d'amélioration",
+    "1 emplacement d'aptitude",
+    "3 caractéristiques de matériau"
+  ]
+}

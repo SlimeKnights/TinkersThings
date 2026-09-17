@@ -1,0 +1,123 @@
+{
+  "itemGroup.tinkers_things.tinkers_things": "Objets du Tinker",
+
+  "item.tinkers_things.chisel": "Ciseau du Tinker",
+  "item.tinkers_things.blowpipe": "Sarbacane",
+  "modifier.tinkers_things.bambooshot": "Bambouf",
+  "modifier.tinkers_things.bambooshot.flavor": "Déroutant",
+  "modifier.tinkers_things.bambooshot.description": "La sarbacane fait pousser ses propres flèches à tirer",
+
+  "item.tinkers_things.shovel": "Pelle",
+  "item.tinkers_things.shovel.description": "La pelle est un outil de base pour creuser. Elle projette les monstres et offre plus d'espace pour les améliorations.",
+
+  "item.tinkers_things.halberd": "Hallebarde",
+  "item.tinkers_things.halberd.description": "La hallebarde est une arme à portée conçue pour infliger de puissants coups à distance.",
+  "modifier.tinkers_things.range": "Longue portée",
+  "modifier.tinkers_things.range.flavor": "Manche extra long",
+  "modifier.tinkers_things.range.description": "L'outil est extra long, permettant d'attaquer les monstres à distance",
+
+  "item.tinkers_things.shortbow": "Arc court",
+  "item.tinkers_things.shortbow.description": "L'arc court est un arc léger. Moins puissant et précis que ses homologues, il compense par sa rapidité à encorder en mouvement.",
+
+  "item.tinkers_things.amethyst_staff": "Bâton d'améthyste",
+  "item.tinkers_things.amethyst_staff.description": "Le bâton d'améthyste permet plus d'options pour le manche, rendant l'outil hautement personnalisable.",
+
+  "item.tinkers_things.sack": "Sac à dos",
+
+  "pattern.tinkers_things.large_repair_kit": "Kit de réparation large",
+  "item.tinkers_things.large_repair_kit": "Kit de réparation large",
+  "item.tinkers_things.large_repair_kit_gold_cast": "Moule en or - Kit de réparation large",
+  "item.tinkers_things.large_repair_kit_sand_cast": "Moule en sable - Kit de réparation large",
+  "item.tinkers_things.large_repair_kit_red_sand_cast": "Moule en sable rouge - Kit de réparation large",
+
+  "modifier.tinkers_things.fortified": "Renforcé",
+  "modifier.tinkers_things.fortified.flavor": "Solide comme du cuivre",
+  "modifier.tinkers_things.fortified.description": "L'outil a des statistiques renforcées, un meilleur niveau de minage et peut être réparé avec du cuivre",
+  "modifier.tinkers_things.enhanced": "Amélioré",
+  "modifier.tinkers_things.enhanced.flavor": "Brillant !",
+  "modifier.tinkers_things.enhanced.description": "Restaure l'emplacement d'amélioration perdu à cause du renforcement.",
+  "modifier.tinkers_things.enhanced.requirements": "Amélioré nécessite que renforcé soit déjà appliqué",
+
+  "modifier.tinkers_things.blinding": "Aveuglant",
+  "modifier.tinkers_things.blinding.flavor": "En plein dans l'œil",
+  "modifier.tinkers_things.blinding.description": "Les flèches aveuglent temporairement la cible",
+
+  "modifier.tinkers_things.tracing": "Traqueur",
+  "modifier.tinkers_things.tracing.flavor": "Ça ne brille pas du tout",
+  "modifier.tinkers_things.tracing.description": "La cible émet une lueur temporaire, facilitant sa localisation",
+
+  "modifier.tinkers_things.venom": "Venin",
+  "modifier.tinkers_things.venom.flavor": "La revanche de l'araignée",
+  "modifier.tinkers_things.venom.description": "La cible est empoisonnée, subissant des dégâts sur la durée",
+
+  "modifier.tinkers_things.weakness": "Faiblesse",
+  "modifier.tinkers_things.weakness.flavor": "Vertige en flèche",
+  "modifier.tinkers_things.weakness.description": "Affaiblit temporairement la cible, réduisant ses dégâts d'attaque",
+
+  "modifier.tinkers_things.stowing": "Rangement",
+  "modifier.tinkers_things.stowing.flavor": "Contient plein de choses",
+  "modifier.tinkers_things.stowing.description": "L'outil gagne 9 emplacements de stockage supplémentaires",
+
+  "modifier.tinkers_things.pouch": "Bourse",
+  "modifier.tinkers_things.pouch.flavor": "Contient quelques objets",
+  "modifier.tinkers_things.pouch.description": "L'outil gagne 3 emplacements de stockage supplémentaires",
+
+  "block.tinkers_things.hematite_block": "Bloc d'hématite",
+  "item.tinkers_things.hematite": "Hématite",
+  "stat.tconstruct.harvest_tier.tinkers_things.hematite": "Hématite",
+
+  "fluid_type.tinkers_things.molten_hematite": "Hématite en fusion",
+  "block.tinkers_things.molten_hematite": "Hématite en fusion",
+  "fluid.tinkers_things.molten_hematite": "Hématite en fusion",
+  "fluid.tinkers_things.molten_hematite_flowing": "Hématite en fusion coulante",
+  "item.tinkers_things.molten_hematite_bucket": "Seau d'hématite en fusion",
+  "fluid.tinkers_things.molten_hematite.fluid_effect": "Brûle l'ancien, puis le renforce. Efficace contre les morts-vivants !",
+
+  "item.tinkers_things.makeshift_helmet": "Casque de fortune",
+  "item.tinkers_things.makeshift_chestplate": "Plastron de fortune",
+
+  "gui.tinkers_things.laminar_armor": "Armure laminaire",
+  "item.tinkers_things.laminar_helmet": "Casque laminaire",
+  "item.tinkers_things.laminar_chestplate": "Plastron laminaire",
+  "item.tinkers_things.laminar_leggings": "Jambières laminaires",
+  "item.tinkers_things.laminar_boots": "Bottes laminaires",
+  "item.tinkers_things.laminar_shield": "Bouclier laminaire",
+  "gui.tinkers_things.laminar_armor.description": "L'armure laminaire est hautement modifiable, bâtie sur un noyau solide. Sa défense magique est limitée, mais sa robustesse et son potentiel d'aptitudes compensent.",
+
+  "pattern.tinkers_things.shield_plating": "Plaque de bouclier",
+  "item.tinkers_things.shield_plating": "Plaque de bouclier",
+  "item.tinkers_things.shield_plating_dummy": "Plaque de bouclier en pierre",
+  "item.tinkers_things.shield_plating_gold_cast": "Moule en or - Plaque de bouclier",
+  "item.tinkers_things.shield_plating_sand_cast": "Moule en sable - Plaque de bouclier",
+  "item.tinkers_things.shield_plating_red_sand_cast": "Moule en sable rouge - Plaque de bouclier",
+
+  "material.tinkers_things.hematite": "Hématite",
+  "material.tinkers_things.hematite.flavor": "Pierre de sang, considérée comme un mythe par beaucoup et crainte par d'autres",
+  "material.tinkers_things.hematite.encyclopedia": "Donne deux emplacements d'amélioration supplémentaires, au prix de -3 dégâts aux morts-vivants et -6 de vitesse de minage sur minerais, bûches et terre",
+  "material.tinkers_things.hematite.armor": "Donne deux emplacements de défense supplémentaires, au prix de -5 % de protection générale",
+
+  "material.tinkers_things.veinline": "Veinline",
+  "material.tinkers_things.veinline.flavor": "Le sang continue de couler",
+  "material.tinkers_things.veinline.encyclopedia": "Donne un emplacement de défense supplémentaire",
+  "material.tinkers_things.veinline.ranged": "Donne un emplacement de défense supplémentaire",
+
+  "modifier.tinkers_things.hemodynamic": "Hémodynamique",
+  "modifier.tinkers_things.hemodynamic.flavor": "Le sang circule",
+  "modifier.tinkers_things.hemodynamic.description": "L'outil gagne deux emplacements d'amélioration supplémentaires, mais à quel prix ?",
+  "modifier.tinkers_things.hemodynamic.attack_damage": "Dégâts contre morts-vivants",
+  "modifier.tinkers_things.hemodynamic.mining_speed": "Vitesse hémodynamique",
+  "modifier.tinkers_things.hemophobic": "Hémophobe",
+  "modifier.tinkers_things.hemophobic.flavor": "Peur du liquide rouge",
+  "modifier.tinkers_things.hemophobic.description": "L'outil gagne un emplacement de défense supplémentaire",
+  "modifier.tinkers_things.hemosistance": "Hémorésistance",
+  "modifier.tinkers_things.hemosistance.flavor": "Le sang circule",
+  "modifier.tinkers_things.hemosistance.description": "L'outil gagne deux emplacements de défense supplémentaires, mais à quel prix ?",
+  "modifier.tinkers_things.hemosistance.resistance": "Résistance",
+
+  "material.tinkers_things.silky_cloth": "Tissu soyeux",
+  "material.tinkers_things.silky_cloth.flavor": "Si doux sur la peau !",
+  "material.tinkers_things.silky_cloth.armor": "Donne un emplacement d'aptitude supplémentaire, au prix de 3 points de vie max",
+  "modifier.tinkers_things.silkitoxin": "Silkitoxine",
+  "modifier.tinkers_things.silkitoxin.flavor": "Épuise la force",
+  "modifier.tinkers_things.silkitoxin.description": "L'outil gagne un emplacement d'aptitude supplémentaire, mais à quel prix ?"
+}

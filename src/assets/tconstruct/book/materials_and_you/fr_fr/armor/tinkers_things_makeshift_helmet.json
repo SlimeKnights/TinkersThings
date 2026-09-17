@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_things:makeshift_helmet",
+  "text": [
+    { "text": "Casque simple avec une protection comparable à celle des autres casques de début de partie." }
+  ],
+  "properties": [
+    "Faible durabilité",
+    "Faible protection",
+    "2 emplacements d'amélioration",
+    "1 emplacement de défense",
+    "0 emplacement d'aptitude"
+  ]
+}

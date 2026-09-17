@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tinkers_things:venom",
+  "text": [
+    {
+      "text": "Applique jusqu'à 5 secondes (plus 2,5 secondes par niveau) de poison à la cible du projectile. Le niveau de poison augmente tous les deux niveaux de modificateur."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Peut être appliqué par paliers",
+    "Maximum de 5 niveaux",
+    "Nécessite 1 emplacement d'amélioration par niveau"
+  ]
+}
