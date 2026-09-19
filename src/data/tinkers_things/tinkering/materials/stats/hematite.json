@@ -43,6 +43,9 @@
       "durability": 630,
       "knockback_resistance": 0.075,
       "toughness": 2.5
+    },
+    "tconstruct:shell": {
+      "repair_amount": 510
     }
   }
 }

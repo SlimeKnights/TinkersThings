@@ -103,8 +103,8 @@
 
   "material.tinkers_things.hematite": "Hematite",
   "material.tinkers_things.hematite.flavor": "Bloodstone, thought a myth by many and feared by more",
-  "material.tinkers_things.hematite.encyclopedia": "Grants two additional upgrade slots, at the cost of -3 undead damage and -6 mining speed against ores, logs, and dirt",
-  "material.tinkers_things.hematite.armor": "Grants two additional defense slots, at the cost of -5% protection against all sources",
+  "material.tinkers_things.hematite.encyclopedia.melee_harvest": "Grants two additional upgrade slots, at the cost of -3 undead damage and -6 mining speed against ores, logs, and dirt",
+  "material.tinkers_things.hematite.encyclopedia": "Grants two additional defense slots, at the cost of -5% protection against all sources",
   
   "modifier.tinkers_things.hemodynamic": "Hemodynamic",
   "modifier.tinkers_things.hemodynamic.flavor": "The blood moves",

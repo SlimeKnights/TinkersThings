@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:item_part_builder",
+  "cost": 4,
+  "material": "tinkers_things:hematite",
+  "pattern": "tconstruct:shell",
+  "pattern_item":  {
+    "tag": "tconstruct:patterns/default"
+  },
+  "result": {
+    "item": "tconstruct:shell",
+    "nbt": {
+      "Material": "tinkers_things:hematite"
+    }
+  }
+}
