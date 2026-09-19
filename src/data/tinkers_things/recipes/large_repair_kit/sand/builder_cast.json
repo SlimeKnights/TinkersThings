@@ -4,5 +4,6 @@
   "pattern_item": {
     "tag": "tconstruct:casts/sand"
   },
-  "result": "tinkers_things:large_repair_kit_sand_cast"
+  "result": "tinkers_things:large_repair_kit_sand_cast",
+  "title_key": "tconstruct:sand_cast"
 }

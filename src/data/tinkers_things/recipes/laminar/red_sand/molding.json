@@ -8,5 +8,6 @@
     },
     { "item": "tinkers_things:shield_plating_dummy" }
   ],
-  "result": "tinkers_things:shield_plating_red_sand_cast"
+  "result": "tinkers_things:shield_plating_red_sand_cast",
+  "title_key": "tconstruct:sand_cast"
 }
