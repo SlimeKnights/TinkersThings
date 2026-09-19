@@ -1,0 +1,134 @@
+{
+  "itemGroup.tinkers_things.tinkers_things": "Литейное дело: Вещи",
+  
+  "item.tinkers_things.chisel": "Зубило",
+  "item.tinkers_things.blowpipe": "Духовая трубка",
+  "modifier.tinkers_things.bambooshot": "Бамбуковый выстрел",
+  "modifier.tinkers_things.bambooshot.flavor": "Одурачивание!",
+  "modifier.tinkers_things.bambooshot.description": "Духовая трубка выращивает собственные стрелы для стрельбы.",
+  
+  "item.tinkers_things.shovel": "Лопата",
+  "item.tinkers_things.shovel.description": "Лопата — это базовый инструмент для копания. Она отправляет монстров в полёт и имеет больше возможностей для улучшений.",
+  
+  "item.tinkers_things.halberd": "Алебарда",
+  "item.tinkers_things.halberd.description": "Алебарда — это оружие для дальнего боя, предназначенное для нанесения мощных ударов противникам на большом расстоянии.",
+  "modifier.tinkers_things.range": "Большая дальность",
+  "modifier.tinkers_things.range.flavor": "Удлинённая рукоятка",
+  "modifier.tinkers_things.range.description": "Инструмент очень длинный, что позволяет атаковать монстров на большом расстоянии.",
+  
+  "item.tinkers_things.shortbow": "Короткий лук",
+  "item.tinkers_things.shortbow.description": "Короткий лук — это лёгкий лук. Он не такой прочный и точный, как его аналоги для стрельбы на дальние дистанции, но компенсирует это лёгкостью натяжения тетивы в движении.",
+  
+  "item.tinkers_things.amethyst_staff": "Аметистовый посох",
+  "item.tinkers_things.amethyst_staff.description": "Аметистовый посох — это вариант посоха, предоставляющий более широкий выбор опций для рукоятки для создания легко кастомизируемого инструмента.",
+
+  "__comment": "Блокрам — это слово, образованное путём слияния слов «блок» и «чакрам»",
+  "item.tinkers_things.blockram": "Блокрам",
+  "modifier.tinkers_things.hyperoptic": "Гипероптический",
+  "modifier.tinkers_things.hyperoptic.flavor": "Не для близкого расстояния!",
+  "modifier.tinkers_things.hyperoptic.description": "Неэффективен для добычи блоков при удержании, но эффективен при броске.",
+
+  "item.tinkers_things.sack": "Рюкзак",
+  
+  "pattern.tinkers_things.large_repair_kit": "Большой ремонтный комплект",
+  "item.tinkers_things.large_repair_kit": "Большой ремонтный комплект",
+  "item.tinkers_things.large_repair_kit_gold_cast": "Золотая литейная форма: Большой ремонтный комлект",
+  "item.tinkers_things.large_repair_kit_sand_cast": "Песочная литейная форма: Большой ремонтный комлект",
+  "item.tinkers_things.large_repair_kit_red_sand_cast": "Красная песочная литейная форма: Большой ремонтный комлект",
+  
+  
+  "modifier.tinkers_things.fortified": "Укреплённый",
+  "modifier.tinkers_things.fortified.flavor": "Крепкий, как медь!",
+  "modifier.tinkers_things.fortified.description": "Инструмент имеет усиленные хар-ки, уровень добычи и может быть отремонтирован с помощью меди.",
+  "modifier.tinkers_things.enhanced": "Улучшенный",
+  "modifier.tinkers_things.enhanced.flavor": "Блестящий!",
+  "modifier.tinkers_things.enhanced.description": "Восстанавливает слот для улучшения, потерянный из-за модификатора «Укреплённый».",
+  "modifier.tinkers_things.enhanced.requirements": "Модификатор «Улучшенный» сначала требует применения модификатора «Укреплённый».",
+  
+  
+  "modifier.tinkers_things.blinding": "Ослепление",
+  "modifier.tinkers_things.blinding.flavor": "Прямо в глаз!",
+  "modifier.tinkers_things.blinding.description": "Стрелы временно ослепляют цель.",
+  
+  "modifier.tinkers_things.tracing": "Отслеживание",
+  "modifier.tinkers_things.tracing.flavor": "Совершенно не светится!",
+  "modifier.tinkers_things.tracing.description": "Цель будет светиться несколько сек., что облегчит её отслеживание.",
+  
+  "modifier.tinkers_things.venom": "Яд",
+  "modifier.tinkers_things.venom.flavor": "Паучья месть!",
+  "modifier.tinkers_things.venom.description": "Цель будет отравлена, что со временем нанесёт урон.",
+  
+  "modifier.tinkers_things.weakness": "Слабость",
+  "modifier.tinkers_things.weakness.flavor": "Головокружение от стрелы!",
+  "modifier.tinkers_things.weakness.description": "Цель будет временно ослаблена, что уменьшит урон от атаки.",
+  
+  
+  "modifier.tinkers_things.stowing": "Укладка",
+  "modifier.tinkers_things.stowing.flavor": "Вмещает много вещей!",
+  "modifier.tinkers_things.stowing.description": "Инструмент получает доп. 9 слотов для хранения.",
+  
+  "modifier.tinkers_things.pouch": "Сумка",
+  "modifier.tinkers_things.pouch.flavor": "Вмещает несколько вещей!",
+  "modifier.tinkers_things.pouch.description": "Инструмент получает доп. 3 слота для хранения.",
+  
+  
+  "block.tinkers_things.hematite_block": "Гематитовый блок",
+  "item.tinkers_things.hematite": "Гематит",
+  "stat.tconstruct.harvest_tier.tinkers_things.hematite": "Гематит",
+  
+  "fluid_type.tinkers_things.molten_hematite": "Расплавленный гематит",
+  "block.tinkers_things.molten_hematite": "Расплавленный гематит",
+  "fluid.tinkers_things.molten_hematite": "Расплавленный гематит",
+  "fluid.tinkers_things.molten_hematite_flowing": "Текучий расплавленный гематит",
+  "item.tinkers_things.molten_hematite_bucket": "Ведро расплавленного гематита",
+  "fluid.tinkers_things.molten_hematite.fluid_effect": "Сжигает старое, а затем восстанавливает его, делая сильнее. Эффективно против нежити!",
+  
+  "item.tinkers_things.makeshift_helmet":     "Самодельный шлем",
+  "item.tinkers_things.makeshift_chestplate": "Самодельный нагрудник",
+  
+  "gui.tinkers_things.laminar_armor": "Ламинарная броня",
+  "item.tinkers_things.laminar_helmet":     "Ламинарный шлем",
+  "item.tinkers_things.laminar_chestplate": "Ламинарный нагрудник",
+  "item.tinkers_things.laminar_leggings":   "Ламинарные поножи",
+  "item.tinkers_things.laminar_boots":      "Ламинарные ботинки",
+  "item.tinkers_things.laminar_shield":     "Ламинарный щит",
+  "gui.tinkers_things.laminar_armor.description": "Ламинарная броня — это броня, которую можно легко модифицировать, она состоит из прочной основы. Хотя её магическая защита может быть ограничена, она компенсирует это грубой бронёй и потенциалом умений.",
+  
+  "pattern.tinkers_things.shield_plating": "Покрытие щита",
+  "item.tinkers_things.shield_plating": "Покрытие щита",
+  "item.tinkers_things.shield_plating_dummy": "Каменное покрытие щита",
+  "item.tinkers_things.shield_plating_gold_cast": "Золотая литейная форма: Покрытие щита",
+  "item.tinkers_things.shield_plating_sand_cast": "Песочная литейная форма: Покрытие щита",
+  "item.tinkers_things.shield_plating_red_sand_cast": "Красная песочная литейная форма: Покрытие щита",
+
+  "material.tinkers_things.hematite": "Гематит",
+  "material.tinkers_things.hematite.flavor": "Кровавый камень, который многие считают мифом, а ещё больше боятся.",
+  "material.tinkers_things.hematite.encyclopedia": "Даёт два доп. слота для улучшений, за счёт -3 урона от нежити и -6 скорости добычи руды, дерева и земли.",
+  "material.tinkers_things.hematite.armor": "Даёт два доп. слота для обороны за счёт -5% защиты от всех источников.",
+
+  "modifier.tinkers_things.hemodynamic": "Гемодинамический",
+  "modifier.tinkers_things.hemodynamic.flavor": "Кровь движется!",
+  "modifier.tinkers_things.hemodynamic.description": "Инструмент получает два доп. слота для улучшений, но какой ценой?",
+  "modifier.tinkers_things.hemodynamic.attack_damage": "Урон нежити",
+  "modifier.tinkers_things.hemodynamic.mining_speed": "Гемодинамическая скорость",
+  "modifier.tinkers_things.hemosistance": "Геморезистентность",
+  "modifier.tinkers_things.hemosistance.flavor": "Кровь движется!",
+  "modifier.tinkers_things.hemosistance.description": "Инструмент получает два доп. слота для обороны, но какой ценой?",
+  "modifier.tinkers_things.hemosistance.resistance": "Сопротивление",
+  
+  "material.tinkers_things.silky_cloth": "Шёлковая ткань",
+  "material.tinkers_things.silky_cloth.flavor": "Такая мягкая для вашей кожи!",
+  "material.tinkers_things.silky_cloth.armor": "Даёт доп. слот для умений за счёт уменьшения макс. запаса здоровья на 3.",
+  "material.tinkers_things.silky_cloth.ranged": "Дает +1 силы, но ограничивает угол полёта снаряда.",
+  "material.tinkers_things.silky_cloth.ammo": "Дает +0.5 силы, но ограничивает угол полёта снаряда.",
+  "modifier.tinkers_things.silkitoxin": "Шелкитоксин",
+  "modifier.tinkers_things.silkitoxin.flavor": "Истощение силы",
+  "modifier.tinkers_things.silkitoxin.description": "Инструмент получает доп. слоты для умений, но какой ценой?",
+  "modifier.tinkers_things.silkibound": "Шёлковая связь",
+  "modifier.tinkers_things.silkibound.flavor": "Направление силы",
+  "modifier.tinkers_things.silkibound.description": "Снаряд получает больше мощности, но какой ценой?",
+  
+  "material.tinkers_things.magmaskin": "Магматическая кожа",
+  "material.tinkers_things.magmaskin.flavor": "Обязательная шутка про кожу!",
+  "material.tinkers_things.magmaskin.encyclopedia": "Даёт +100% ко всем способам восстановления сверхслизи."
+}
