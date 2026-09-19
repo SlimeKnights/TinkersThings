@@ -1,0 +1,10 @@
+{
+  "modifier_id": "tinkers_things:enhanced",
+  "text": [
+    {
+      "text": "のみのアップグレードスロットが+1されます。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": ["1回のみ", "スロット不要", "適用するには「増強」が必要"]
+}

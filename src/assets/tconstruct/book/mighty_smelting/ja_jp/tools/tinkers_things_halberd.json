@@ -1,0 +1,5 @@
+{
+  "tool": "tinkers_things:halberd",
+  "text": [{ "text": "槍のクールな変形。" }],
+  "properties": ["間合いの長い", "遅い振りかぶり", "木には良くない"]
+}
