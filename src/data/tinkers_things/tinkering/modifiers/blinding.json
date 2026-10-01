@@ -2,8 +2,7 @@
   "level_display": "tconstruct:default",
   "modules": [
     {
-      "type": "tconstruct:mob_effect",
-      "entity": "mantle:any",
+      "type": "tconstruct:weapon_mob_effect",
       "effect": "minecraft:blindness",
       "level": { "flat": 1 },
       "time": { "flat": 60, "per_level": 20, "random": 20 }

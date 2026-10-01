@@ -2,8 +2,7 @@
   "level_display": "tconstruct:default",
   "modules": [
     {
-      "type": "tconstruct:mob_effect",
-      "entity": "mantle:any",
+      "type": "tconstruct:weapon_mob_effect",
       "effect": "minecraft:poison",
       "level": { "per_level": 0.5 },
       "time": { "flat": 100, "random": 50 }
