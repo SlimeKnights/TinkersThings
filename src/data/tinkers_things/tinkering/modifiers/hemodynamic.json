@@ -1,6 +1,5 @@
 {
   "level_display": "tconstruct:default",
-  "tooltip_display": "always",
   "priority": 60,
   "modules": [
     {

@@ -13,6 +13,5 @@
       "durability_usage": 1
     }
   ],
-  "priority": 40,
-  "tooltip_display": "always"
+  "priority": 40
 }
