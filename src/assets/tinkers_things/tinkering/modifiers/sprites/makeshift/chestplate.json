@@ -5,13 +5,13 @@
       "modifier": "tconstruct:embellishment",
       "model": {
         "type": "tconstruct:persistent_material",
-        "texture": "tinkers_things:item/tool/makeshift_armor/chesplate_modifiers/embellishment"
+        "texture": "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/embellishment"
       }
     },
     "__golden": {
       "type": "tconstruct:crafted",
       "modifier": "tconstruct:golden",
-      "model": "tinkers_things:item/tool/makeshift_armor/chesplate_modifiers/golden"
+      "model": "tinkers_things:item/tool/makeshift_armor/chestplate_modifiers/golden"
     }
   }
 }

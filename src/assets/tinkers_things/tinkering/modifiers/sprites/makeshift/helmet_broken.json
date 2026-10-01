@@ -5,13 +5,13 @@
       "modifier": "tconstruct:embellishment",
       "model": {
         "type": "tconstruct:persistent_material",
-        "texture": "tinkers_things:item/tool/makeshift_armor/modifiers/helmet/embellishment"
+        "texture": "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/embellishment_broken"
       }
     },
     "__golden": {
       "type": "tconstruct:crafted",
       "modifier": "tconstruct:golden",
-      "model": "tinkers_things:item/tool/makeshift_armor/modifiers/helmet/golden"
+      "model": "tinkers_things:item/tool/makeshift_armor/helmet_modifiers/golden_broken"
     }
   }
 }
