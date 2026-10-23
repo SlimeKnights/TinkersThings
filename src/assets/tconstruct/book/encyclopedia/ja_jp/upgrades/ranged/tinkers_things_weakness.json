@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tinkers_things:weakness",
+  "text": [
+    {
+      "text": "矢が当たった対象を最大(3＋レベル×3)秒間弱化状態にします。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "段階的に適用できる",
+    "最大4レベル",
+    "レベルごとにアップグレードスロットが1つ必要"
+  ]
+}

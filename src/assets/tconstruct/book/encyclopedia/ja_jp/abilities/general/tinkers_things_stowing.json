@@ -1,0 +1,10 @@
+{
+  "modifier_id": "tinkers_things:stowing",
+  "text": [
+    {
+      "text": "絹のような袋に9つのスロットを追加します。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": ["最大レベルなし", "レベルごとにアビリティスロットが1つ必要"]
+}
